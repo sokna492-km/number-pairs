@@ -1,0 +1,747 @@
+[
+  {
+    "key": "JOIST/a11y.goToScreenPattern",
+    "en": "‪Go to {{name}} Screen.‬",
+    "km": "‪ទៅកាន់ផ្ទាំង {{name}}។‬"
+  },
+  {
+    "key": "JOIST/a11y.home",
+    "en": "‪Home‬",
+    "km": "‪ទំព័រដើម‬"
+  },
+  {
+    "key": "JOIST/a11y.homeScreenButtonDetailsPattern",
+    "en": "‪On {{name}}, {{screenHint}}‬",
+    "km": "‪On {{name}}, {{screenHint}}‬"
+  },
+  {
+    "key": "JOIST/a11y.homeScreenDescriptionPattern",
+    "en": "‪Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.‬",
+    "km": "‪Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.‬"
+  },
+  {
+    "key": "JOIST/a11y.homeScreenHint",
+    "en": "‪Choose a screen to start exploring.‬",
+    "km": "‪Choose a screen to start exploring.‬"
+  },
+  {
+    "key": "JOIST/a11y.homeScreenIntroPattern",
+    "en": "‪{{description}} {{hint}}‬",
+    "km": "‪{{description}} {{hint}}‬"
+  },
+  {
+    "key": "JOIST/a11y.inControlArea",
+    "en": "‪In Control Area:‬",
+    "km": "‪In Control Area:‬"
+  },
+  {
+    "key": "JOIST/a11y.inPlayArea",
+    "en": "‪In Play Area:‬",
+    "km": "‪In Play Area:‬"
+  },
+  {
+    "key": "JOIST/a11y.keyboardHelp.keyboardShortcuts",
+    "en": "‪Keyboard Shortcuts‬",
+    "km": "‪ផ្លូវកាត់ក្ដារចុច‬"
+  },
+  {
+    "key": "JOIST/a11y.keyboardHelp.tabToGetStarted.accessibleHelpText",
+    "en": "‪Use Tab to find sim actions, cursor keys to read details.‬",
+    "km": "‪Use Tab to find sim actions, cursor keys to read details.‬"
+  },
+  {
+    "key": "JOIST/a11y.keyboardHelp.tabToGetStarted.readingBlockNameResponse",
+    "en": "‪Tab to get started.‬",
+    "km": "‪Tab to get started.‬"
+  },
+  {
+    "key": "JOIST/a11y.phetMenu",
+    "en": "‪PhET Menu‬",
+    "km": "‪PhET Menu‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOff",
+    "en": "‪Extra Sounds off.‬",
+    "km": "‪Extra Sounds off.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOn",
+    "en": "‪Extra Sounds on.‬",
+    "km": "‪Extra Sounds on.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.sounds.soundsOff",
+    "en": "‪Sounds off.‬",
+    "km": "‪Sounds off.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.sounds.soundsOn",
+    "en": "‪Sounds on.‬",
+    "km": "‪Sounds on.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.collapsedAlert",
+    "en": "‪collapsed‬",
+    "km": "‪collapsed‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.expandedAlert",
+    "en": "‪expanded‬",
+    "km": "‪expanded‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.pitch.title",
+    "en": "‪Pitch‬",
+    "km": "‪Pitch‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.labelString",
+    "en": "‪Voice Rate‬",
+    "km": "‪Voice Rate‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.aboveNormal",
+    "en": "‪above normal range‬",
+    "km": "‪above normal range‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.high",
+    "en": "‪in high range‬",
+    "km": "‪in high range‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.low",
+    "en": "‪in low range‬",
+    "km": "‪in low range‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.normal",
+    "en": "‪in normal range‬",
+    "km": "‪in normal range‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.voiceRateNormal",
+    "en": "‪normal‬",
+    "km": "‪normal‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.title",
+    "en": "‪Rate‬",
+    "km": "‪Rate‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.title",
+    "en": "‪Customize Voice‬",
+    "km": "‪Customize Voice‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.variablesPattern",
+    "en": "‪{{value}}x‬",
+    "km": "‪{{value}}x‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.voice.noVoicesAvailable",
+    "en": "‪No voices available‬",
+    "km": "‪No voices available‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.voice.title",
+    "en": "‪Voice‬",
+    "km": "‪Voice‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.voice.titlePattern",
+    "en": "‪Voice: {{value}}‬",
+    "km": "‪Voice: {{value}}‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.writtenVariablesPattern",
+    "en": "‪{{value}} times‬",
+    "km": "‪{{value}} times‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.disabledAlert",
+    "en": "‪Surrounding context changes muted.‬",
+    "km": "‪Surrounding context changes muted.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.enabledAlert",
+    "en": "‪Voicing surrounding context changes.‬",
+    "km": "‪Voicing surrounding context changes.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.label",
+    "en": "‪Voice surrounding context changes‬",
+    "km": "‪Voice surrounding context changes‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.description",
+    "en": "‪Choose details you want voiced as you interact.‬",
+    "km": "‪Choose details you want voiced as you interact.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.disabledAlert",
+    "en": "‪Extra help muted.‬",
+    "km": "‪Extra help muted.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.enabledAlert",
+    "en": "‪Voicing extra help.‬",
+    "km": "‪Voicing extra help.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.label",
+    "en": "‪Voice helpful hints‬",
+    "km": "‪Voice helpful hints‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.disabledAlert",
+    "en": "‪Object details and changes muted.‬",
+    "km": "‪Object details and changes muted.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.enabledAlert",
+    "en": "‪Voicing object details and changes.‬",
+    "km": "‪Voicing object details and changes.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.label",
+    "en": "‪Voice object details and changes‬",
+    "km": "‪Voice object details and changes‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.title",
+    "en": "‪Sim Voicing Options‬",
+    "km": "‪Sim Voicing Options‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.title",
+    "en": "‪Voicing‬",
+    "km": "‪Voicing‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingOff",
+    "en": "‪Voicing off.‬",
+    "km": "‪Voicing off.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingOffOnlyAvailableInEnglish",
+    "en": "‪Voicing off. Only available in English.‬",
+    "km": "‪Voicing off. Only available in English.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingOn",
+    "en": "‪Voicing on.‬",
+    "km": "‪Voicing on.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingToolbar.title",
+    "en": "‪Toolbar‬",
+    "km": "‪Toolbar‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarAdded",
+    "en": "‪Toolbar added to sim.‬",
+    "km": "‪Toolbar added to sim.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarRemoved",
+    "en": "‪Toolbar removed.‬",
+    "km": "‪Toolbar removed.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.input.gestureControl.disabledAlert",
+    "en": "‪Custom taps and swipes off.‬",
+    "km": "‪Custom taps and swipes off.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.input.gestureControl.enabledAlert",
+    "en": "‪Custom taps and swipes on.‬",
+    "km": "‪Custom taps and swipes on.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.labelledDescriptionPattern",
+    "en": "‪{{label}}, {{description}}‬",
+    "km": "‪{{label}}, {{description}}‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.localization.languageSelection.languageChangeResponsePattern",
+    "en": "‪On-screen text now in {{language}}.‬",
+    "km": "‪On-screen text now in {{language}}.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.tabResponsePattern",
+    "en": "‪Preferences, {{title}} Tab‬",
+    "km": "‪ការកំណត់, {{title}} Tab‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.visual.interactiveHighlights.disabledAlert",
+    "en": "‪Highlights off for mouse and touch.‬",
+    "km": "‪Highlights off for mouse and touch.‬"
+  },
+  {
+    "key": "JOIST/a11y.preferences.tabs.visual.interactiveHighlights.enabledAlert",
+    "en": "‪Highlights on for all input.‬",
+    "km": "‪Highlights on for all input.‬"
+  },
+  {
+    "key": "JOIST/a11y.screenNamePattern",
+    "en": "‪{{name}} Screen‬",
+    "km": "‪{{name}} ផ្ទាំង‬"
+  },
+  {
+    "key": "JOIST/a11y.screenSimPattern",
+    "en": "‪{{screenName}}, {{simName}}‬",
+    "km": "‪{{screenName}}, {{simName}}‬"
+  },
+  {
+    "key": "JOIST/a11y.simResources",
+    "en": "‪Sim Resources‬",
+    "km": "‪Sim Resources‬"
+  },
+  {
+    "key": "JOIST/a11y.simScreen",
+    "en": "‪Sim Screen‬",
+    "km": "‪Sim ផ្ទាំង‬"
+  },
+  {
+    "key": "JOIST/a11y.simScreens",
+    "en": "‪Sim Screens‬",
+    "km": "‪Sim Screens‬"
+  },
+  {
+    "key": "JOIST/a11y.soundToggle.alert.simSoundOff",
+    "en": "‪Audio Features off.‬",
+    "km": "‪Audio Features off.‬"
+  },
+  {
+    "key": "JOIST/a11y.soundToggle.alert.simSoundOn",
+    "en": "‪Audio Features on.‬",
+    "km": "‪Audio Features on.‬"
+  },
+  {
+    "key": "JOIST/a11y.soundToggle.label",
+    "en": "‪All Audio‬",
+    "km": "‪All Audio‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.closeToolbar",
+    "en": "‪Close Toolbar‬",
+    "km": "‪បិទ Toolbar‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.hideToolbar",
+    "en": "‪Hide Toolbar‬",
+    "km": "‪Hide Toolbar‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.openToolbar",
+    "en": "‪Open Toolbar‬",
+    "km": "‪Open Toolbar‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.showToolbar",
+    "en": "‪Show Toolbar‬",
+    "km": "‪Show Toolbar‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.title",
+    "en": "‪Toolbar‬",
+    "km": "‪Toolbar‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.toolbarHidden",
+    "en": "‪Toolbar hidden.‬",
+    "km": "‪Toolbar hidden.‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.toolbarShown",
+    "en": "‪Toolbar Shown.‬",
+    "km": "‪Toolbar Shown.‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.detailsLabel",
+    "en": "‪Details‬",
+    "km": "‪Details‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.hintLabel",
+    "en": "‪Hint‬",
+    "km": "‪Hint‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.overviewLabel",
+    "en": "‪Overview‬",
+    "km": "‪Overview‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.playDetailsLabel",
+    "en": "‪Play Details‬",
+    "km": "‪Play Details‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.playHintLabel",
+    "en": "‪Play Hint‬",
+    "km": "‪Play Hint‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.playOverviewLabel",
+    "en": "‪Play Overview‬",
+    "km": "‪Play Overview‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.quickInfo",
+    "en": "‪Quick Info‬",
+    "km": "‪Quick Info‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.simVoicingOffAlert",
+    "en": "‪Sim Voicing off.‬",
+    "km": "‪Sim Voicing off.‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.simVoicingOnAlert",
+    "en": "‪Sim Voicing on.‬",
+    "km": "‪Sim Voicing on.‬"
+  },
+  {
+    "key": "JOIST/a11y.voicingToolbar.voicing.title",
+    "en": "‪Sim Voicing‬",
+    "km": "‪Sim Voicing‬"
+  },
+  {
+    "key": "JOIST/credits.contributors",
+    "en": "‪Contributors: {0}‬",
+    "km": "‪Contributors: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.graphicArts",
+    "en": "‪Graphic Arts: {0}‬",
+    "km": "‪Graphic Arts: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.leadDesign",
+    "en": "‪Lead Design: {0}‬",
+    "km": "‪Lead Design: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.qualityAssurance",
+    "en": "‪Quality Assurance: {0}‬",
+    "km": "‪Quality Assurance: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.softwareDevelopment",
+    "en": "‪Software Development: {0}‬",
+    "km": "‪Software Development: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.soundDesign",
+    "en": "‪Sound Design: {0}‬",
+    "km": "‪Sound Design: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.team",
+    "en": "‪Team: {0}‬",
+    "km": "‪Team: {0}‬"
+  },
+  {
+    "key": "JOIST/credits.thanks",
+    "en": "‪Thanks‬",
+    "km": "‪Thanks‬"
+  },
+  {
+    "key": "JOIST/credits.title",
+    "en": "‪Credits‬",
+    "km": "‪ក្រេឌីត‬"
+  },
+  {
+    "key": "JOIST/donateToPhet",
+    "en": "‪Donate to PhET‬",
+    "km": "‪បរិច្ចាគដល់ PhET‬"
+  },
+  {
+    "key": "JOIST/keyboardShortcuts.title",
+    "en": "‪Keyboard Shortcuts‬",
+    "km": "‪Keyboard Shortcuts‬"
+  },
+  {
+    "key": "JOIST/keyboardShortcuts.toGetStarted",
+    "en": "‪to get started‬",
+    "km": "‪to get started‬"
+  },
+  {
+    "key": "JOIST/license.title",
+    "en": "‪License‬",
+    "km": "‪អាជ្ញាប័ណ្ណ‬"
+  },
+  {
+    "key": "JOIST/menuItem.about",
+    "en": "‪About…‬",
+    "km": "‪អំពី…‬"
+  },
+  {
+    "key": "JOIST/menuItem.fullscreen",
+    "en": "‪Full Screen‬",
+    "km": "‪ពេញអេក្រង់‬"
+  },
+  {
+    "key": "JOIST/menuItem.getUpdate",
+    "en": "‪Check for Updates…‬",
+    "km": "‪ពិនិត្យមើលកំណែថ្មី…‬"
+  },
+  {
+    "key": "JOIST/menuItem.phetWebsite",
+    "en": "‪PhET Website…‬",
+    "km": "‪គេហទំព័រ PhET…‬"
+  },
+  {
+    "key": "JOIST/menuItem.reportAProblem",
+    "en": "‪Report a Problem…‬",
+    "km": "‪រាយការណ៍បញ្ហា…‬"
+  },
+  {
+    "key": "JOIST/menuItem.screenshot",
+    "en": "‪Screenshot‬",
+    "km": "‪ថតរូបអេក្រង់‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.audioFeatures.title",
+    "en": "‪Audio Features‬",
+    "km": "‪Audio Features‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.sounds.description",
+    "en": "‪Play sonifications and sound effects as you interact.‬",
+    "km": "‪Play sonifications and sound effects as you interact.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.sounds.extraSounds.description",
+    "en": "‪Play additional sound that may be helpful for some learners.‬",
+    "km": "‪Play additional sound that may be helpful for some learners.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.sounds.extraSounds.title",
+    "en": "‪Extra Sounds‬",
+    "km": "‪សំឡេងបន្ថែម‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.sounds.title",
+    "en": "‪Sounds‬",
+    "km": "‪សំឡេង‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.title",
+    "en": "‪Audio‬",
+    "km": "‪សំឡេង‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.voicing.description",
+    "en": "‪Voice and highlight content as you interact.‬",
+    "km": "‪Voice and highlight content as you interact.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.audio.voicing.titleEnglishOnly",
+    "en": "‪Voicing (English Only)‬",
+    "km": "‪Voicing (English Only)‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.general.accessibilityIntro",
+    "en": "‪We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.‬",
+    "km": "‪We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.general.moreAccessibility",
+    "en": "‪Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.‬",
+    "km": "‪Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.input.title",
+    "en": "‪Input‬",
+    "km": "‪ការបញ្ចូល‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.languageSelection.description",
+    "en": "‪Change language to translate on-screen text. Additional descriptions, when present, remain in English.‬",
+    "km": "‪Change language to translate on-screen text. Additional descriptions, when present, remain in English.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.languageSelection.title",
+    "en": "‪Languages‬",
+    "km": "‪ភាសា‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.africa",
+    "en": "‪Africa‬",
+    "km": "‪Africa‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.africaModest",
+    "en": "‪Africa (Modest)‬",
+    "km": "‪Africa (Modest)‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.asia",
+    "en": "‪Asia‬",
+    "km": "‪Asia‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.description",
+    "en": "‪Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.‬",
+    "km": "‪Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.latinAmerica",
+    "en": "‪Latin America‬",
+    "km": "‪Latin America‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.oceania",
+    "en": "‪Oceania‬",
+    "km": "‪Oceania‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.random",
+    "en": "‪Random‬",
+    "km": "‪Random‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.title",
+    "en": "‪Region and Culture‬",
+    "km": "‪Region and Culture‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica",
+    "en": "‪United States of America‬",
+    "km": "‪United States of America‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.localization.title",
+    "en": "‪Localization‬",
+    "km": "‪ការកំណត់ភាសា‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.overview.title",
+    "en": "‪Overview‬",
+    "km": "‪Overview‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.simulation.title",
+    "en": "‪Simulation‬",
+    "km": "‪Simulation‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.visual.interactiveHighlights",
+    "en": "‪Interactive Highlights‬",
+    "km": "‪Interactive Highlights‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.visual.interactiveHighlightsDescription",
+    "en": "‪Add visual highlights for mouse and touch as you interact.‬",
+    "km": "‪Add visual highlights for mouse and touch as you interact.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.visual.projectorModeDescription",
+    "en": "‪Increase color contrast for better visibility in classrooms.‬",
+    "km": "‪Increase color contrast for better visibility in classrooms.‬"
+  },
+  {
+    "key": "JOIST/preferences.tabs.visual.title",
+    "en": "‪Visual‬",
+    "km": "‪ទិដ្ឋភាព‬"
+  },
+  {
+    "key": "JOIST/preferences.title",
+    "en": "‪Preferences‬",
+    "km": "‪ការកំណត់‬"
+  },
+  {
+    "key": "JOIST/privacyPolicy",
+    "en": "‪Privacy Policy‬",
+    "km": "‪គោលការណ៍ឯកជនភាព‬"
+  },
+  {
+    "key": "JOIST/projectorMode",
+    "en": "‪Projector Mode‬",
+    "km": "‪ម៉ូដបញ្ចាំងស្លាយ‬"
+  },
+  {
+    "key": "JOIST/queryParametersWarningDialog.invalidQueryParameters",
+    "en": "‪Invalid Query Parameters‬",
+    "km": "‪Invalid Query Parameters‬"
+  },
+  {
+    "key": "JOIST/queryParametersWarningDialog.oneOrMoreQueryParameters",
+    "en": "‪One or more of these query parameters have<br>invalid values:‬",
+    "km": "‪One or more of these query parameters have<br>invalid values:‬"
+  },
+  {
+    "key": "JOIST/queryParametersWarningDialog.theSimulationWillStart",
+    "en": "‪The simulation will start with default values for<br>those query parameters.‬",
+    "km": "‪The simulation will start with default values for<br>those query parameters.‬"
+  },
+  {
+    "key": "JOIST/simTitleWithScreenNamePattern",
+    "en": "‪{{simName}} — {{screenName}}‬",
+    "km": "‪{{simName}} — {{screenName}}‬"
+  },
+  {
+    "key": "JOIST/termsPrivacyAndLicensing",
+    "en": "‪Terms, Privacy & Licensing‬",
+    "km": "‪លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាប័ណ្ណ‬"
+  },
+  {
+    "key": "JOIST/thirdParty.credits.link",
+    "en": "‪Third-party Credits‬",
+    "km": "‪Third-party Credits‬"
+  },
+  {
+    "key": "JOIST/translation.credits.link",
+    "en": "‪Translation Credits‬",
+    "km": "‪Translation Credits‬"
+  },
+  {
+    "key": "JOIST/updates.checking",
+    "en": "‪Checking for updates…‬",
+    "km": "‪Checking for updates…‬"
+  },
+  {
+    "key": "JOIST/updates.getUpdate",
+    "en": "‪Get Update…‬",
+    "km": "‪Get Update…‬"
+  },
+  {
+    "key": "JOIST/updates.newVersionAvailable",
+    "en": "‪There is a new version available: {0}.‬",
+    "km": "‪There is a new version available: {0}.‬"
+  },
+  {
+    "key": "JOIST/updates.noThanks",
+    "en": "‪No Thanks‬",
+    "km": "‪No Thanks‬"
+  },
+  {
+    "key": "JOIST/updates.offline",
+    "en": "‪Unable to check for updates.‬",
+    "km": "‪Unable to check for updates.‬"
+  },
+  {
+    "key": "JOIST/updates.outOfDate",
+    "en": "‪New version available‬",
+    "km": "‪New version available‬"
+  },
+  {
+    "key": "JOIST/updates.upToDate",
+    "en": "‪This simulation is up to date.‬",
+    "km": "‪This simulation is up to date.‬"
+  },
+  {
+    "key": "JOIST/updates.yourCurrentVersion",
+    "en": "‪Your current version is: {0}.‬",
+    "km": "‪Your current version is: {0}.‬"
+  },
+  {
+    "key": "JOIST/versionPattern",
+    "en": "‪version {0}‬",
+    "km": "‪កំណែ {0}‬"
+  }
+]

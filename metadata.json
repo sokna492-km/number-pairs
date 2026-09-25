@@ -1,0 +1,8 @@
+{
+  "name": "Number Pairs",
+  "description": "Educational simulation exploring number decomposition and pairs to 10 and 20 (ការផ្គូផ្គងចំនួន).",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}

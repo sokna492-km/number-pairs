@@ -1,0 +1,764 @@
+{
+  "a11y.apples.accessibleName": {
+    "value": "ផ្លែប៉ោម"
+  },
+  "a11y.apples.singularAccessibleName": {
+    "value": "ផ្លែប៉ោម"
+  },
+  "a11y.beads.accessibleName": {
+    "value": "អង្កាំ"
+  },
+  "a11y.beads.crossedDividerContextResponse": {
+    "value": "{ $side ->\n  [ឆ្វេង] bead now ពណ៌លឿង on ឆ្វេង\n  *[ស្តាំ] bead now ពណ៌ខៀវ on ស្តាំ\n}"
+  },
+  "a11y.beads.leftAddendBead": {
+    "value": "អង្កាំពណ៌លឿង"
+  },
+  "a11y.beads.objectResponse": {
+    "value": "{ $grabbedOrReleased ->\n  [grabbed] { $side ->\n              [ឆ្វេង] grabbed, ឆ្វេង of divider\n              *[ស្តាំ] grabbed, ស្តាំ of divider\n            }\n  *[released] { $side ->\n                [ឆ្វេង] released, ឆ្វេង of divider\n                *[ស្តាំ] released, ស្តាំ of divider\n              }\n}"
+  },
+  "a11y.beads.rightAddendBead": {
+    "value": "អង្កាំពណ៌ខៀវ"
+  },
+  "a11y.beads.singularAccessibleName": {
+    "value": "អង្កាំ"
+  },
+  "a11y.butterflies.accessibleName": {
+    "value": "មេអំបៅ"
+  },
+  "a11y.butterflies.singularAccessibleName": {
+    "value": "មេអំបៅ"
+  },
+  "a11y.controls.addendVisibleButton.accessibleContextResponseOff": {
+    "value": "contents visible"
+  },
+  "a11y.controls.addendVisibleButton.accessibleContextResponseOn": {
+    "value": "contents hidden"
+  },
+  "a11y.controls.addendVisibleButton.accessibleHelpTextPattern": {
+    "value": "Show or hide { $addend } counting area and { $addend } addend in { a11y_numberBondOrBarModelLowercase }."
+  },
+  "a11y.controls.addendVisibleButton.accessibleNamePattern": {
+    "value": "{ $addend } Counting Area Visibility"
+  },
+  "a11y.controls.addendsCheckbox.accessibleContextResponseChecked": {
+    "value": "Addends are { $leftAddend } and { $rightAddend }, labeled on number line."
+  },
+  "a11y.controls.addendsCheckbox.accessibleContextResponseUnchecked": {
+    "value": "Addends hidden."
+  },
+  "a11y.controls.addendsCheckbox.accessibleHelpText": {
+    "value": "Show or hide addend values."
+  },
+  "a11y.controls.bothAddendsVisibleButton.accessibleHelpTextPattern": {
+    "value": "Show or hide counting area and both addends in { a11y_numberBondOrBarModelLowercase }."
+  },
+  "a11y.controls.bothAddendsVisibleButton.accessibleName": {
+    "value": "ការបង្ហាញតំបន់រាប់"
+  },
+  "a11y.controls.commutativeButton.accessibleContextResponse": {
+    "value": "{ $representationType ->\n  [attribute] { $leftAddend } ពណ៌លឿង, { $rightAddend } ពណ៌ខៀវ.\n  [numberLine] { $leftAddend } in ឆ្វេង ពណ៌លឿង section, { $rightAddend } in ស្តាំ ពណ៌ខៀវ section.\n  *[other] { $leftAddend } on ឆ្វេង, { $rightAddend } on ស្តាំ.\n}"
+  },
+  "a11y.controls.commutativeButton.accessibleHelpText": {
+    "value": "ផ្លាស់ប្តូរទីតាំងរវាងតួបូកឆ្វេង និងស្តាំ។"
+  },
+  "a11y.controls.commutativeButton.accessibleName": {
+    "value": "ប្ដូរទីតាំងតួបូក"
+  },
+  "a11y.controls.countFromZeroSwitch.accessibleHelpText": {
+    "value": "Choose where to start counting. Count on from first addend to get សរុប or count to first addend starting at zero."
+  },
+  "a11y.controls.countFromZeroSwitch.valueAAccessibleName": {
+    "value": "រាប់បន្ត"
+  },
+  "a11y.controls.countFromZeroSwitch.valueBAccessibleName": {
+    "value": "រាប់ពីសូន្យ"
+  },
+  "a11y.controls.countingAreaSupports.accessibleHeading": {
+    "value": "ឧបករណ៍ជំនួយតំបន់រាប់"
+  },
+  "a11y.controls.countingObjectControl.accessibleHeading": {
+    "value": "ឧបករណ៍បញ្ជាតួបូក"
+  },
+  "a11y.controls.countingObjectControl.accessibleHelpText": {
+    "value": "{ $representationType ->\n  [kittens] Add or remove one { $color } kitten.\n  [beads] Add or remove one { $color } bead.\n  *[other] Add or remove one from { $addend } section.\n}"
+  },
+  "a11y.controls.countingObjectControl.accessibleName": {
+    "value": "{ $representationType ->\n  [kittens] { $color } កូនឆ្មា\n  [beads] { $color } អង្កាំ\n  *[other] { $color } Section\n}"
+  },
+  "a11y.controls.countingObjectControl.decrementContextResponse": {
+    "value": "{ $representationType ->\n  [kittens] One { $color } kitten removed from counting area.\n  [beads] One { $color } bead removed from counting area.\n  *[other] One removed from { $addend } { $color } section of សរុប.\n}"
+  },
+  "a11y.controls.countingObjectControl.incrementContextResponse": {
+    "value": "{ $representationType ->\n  [kittens] One { $color } kitten added to counting area.\n  [beads] One { $color } bead added to counting area.\n  *[other] One added to { $addend } { $color } section of សរុប.\n}"
+  },
+  "a11y.controls.localeSwitch.accessibleHelpText": {
+    "value": "Choose between two languages to hear and read phrase."
+  },
+  "a11y.controls.numberModel.accessibleHelpText": {
+    "value": "Represent decomposition as a { a11y_numberBondOrBarModelLowercase }."
+  },
+  "a11y.controls.numberModel.barModelAccessibleParagraph": {
+    "value": "{ $orientation ->\n  [totalOnTop] Two matching rectangles are stacked on top of each other. Top rectangle is not split and tells សរុប number of objects, bottom rectangle is split by addends, showing two sections that adjust based on value of addends.\n  *[totalOnBottom] Two matching rectangles are stacked on top of each other. Top rectangle is split by addends, showing two sections that adjust based on value of addends. Bottom rectangle is not split and tells the sum of two addends, also called the សរុប.\n}"
+  },
+  "a11y.controls.numberModel.barModelStateAccessibleParagraph": {
+    "value": "{ $orientation ->\n  [totalOnTop] ស្តាំ now, { $សរុប } in top rectangle, { $ឆ្វេង } and { $ស្តាំ } in bottom rectangle, split into { $proportions } sections.\n  *[totalOnBottom] ស្តាំ now, { $ឆ្វេង } and { $ស្តាំ } top rectangle, split into { $proportions } sections, { $សរុប } in bottom rectangle.\n}"
+  },
+  "a11y.controls.numberModel.equal": {
+    "value": "equal"
+  },
+  "a11y.controls.numberModel.largerAndSmaller": {
+    "value": "larger and smaller"
+  },
+  "a11y.controls.numberModel.leftAddendMissing": {
+    "value": "a mystery number"
+  },
+  "a11y.controls.numberModel.numberBondAccessibleParagraph": {
+    "value": "{ $orientation ->\n  [totalOnBottom] Number bond has three circles arranged with two on top and one underneath like a triangle. Top circles tell the addends. ឆ្វេង circle is ឆ្វេង addend, ស្តាំ circle is ស្តាំ addend. Bottom circle is សរុប.\n  *[totalOnTop] Number bond has three circles arranged with one circle on top and two underneath like a triangle. Bottom circles tell the addends. Top circle tells សរុប number of objects, ឆ្វេង circle is ឆ្វេង addend, ស្តាំ circle is ស្តាំ addend.\n}"
+  },
+  "a11y.controls.numberModel.numberBondStateAccessibleParagraph": {
+    "value": "{ $orientation ->\n  [totalOnTop] ស្តាំ now, { $សរុប } in top circle, { $ឆ្វេង } in ឆ្វេង circle, { $ស្តាំ } in ស្តាំ circle.\n  *[totalOnBottom] ស្តាំ now, { $ឆ្វេង } in ឆ្វេង circle, { $ស្តាំ } in ស្តាំ circle, { $សរុប } in bottom circle.\n}"
+  },
+  "a11y.controls.numberModel.rightAddendMissing": {
+    "value": "another mystery number"
+  },
+  "a11y.controls.numberModel.smallerAndLarger": {
+    "value": "smaller and larger"
+  },
+  "a11y.controls.numberModel.totalMissing": {
+    "value": "a mystery សរុប"
+  },
+  "a11y.controls.phrase.accessibleHelpTextCollapsed": {
+    "value": "{ $screenType ->\n  [sumScreen] ឃ្លាចំនួន describes the sum equation.\n  *[other] ឃ្លាចំនួន tells how សរុប is decomposed.\n}"
+  },
+  "a11y.controls.speechSynthesis.accessibleHelpText": {
+    "value": "ស្តាប់ការអានឃ្លាដោយសំឡេង។"
+  },
+  "a11y.controls.speechSynthesis.accessibleName": {
+    "value": "ស្តាប់ការអានឃ្លា"
+  },
+  "a11y.controls.speechSynthesis.noVoiceAccessibleName": {
+    "value": "No Voice Found"
+  },
+  "a11y.controls.speechSynthesis.noVoiceAccessibleParagraph": {
+    "value": "There is no voice found on this device for the selected language. Your device may support downloading additional voices for this language."
+  },
+  "a11y.controls.tenFrameButton.accessibleContextResponse": {
+    "value": "{ $representationType ->\n  [kittens] { $distribution }, kittens in rows.\n  [beads] Divider separates groups by color.\n  *[other] ឆ្វេង and ស្តាំ counting areas organized into rows.\n}"
+  },
+  "a11y.controls.tenFrameButton.accessibleContextResponseGameCombined": {
+    "value": "One array with combined colors, kittens in rows."
+  },
+  "a11y.controls.tenFrameButton.accessibleContextResponseGameSeparate": {
+    "value": "Two arrays separated by color, kittens in rows."
+  },
+  "a11y.controls.tenFrameButton.accessibleHelpText": {
+    "value": "បង្កើតក្រុម ៥ នៃ {{representation}}។"
+  },
+  "a11y.controls.tenFrameButton.accessibleName": {
+    "value": "រៀបចំ {{representation}}"
+  },
+  "a11y.controls.tenFrameButton.decompositionDistribution": {
+    "value": "Two arrays separated by color"
+  },
+  "a11y.controls.tenFrameButton.sumDistribution": {
+    "value": "One array combines color"
+  },
+  "a11y.controls.tickNumbersCheckbox.accessibleContextResponseChecked": {
+    "value": "Tick marks labeled."
+  },
+  "a11y.controls.tickNumbersCheckbox.accessibleContextResponseUnchecked": {
+    "value": "Tick mark not labeled."
+  },
+  "a11y.controls.tickNumbersCheckbox.accessibleHelpText": {
+    "value": "Show or hide tick mark numbers on number line."
+  },
+  "a11y.controls.totalCheckbox.accessibleContextResponseChecked": {
+    "value": "សរុប shown."
+  },
+  "a11y.controls.totalCheckbox.accessibleContextResponseUnchecked": {
+    "value": "សរុប hidden."
+  },
+  "a11y.controls.totalCheckbox.accessibleHelpText": {
+    "value": "Show or hide sum of addends."
+  },
+  "a11y.controls.totalJumpCheckbox.accessibleContextResponseChecked": {
+    "value": "សរុប jump of { $សរុប } shown and labeled."
+  },
+  "a11y.controls.totalJumpCheckbox.accessibleContextResponseUnchecked": {
+    "value": "សរុប jump not shown."
+  },
+  "a11y.controls.totalJumpCheckbox.accessibleHelpText": {
+    "value": "Show or hide សរុប jump on number line."
+  },
+  "a11y.countingArea.accessibleHeading": {
+    "value": "តំបន់រាប់"
+  },
+  "a11y.countingArea.addendValueHidden": {
+    "value": "some"
+  },
+  "a11y.countingArea.blueListItemPattern": {
+    "value": "{ $value } ពណ៌ខៀវ"
+  },
+  "a11y.countingArea.leadingParagraph": {
+    "value": "{ $totalVisible ->\n  [hidden] សរុប is hidden\n  *[shown] { $សរុប ->\n               [1] ស្តាំ now, 1 សរុប { $item } in Counting area.\n               *[other] ស្តាំ now, { $សរុប } សរុប { $items } in Counting area.\n           }\n}"
+  },
+  "a11y.countingArea.leftSideBeadsPattern": {
+    "value": "{ $value } ពណ៌លឿង on ឆ្វេង side"
+  },
+  "a11y.countingArea.leftSideListItemPattern": {
+    "value": "{ $value } on ឆ្វេង side"
+  },
+  "a11y.countingArea.rightSideBeadsPattern": {
+    "value": "{ $value } ពណ៌ខៀវ on ស្តាំ side"
+  },
+  "a11y.countingArea.rightSideListItemPattern": {
+    "value": "{ $value } on ស្តាំ side"
+  },
+  "a11y.countingArea.yellowListItemPattern": {
+    "value": "{ $value } ពណ៌លឿង"
+  },
+  "a11y.countingAreaEmpty": {
+    "value": "Counting Area Empty"
+  },
+  "a11y.equationAccordionBox.accessibleHelpTextCollapsed": {
+    "value": "{ $screenType ->\n  [other] View decomposition equation.\n  *[sumScreen] View sum equation.\n}"
+  },
+  "a11y.equationAccordionBox.addendsOnLeftAccessibleParagraph": {
+    "value": "ស្តាំ now, equation shows { $leftAddend } + { $rightAddend } = { $សរុប }"
+  },
+  "a11y.equationAccordionBox.addendsOnRightAccessibleParagraph": {
+    "value": "ស្តាំ now, equation shows { $សរុប } = { $leftAddend } + { $rightAddend }"
+  },
+  "a11y.gameScreen.answerButton.wrongAccessibleName": {
+    "value": "{$value}, incorrect answer"
+  },
+  "a11y.gameScreen.answerButtonGroup.accessibleHeading": {
+    "value": "{ a11y_gameScreen_answerChoices }"
+  },
+  "a11y.gameScreen.answerButtonGroup.accessibleHelpText": {
+    "value": "{ $levelType ->\n  [kittens] { $addendOrSum ->\n              [addend] Choose number for { a11y_gameScreen_challengeType } to add { $color } កូនឆ្មា to Counting Area. If needed, count, organize, or hide កូនឆ្មា to help solve challenge. ផ្ទៀងផ្ទាត់ Answer to submit.\n              *[sum] Choose number for Sum of ពណ៌ខៀវ and ពណ៌លឿង kittens. If needed, count, organize, or hide កូនឆ្មា in Counting Area to help solve challenge. ផ្ទៀងផ្ទាត់ Answer to submit.\n            }\n  *[numberLine] Choose number for { a11y_gameScreen_challengeType } to make dotted jump have that length. ផ្ទៀងផ្ទាត់ Answer to submit and make dotted jump turn { $color } if correct.\n}"
+  },
+  "a11y.gameScreen.answerChoices": {
+    "value": "ជម្រើសចម្លើយ"
+  },
+  "a11y.gameScreen.bothAddendsEyeToggleButton.accessibleContextResponseOff": {
+    "value": "{ $levelType ->\n  [kittens] កូនឆ្មា visible.\n  *[numberLine] Number line visible.\n}"
+  },
+  "a11y.gameScreen.bothAddendsEyeToggleButton.accessibleContextResponseOn": {
+    "value": "{ $levelType ->\n  [kittens] កូនឆ្មា hidden.\n  *[numberLine] Number line hidden.\n}"
+  },
+  "a11y.gameScreen.bothAddendsEyeToggleButton.accessibleHelpText": {
+    "value": "បង្ហាញ ឬលាក់តំបន់រាប់។"
+  },
+  "a11y.gameScreen.challengePrompt": {
+    "value": "{ $decompositionOrSum ->\n  [decomposition] { $សរុប } can be decomposed into { $leftAddend } and { $rightAddend }?\n  *[sum] { $leftAddend } plus { $rightAddend } equals { $សរុប }?\n}"
+  },
+  "a11y.gameScreen.challengeSupports.accessibleHeading": {
+    "value": "Counting Area Supports"
+  },
+  "a11y.gameScreen.challengeType": {
+    "value": "{ $challengeType ->\n  [leftAddend] ឆ្វេង addend\n  [rightAddend] ស្តាំ addend\n  *[សរុប] sum\n}"
+  },
+  "a11y.gameScreen.countingArea.accessibleHeading": {
+    "value": "តំបន់រាប់"
+  },
+  "a11y.gameScreen.countingArea.accessibleParagraph": {
+    "value": "{ $type ->\n  [kittens] ស្តាំ now, { $leftAddend } ពណ៌លឿង កូនឆ្មា, { $rightAddend } ពណ៌ខៀវ កូនឆ្មា in Counting Area.\n  *[numberLine] { $visible ->\n                  [none] { a11y_gameScreen_countingArea_numberLineSentence }\n                  [addends] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends }\n                  [tickMarks] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                  *[both] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                }\n}"
+  },
+  "a11y.gameScreen.countingArea.hiddenAccessibleParagraph": {
+    "value": "ស្តាំ now, counting area is hidden."
+  },
+  "a11y.gameScreen.countingArea.numberLineAddends": {
+    "value": "{ $leftAddend } is shown above { a11y_gameScreen_countingArea_numberLineLeftAddendColor } jump representing ឆ្វេង addend. {$rightAddend} is shown above { a11y_gameScreen_countingArea_numberLineRightAddendColor } jump representing ស្តាំ addend."
+  },
+  "a11y.gameScreen.countingArea.numberLineLeftAddendColor": {
+    "value": "{ $leftAddendMissing ->\n  [missing] dotted\n  *[notMissing] ពណ៌លឿង\n}"
+  },
+  "a11y.gameScreen.countingArea.numberLineRightAddendColor": {
+    "value": "{ $rightAddendMissing ->\n  [missing] dotted\n  *[notMissing] ពណ៌ខៀវ\n}"
+  },
+  "a11y.gameScreen.countingArea.numberLineSentence": {
+    "value": "ស្តាំ now, number line shows a green line representing សរុប and two end-to-end jumps: a { a11y_gameScreen_countingArea_numberLineLeftAddendColor } jump from ឆ្វេង edge, then a { a11y_gameScreen_countingArea_numberLineRightAddendColor } jump to សរុប."
+  },
+  "a11y.gameScreen.countingArea.numberLineTickMarks": {
+    "value": "Dot at { $សរុប }."
+  },
+  "a11y.gameScreen.level.accessibleHeading": {
+    "value": "{ $levelType ->\n  [decompositionEquation] Decomposition សមីការ Challenge\n  [sumEquation] Sum សមីការ Challenge\n  *[bondOrBarModel] { a11y_numberBondOrBarModel } Challenge\n}"
+  },
+  "a11y.gameScreen.level.accessibleHelpText": {
+    "value": "{ $levelNumber ->\n  [1] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with សរុប between 2 and 10.\n  [2] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with សរុប always 10.\n  [3] Find a missing addend in a decomposition equation with សរុប always 10.\n  [4] Find a missing addend in a sum equation with សរុប always 10.\n  [5] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with សរុប between 11 and 20.\n  [6] Find a missing addend in a decomposition equation with សរុប between 11 and 20.\n  [7] Find a missing addend or សរុប in a sum equation with សរុប between 11 and 20.\n  *[8] Find a missing addend in a sum equation using the number line with សរុប between 0 and 20.\n}"
+  },
+  "a11y.gameScreen.missingValue": {
+    "value": "a mystery number"
+  },
+  "a11y.gameScreen.resetChallengeButton.accessibleContextResponse": {
+    "value": "Challenge reset."
+  },
+  "a11y.gameScreen.resetChallengeButton.accessibleHelpText": {
+    "value": "កំណត់សំណួរត្រឡប់ទៅចំណុចចាប់ផ្តើមវិញ។"
+  },
+  "a11y.gameScreen.resetChallengeButton.accessibleName": {
+    "value": "កំណត់សំណួរឡើងវិញ"
+  },
+  "a11y.gameScreen.responses._correctAnswerScore": {
+    "value": "{ $totalScore ->\n  [ 1 ] 1 star!\n  *[ other ] { $totalScore } Stars!\n}"
+  },
+  "a11y.gameScreen.responses.answerCleared": {
+    "value": "Answer cleared."
+  },
+  "a11y.gameScreen.responses.answerSelected": {
+    "value": "{ $representationType ->\n  [kittens] {$value} chosen for { a11y_gameScreen_challengeType }. {$value} { $color } kittens now in Counting Area.\n  [numberLine] {$value} chosen for { a11y_gameScreen_challengeType }. Unknown jump now {$value} on number line.\n  *[sum] { $value } chosen for sum. No new kittens added or removed from Counting Area.\n}"
+  },
+  "a11y.gameScreen.responses.correctAnswer": {
+    "value": "{ $levelType ->\n  [decomposition] You are correct! { $សរុប } can be decomposed into { $leftAddend } and { $rightAddend }.\n  *[sum] You are correct! { $leftAddend } plus { $rightAddend } equals { $សរុប }. Nice work.\n}"
+  },
+  "a11y.gameScreen.responses.correctAnswerOnFirstTry": {
+    "value": "{ $levelType ->\n  [sum] You are correct! { $leftAddend } plus { $rightAddend } equals { $សរុប }. { a11y_gameScreen_responses__correctAnswerScore }\n  *[decomposition] You are correct! { $សរុប } can be decomposed into { $leftAddend } and { $rightAddend }. { a11y_gameScreen_responses__correctAnswerScore }\n}"
+  },
+  "a11y.gameScreen.responses.incorrectAnswer": {
+    "value": "{ $levelType ->\n  [decomposition] Not quite. { $សរុប } cannot be decomposed into { $leftAddend } and { $rightAddend }. Try again.\n  *[sum] Not quite. { $leftAddend } plus { $rightAddend } does not equal { $សរុប }. Try again.\n}"
+  },
+  "a11y.gameScreen.tenFrameButton.accessibleHelpText": {
+    "value": "បង្កើតក្រុម ៥ នៃកូនឆ្មា"
+  },
+  "a11y.gameScreen.whatNumber": {
+    "value": "ចំនួនប៉ុន្មាន"
+  },
+  "a11y.grabOrReleaseInteraction.grabbedAccessibleResponse": {
+    "value": "grabbed, in { $addend } counting area"
+  },
+  "a11y.grabOrReleaseInteraction.grabbedHelpTextPattern": {
+    "value": "{ $representationType ->\n  [beads] Move one or more beads to create groups.\n  *[other] Move { $item } in or between ឆ្វេង and ស្តាំ counting areas.\n}"
+  },
+  "a11y.grabOrReleaseInteraction.leftSide.firstItemPattern": {
+    "value": "First { $item } on ឆ្វេង side"
+  },
+  "a11y.grabOrReleaseInteraction.leftSide.itemPattern": {
+    "value": "{ $item } on ឆ្វេង side"
+  },
+  "a11y.grabOrReleaseInteraction.leftSide.lastItemPattern": {
+    "value": "Last { $item } on ឆ្វេង side"
+  },
+  "a11y.grabOrReleaseInteraction.leftSide.onlyItemPattern": {
+    "value": "Only { $item } on ឆ្វេង side"
+  },
+  "a11y.grabOrReleaseInteraction.movedAccessibleResponse": {
+    "value": "now in { $addend } counting area"
+  },
+  "a11y.grabOrReleaseInteraction.noItemSelected": {
+    "value": "No item selected"
+  },
+  "a11y.grabOrReleaseInteraction.releasedAccessibleResponse": {
+    "value": "released, in { $addend } counting area"
+  },
+  "a11y.grabOrReleaseInteraction.releasedHelpText": {
+    "value": "{ $representationType ->\n  [beads] Look for beads to navigate and move. Use keyboard shortcuts to navigate and count, or grab and slide along the wire.\n  *[other] Look for { $representation } to navigate and move. Use keyboard shortcuts to navigate and count, or grab and move to different sides of Counting Area.\n}"
+  },
+  "a11y.grabOrReleaseInteraction.rightSide.firstItemPattern": {
+    "value": "First { $item } on ស្តាំ side"
+  },
+  "a11y.grabOrReleaseInteraction.rightSide.itemPattern": {
+    "value": "{ $item } on ស្តាំ side"
+  },
+  "a11y.grabOrReleaseInteraction.rightSide.lastItemPattern": {
+    "value": "Last { $item } on ស្តាំ side"
+  },
+  "a11y.grabOrReleaseInteraction.rightSide.onlyItemPattern": {
+    "value": "Only { $item } on ស្តាំ side"
+  },
+  "a11y.introScreen.screenSummary.controlArea": {
+    "value": "កំណត់ឡើងវិញ the sim to start over."
+  },
+  "a11y.introScreen.screenSummary.currentDetails.bothHidden": {
+    "value": "Currently, { $សរុប } សរុប, both counting areas hidden."
+  },
+  "a11y.introScreen.screenSummary.currentDetails.hiddenAreaPattern": {
+    "value": "Currently, { $សរុប } សរុប, { $hiddenAddend } counting area hidden."
+  },
+  "a11y.introScreen.screenSummary.currentDetails.objectsPattern": {
+    "value": "{ $សរុប ->\n  [one] Currently, { $សរុប } object in counting area.\n *[other] Currently, { $សរុប } objects in counting areas.\n}"
+  },
+  "a11y.introScreen.screenSummary.interactionHint": {
+    "value": "Count or grab an object. រៀបចំ or move objects in counting area to play."
+  },
+  "a11y.introScreen.screenSummary.playArea": {
+    "value": "{ a11y_playAreaIntroSentence } A decomposition phrase and a   { a11y_numberBondOrBarModelLowercase } represent the សរុប number broken apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize objects into rows, or swap addends."
+  },
+  "a11y.keyboardHelpDialog.adjustObjectsKeyboard.labelInnerContent": {
+    "value": "Adjust number of objects with arrow keys."
+  },
+  "a11y.keyboardHelpDialog.kittenInteraction.changeColorLabelInnerContent": {
+    "value": "{ $key ->\n  [enter] Change color with Space or Enter key.\n  *[return] Change color with Space or Return key.\n}"
+  },
+  "a11y.keyboardHelpDialog.kittenInteraction.jumpToFirstLabelInnerContent": {
+    "value": "Jump to first kitten with Home key."
+  },
+  "a11y.keyboardHelpDialog.kittenInteraction.jumpToLastLabelInnerContent": {
+    "value": "Jump to last kitten with End key."
+  },
+  "a11y.keyboardHelpDialog.moveAcrossDescription.labelInnerContent": {
+    "value": "Move grabbed { $item } to { $addend } side with { $key } key."
+  },
+  "a11y.kittens.accessibleHelpText": {
+    "value": "Look for movable kittens. Once focused, use keyboard shortcuts to change color or move around."
+  },
+  "a11y.kittens.accessibleName": {
+    "value": "កូនឆ្មា"
+  },
+  "a11y.kittens.changeColorAccessibleName": {
+    "value": "ប្តូរពណ៌"
+  },
+  "a11y.kittens.kittenPattern": {
+    "value": "{ $descriptor ->\n  [first] First { $color} កូនឆ្មា\n  [last] Last { $color } កូនឆ្មា\n  [only] Only { $color } កូនឆ្មា\n  *[other] { $color } កូនឆ្មា\n}"
+  },
+  "a11y.kittens.singularAccessibleName": {
+    "value": "កូនឆ្មា"
+  },
+  "a11y.left": {
+    "value": "ឆ្វេង"
+  },
+  "a11y.leftAddendColor": {
+    "value": "ពណ៌លឿង"
+  },
+  "a11y.leftCapitalized": {
+    "value": "ខាងឆ្វេង"
+  },
+  "a11y.movableRoleDescription": {
+    "value": "movable"
+  },
+  "a11y.numberBondOrBarModel": {
+    "value": "{ $numberModelType ->\n  [numberBond] { numberBond }\n  *[barModel] { barModel }\n}"
+  },
+  "a11y.numberBondOrBarModelLowercase": {
+    "value": "{ $numberModelType ->\n  [numberBond] { numberBondLowercase }\n  *[barModel] { barModelLowercase }\n}"
+  },
+  "a11y.numberLine.accessibleName": {
+    "value": "បន្ទាត់ចំនួន"
+  },
+  "a11y.numberLine.addendSplitterKnob.accessibleHelpText": {
+    "value": "Move knob to change how addends are split."
+  },
+  "a11y.numberLine.addendSplitterKnob.accessibleName": {
+    "value": "ប៊ូតុងបំបែកតួបូក"
+  },
+  "a11y.numberLine.contextResponse": {
+    "value": "{ $addendsShowing ->\n  [addendsVisible] { $សរុប } is split into { $ឆ្វេង } and { $ស្តាំ }.\n  *[addendsHidden] { $sections ->\n                     [smallerAndLarger] { $សរុប } is split into smaller and larger sections.\n                     [equal] { $សរុប } is split into equal sections.\n                     *[largerAndSmaller] { $សរុប } is split into larger and smaller sections.\n                   }\n}"
+  },
+  "a11y.numberLineDescription.countFromZeroLeftAddendPattern": {
+    "value": "ឆ្វេង addend, { $ឆ្វេង }, is shown above jump from ឆ្វេង edge to knob"
+  },
+  "a11y.numberLineDescription.countFromZeroRightAddendPattern": {
+    "value": "ស្តាំ addend, { $ស្តាំ }, is shown above jump from { $start } to សរុប"
+  },
+  "a11y.numberLineDescription.countFromZeroTotalJumpPattern": {
+    "value": "Jump spans សរុប length, { $សរុប }"
+  },
+  "a11y.numberLineDescription.countOnJumpPattern": {
+    "value": "Jump of length { $ស្តាំ } starts at { $start } and ends at សរុប"
+  },
+  "a11y.numberLineDescription.countOnLeftAddendPattern": {
+    "value": "ឆ្វេង addend, { $ឆ្វេង }, marked on number line"
+  },
+  "a11y.numberLineDescription.countOnTotalJumpPattern": {
+    "value": "Jump of length { $សរុប } is labeled"
+  },
+  "a11y.numberLineDescription.knobIsAtPattern": {
+    "value": "Knob is at { $value }"
+  },
+  "a11y.numberLineDescription.knobLabel": {
+    "value": "knob"
+  },
+  "a11y.numberLineDescription.knobSplits": {
+    "value": "Knob splits សរុប into 2 sections"
+  },
+  "a11y.numberLineDescription.leadingCountFromZero": {
+    "value": "Number line shows a green line representing សរុប, a ពណ៌លឿង jump from ឆ្វេង edge to knob, and a ពណ៌ខៀវ jump from knob to សរុប:"
+  },
+  "a11y.numberLineDescription.leadingCountOn": {
+    "value": "Number line shows a green line representing សរុប and a ពណ៌ខៀវ jump from knob to សរុប:"
+  },
+  "a11y.numberLineDescription.leadingHidden": {
+    "value": "Number line is hidden."
+  },
+  "a11y.numberLineDescription.leftEdgeLabel": {
+    "value": "ឆ្វេង edge"
+  },
+  "a11y.numberLineDescription.totalLabel": {
+    "value": "សរុប"
+  },
+  "a11y.numberLineDescription.totalSpansPattern": {
+    "value": "សរុប spans from { $start } to { $end }"
+  },
+  "a11y.numberLineDescription.totalStartsPattern": {
+    "value": "សរុប starts at { $start }, ends at { $end }"
+  },
+  "a11y.ones.accessibleName": {
+    "value": "ប័ណ្ណលេខមួយ"
+  },
+  "a11y.ones.singularAccessibleName": {
+    "value": "ប័ណ្ណលេខមួយ"
+  },
+  "a11y.playAreaIntroSentence": {
+    "value": "There are ឆ្វេង and ស្តាំ counting areas with fun objects. You can organize objects inside a counting area or move them between counting areas to break សរុប apart in different ways."
+  },
+  "a11y.preferences.sumScreenModelOrientation.totalOnBottom": {
+    "value": "សរុប on Bottom"
+  },
+  "a11y.preferences.sumScreenModelOrientation.totalOnTop": {
+    "value": "សរុប on Top"
+  },
+  "a11y.representationType.accessibleHelpText": {
+    "value": "ជ្រើសរើសប្រភេទតំណាងសម្រាប់តំបន់រាប់។"
+  },
+  "a11y.representationType.accessibleName": {
+    "value": "ប្រភេទតំណាង"
+  },
+  "a11y.right": {
+    "value": "ស្តាំ"
+  },
+  "a11y.rightAddendColor": {
+    "value": "ពណ៌ខៀវ"
+  },
+  "a11y.rightCapitalized": {
+    "value": "ខាងស្តាំ"
+  },
+  "a11y.screenButtonsHelpText.game": {
+    "value": "Challenge yourself to find missing addends or create sums from { $min }-{ $max } with two numbers."
+  },
+  "a11y.screenButtonsHelpText.intro": {
+    "value": "Break apart numbers { $min }-{ $max } by moving fun objects between counting areas."
+  },
+  "a11y.screenButtonsHelpText.sum": {
+    "value": "Create totals of { $min }-{ $max } by adding or removing magic beads or kittens, or addends to an interactive number line."
+  },
+  "a11y.screenButtonsHelpText.ten": {
+    "value": "Break apart numbers { $min }-{ $max } by sliding magic beads, grouping and changing kitten colors, or interacting with a number line."
+  },
+  "a11y.screenButtonsHelpText.twenty": {
+    "value": "Break apart numbers { $min }-{ $max } by moving and interacting with fun and magic objects in counting areas."
+  },
+  "a11y.soccerBalls.accessibleName": {
+    "value": "បាល់ទាត់"
+  },
+  "a11y.soccerBalls.singularAccessibleName": {
+    "value": "បាល់ទាត់"
+  },
+  "a11y.sumScreen.screenSummary.controlArea": {
+    "value": "{ a11y_introScreen_screenSummary_controlArea }"
+  },
+  "a11y.sumScreen.screenSummary.currentDetails": {
+    "value": "{ $shown ->\n  [none] Currently, សរុប hidden, counting area hidden.\n  [សរុប] Currently, សរុប of { $សរុប }, counting area hidden.\n  [countingArea] { $representationType ->\n                   [numberLine] Currently, សរុប hidden, created by adding lengths of ពណ៌លឿង and ពណ៌ខៀវ sections.\n                   *[other] Currently, សរុប hidden, created by adding all { $itemType }.\n                 }\n  *[all] { $representationType ->\n           [numberLine] Currently, សរុប of { $សរុប } created by adding lengths of ពណ៌លឿង and ពណ៌ខៀវ sections.\n           *[other] Currently, { $សរុប } សរុប { $itemType } created by adding all { $itemType }.\n         }\n}"
+  },
+  "a11y.sumScreen.screenSummary.interactionHint": {
+    "value": "{ $representationType ->\n  [beads] Navigate to and grab bead to create groups, or move across divider to change color. Add or remove beads with number spinners to change សរុប.\n  [kittens] Choose kitten to move, organize, or change color. Add or remove beads with number spinners to change សរុប.\n  *[numberLine] Move addend splitter knob to change length of ពណ៌លឿង and ពណ៌ខៀវ sections that create សរុប. Add one or remove one from ពណ៌លឿង or ពណ៌ខៀវ section to change សរុប.\n}"
+  },
+  "a11y.sumScreen.screenSummary.playArea": {
+    "value": "{ $representationType ->\n  [numberLine] សរុប is shown on number line with a green line broken into two sections, ពណ៌លឿង on ឆ្វេង and ពណ៌ខៀវ \n               on ស្តាំ. A movable knob changes how សរុប is broken apart by changing lengths of ពណ៌លឿង and ពណ៌ខៀវ \n               sections. Number spinners add one or remove one from ពណ៌លឿង or ពណ៌ខៀវ section. An addition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how two numbers \n               add to សរុប. Additionally, create totals from { $min } to { $max } or swap addends.\n  *[other] There are ពណ៌លឿង and ពណ៌ខៀវ { $representation } you can move to organize or change color to find \n           different ways to create a សរុប number of { $representation }. An addition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how two numbers \n           add to សរុប. Additionally, create totals from { $min } to { $max }, automatically organize objects, or swap addends.\n}"
+  },
+  "a11y.tenOrTwentyScreen.screenSummary.controlArea": {
+    "value": "{ a11y_introScreen_screenSummary_controlArea }"
+  },
+  "a11y.tenOrTwentyScreen.screenSummary.currentDetails": {
+    "value": "{ $shownSides ->\n  [none] Counting area currently hidden.\n  [ស្តាំ] Currently, { $សរុប } សរុប, ឆ្វេង counting area hidden.\n  [ឆ្វេង] Currently, { $សរុប } សរុប, ស្តាំ counting area hidden.\n  *[both] { $representationType ->\n            [numberLine] Currently, សរុប of { $សរុប } splits colored sections with addend splitter knob in counting area.\n            [beads] Currently, { $សរុប } សរុប { $itemType } split by color in counting area.\n            [kittens] Currently, { $សរុប } សរុប { $itemType } split by color in counting area.\n            *[location] { a11y_introScreen_screenSummary_currentDetails_objectsPattern }\n          }\n}"
+  },
+  "a11y.tenOrTwentyScreen.screenSummary.interactionHint": {
+    "value": "{ $representationType ->\n  [beads] Navigate to and grab bead to create groups, or move across divider to change color.\n  [kittens] Choose kitten to move, organize or change its color.\n  [numberLine] Move addend splitter knob to change length of ពណ៌លឿង and ពណ៌ខៀវ sections.\n  *[location] { a11y_introScreen_screenSummary_interactionHint }\n}"
+  },
+  "a11y.tenOrTwentyScreen.screenSummary.playArea": {
+    "value": "{ $representationType ->\n  [numberLine] There is a number line showing សរុប as a green line broken into two sections, ពណ៌លឿង on ឆ្វេង and ពណ៌ខៀវ on ស្តាំ. A movable knob changes how សរុប is broken apart by changing lengths of ពណ៌លឿង and ពណ៌ខៀវ sections. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how សរុប is broken  apart into two addends. Additionally, choose any សរុប from { $min } to { $max } or swap addends.\n  [beads] There are movable ពណ៌លឿង and ពណ៌ខៀវ beads you can slide along a wire to organize or change color to change how សរុប is broken apart. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how សរុប is broken  apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize  objects, or swap addends.\n  [kittens] There are freely movable ពណ៌លឿង and ពណ៌ខៀវ kittens you can organize or change color to change how សរុប is broken apart. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how សរុប is broken  apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize  objects, or swap addends.\n  *[location] { a11y_playAreaIntroSentence } Additionally, choose any សរុប from { $min } to { $max }, automatically organize  objects, or swap addends.\n}"
+  },
+  "a11y.totalSceneSelection.accessibleHelpText": {
+    "value": "Choose សរុប for counting area."
+  },
+  "a11y.totalSceneSelection.totalNumberPattern": {
+    "value": "សរុប Number"
+  },
+  "a11y.unknownNumber": {
+    "value": "unknown number"
+  },
+  "aNumber": {
+    "value": "ចំនួនមួយ"
+  },
+  "addends": {
+    "value": "តួបូក"
+  },
+  "anotherNumber": {
+    "value": "ចំនួនមួយទៀត"
+  },
+  "automaticallyHearPhrase": {
+    "value": "ស្តាប់ឃ្លាដោយស្វ័យប្រវត្តិ"
+  },
+  "automaticallyHearPhraseDescription": {
+    "value": "ស្តាប់ការអានឃ្លាដោយស្វ័យប្រវត្តិរាល់ពេលដែលតួបូកផ្លាស់ប្តូរ។ នៅពេលបើក មុខងារនេះអាចរំខានដល់កម្មវិធីអានអេក្រង់។"
+  },
+  "barModel": {
+    "value": "គំរូរបារ"
+  },
+  "barModelLowercase": {
+    "value": "គំរូរបារ"
+  },
+  "decompositionPhrasePattern": {
+    "value": "<total>{{total}}</total> អាចបំបែកជា <left>{{leftAddend}}</left> និង <right>{{rightAddend}}</right>"
+  },
+  "decompositionPhraseSpeechPattern": {
+    "value": "{{total}} អាចបំបែកជា {{leftAddend}} និង {{rightAddend}}"
+  },
+  "equation": {
+    "value": "សមីការ"
+  },
+  "gameScreen.infoDialog.levelWithDescription": {
+    "value": "កម្រិត {{level}}: {{description}}"
+  },
+  "gameScreen.levelDescriptions.level1": {
+    "value": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} ({{yValueMin}}-{{yValueMax}})"
+  },
+  "gameScreen.levelDescriptions.level2": {
+    "value": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} (ត្រឹម {{yValue}})"
+  },
+  "gameScreen.levelDescriptions.level3": {
+    "value": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការបំបែកចំនួន (ត្រឹម {{yValue}})"
+  },
+  "gameScreen.levelDescriptions.level4": {
+    "value": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការផលបូក (ត្រឹម {{yValue}})"
+  },
+  "gameScreen.levelDescriptions.level5": {
+    "value": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} ({{yValueMin}}-{{yValueMax}})"
+  },
+  "gameScreen.levelDescriptions.level6": {
+    "value": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការបំបែកចំនួន ({{yValueMin}}-{{yValueMax}})"
+  },
+  "gameScreen.levelDescriptions.level7": {
+    "value": "ស្វែងរកតួបូក ឬផលបូកដែលបាត់ក្នុងសមីការផលបូក ({{yValueMin}}-{{yValueMax}})"
+  },
+  "gameScreen.levelDescriptions.level8": {
+    "value": "សមីការជាមួយបន្ទាត់ចំនួន ({{yValueMin}}-{{yValueMax}})"
+  },
+  "keyboardHelpDialog.adjustObjectsTitle": {
+    "value": "Adjust Number of Colored Objects"
+  },
+  "keyboardHelpDialog.bead": {
+    "value": "អង្កាំ"
+  },
+  "keyboardHelpDialog.beadHeading": {
+    "value": "អង្កាំ"
+  },
+  "keyboardHelpDialog.changeKittenColor": {
+    "value": "Change kitten color"
+  },
+  "keyboardHelpDialog.countingObjectOrBead": {
+    "value": "apple, one, or bead"
+  },
+  "keyboardHelpDialog.countingObjectOrBeadHeading": {
+    "value": "ផ្លែប៉ោម, ប័ណ្ណលេខមួយ, ឬអង្កាំ"
+  },
+  "keyboardHelpDialog.gameScreen.moveKittenItemHeading": {
+    "value": "ផ្លាស់ទីកូនឆ្មា"
+  },
+  "keyboardHelpDialog.introScreen.moveGrabbableItemHeading": {
+    "value": "ផ្លាស់ទីវត្ថុដែលបានចាប់"
+  },
+  "keyboardHelpDialog.jumpToFirstKitten": {
+    "value": "Jump to first kitten"
+  },
+  "keyboardHelpDialog.jumpToLastKitten": {
+    "value": "Jump to last kitten"
+  },
+  "keyboardHelpDialog.kittenSectionHeading": {
+    "value": "ធ្វើអន្តរកម្មជាមួយកូនឆ្មា"
+  },
+  "keyboardHelpDialog.moveBeadsToOppositeSide": {
+    "value": "ផ្លាស់ទីអង្កាំទៅផ្នែកម្ខាងទៀត"
+  },
+  "keyboardHelpDialog.moveGrabbedObjectToOppositeSide": {
+    "value": "Move Grabbed Object to Opposite Side"
+  },
+  "keyboardHelpDialog.moveToLeftSidePattern": {
+    "value": "ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងឆ្វេង"
+  },
+  "keyboardHelpDialog.moveToRightSidePattern": {
+    "value": "ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងស្តាំ"
+  },
+  "keyboardHelpDialog.numberOfObjects": {
+    "value": "number of objects"
+  },
+  "keyboardHelpDialog.object": {
+    "value": "object"
+  },
+  "keyboardHelpDialog.objectHeading": {
+    "value": "Object"
+  },
+  "keyboardHelpDialog.sumScreen.moveGrabbableItemHeading": {
+    "value": "Move កូនឆ្មា or Grabbed អង្កាំ"
+  },
+  "keyboardHelpDialog.tenScreen.moveGrabbableItemHeading": {
+    "value": "Move កូនឆ្មា or Grabbed អង្កាំ"
+  },
+  "keyboardHelpDialog.twentyScreen.moveGrabbableItemHeading": {
+    "value": "Move Grabbed Object in Counting Area"
+  },
+  "levelPattern": {
+    "value": "កម្រិត {{level}}"
+  },
+  "number-pairs.title": {
+    "value": "ការផ្គូផ្គងចំនួន"
+  },
+  "numberBond": {
+    "value": "សម្ព័ន្ធចំនួន"
+  },
+  "numberBondLowercase": {
+    "value": "សម្ព័ន្ធចំនួន"
+  },
+  "numberModelType": {
+    "value": "ប្រភេទគំរូចំនួន"
+  },
+  "numberModelTypeDescription": {
+    "value": "ជ្រើសរើសរវាងតំណាងសម្ព័ន្ធចំនួនធម្មតា ឬគំរូរបារសមាមាត្រ។"
+  },
+  "phrase": {
+    "value": "ឃ្លាចំនួន"
+  },
+  "screen.game": {
+    "value": "ល្បែងកម្សាន្ត"
+  },
+  "screen.intro": {
+    "value": "សេចក្តីផ្តើម"
+  },
+  "screen.sum": {
+    "value": "ផលបូក"
+  },
+  "screen.ten": {
+    "value": "ដប់"
+  },
+  "screen.twenty": {
+    "value": "ម្ភៃ"
+  },
+  "someNumber": {
+    "value": "ចំនួនមួយចំនួន"
+  },
+  "sumPhrasePattern": {
+    "value": "<left>{{leftAddend}}</left> បូក <right>{{rightAddend}}</right> ស្មើនឹង <total>{{total}}</total>"
+  },
+  "sumPhraseSpeechPattern": {
+    "value": "{{leftAddend}} បូក {{rightAddend}} ស្មើនឹង {{total}}"
+  },
+  "sumScreenNumberModelOrientation": {
+    "value": "ទិសដៅគំរូចំនួនលើផ្ទាំងផលបូក"
+  },
+  "sumScreenNumberModelOrientationDescription": {
+    "value": "នៅលើផ្ទាំងផលបូកតែប៉ុណ្ណោះ ការកំណត់នេះផ្លាស់ប្តូរទិសដៅនៃផលបូកសរុបក្នុងគំរូបំបែកចំនួន។"
+  },
+  "tickNumbers": {
+    "value": "លេខគំនូសបន្ទាត់"
+  },
+  "total": {
+    "value": "សរុប"
+  },
+  "totalJump": {
+    "value": "ការលោតសរុប"
+  },
+  "tryAgain": {
+    "value": "សាកល្បងម្ដងទៀត"
+  }
+}
