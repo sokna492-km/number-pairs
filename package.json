@@ -12,8 +12,7 @@
   "scripts": {
     "dev": "node server.js",
     "start": "node server.js",
-    "build": "node -e \"console.log('Build complete')\"",
-    "lint": "node -e \"console.log('No lint errors')\""
+    "build:khmer": "node generate_khmer_strings.js && node inject_khmer.js"
   },
   "phet": {
     "requirejsNamespace": "NUMBER_PAIRS",

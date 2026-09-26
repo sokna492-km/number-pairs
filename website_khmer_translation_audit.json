@@ -1,0 +1,3470 @@
+{
+  "sourceLocale": "en",
+  "targetLocale": "km",
+  "scope": "All 587 entries in the current simulation string catalog; candidates contain Latin-script text in the current Khmer output.",
+  "notes": [
+    "Some Latin-script text may be a proper name, brand, license term, URL, placeholder, or keyboard key name; review before translating.",
+    "Preserve template placeholders such as {0}, {{name}}, and { $value }, along with Fluent selector branches and any markup."
+  ],
+  "summary": {
+    "catalogEntries": 587,
+    "alreadyTranslatedKeyboardEntriesExcluded": 21,
+    "candidatesForReview": 429,
+    "bySection": {
+      "Shared interface": {
+        "untranslated": 113,
+        "partiallyTranslated": 11,
+        "translated": 59
+      },
+      "Settings": {
+        "untranslated": 66,
+        "partiallyTranslated": 3,
+        "translated": 0
+      },
+      "About": {
+        "untranslated": 18,
+        "partiallyTranslated": 0,
+        "translated": 0
+      },
+      "Number Pairs": {
+        "untranslated": 58,
+        "partiallyTranslated": 101,
+        "translated": 0
+      }
+    }
+  },
+  "translations": [
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.goToScreenPattern",
+      "status": "partially translated",
+      "english": "Go to {{name}} Screen.",
+      "currentKhmer": "ទៅកាន់ផ្ទាំង {{name}}",
+      "khmer": "ទៅកាន់ផ្ទាំង {{name}}។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.homeScreenButtonDetailsPattern",
+      "status": "untranslated",
+      "english": "On {{name}}, {{screenHint}}",
+      "currentKhmer": "On {{name}}, {{screenHint}}",
+      "khmer": "នៅលើ {{name}}, {{screenHint}}"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.homeScreenDescriptionPattern",
+      "status": "untranslated",
+      "english": "Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.",
+      "currentKhmer": "Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.",
+      "khmer": "សូមស្វាគមន៍មកកាន់ {{name}}។ វាមានផ្ទាំងអន្តរកម្មចំនួន {{screens}} ដែលអ្នកអាចរុករកបាន។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.homeScreenHint",
+      "status": "untranslated",
+      "english": "Choose a screen to start exploring.",
+      "currentKhmer": "Choose a screen to start exploring.",
+      "khmer": "ជ្រើសរើសផ្ទាំងមួយដើម្បីចាប់ផ្តើមរុករក។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.homeScreenIntroPattern",
+      "status": "untranslated",
+      "english": "{{description}} {{hint}}",
+      "currentKhmer": "{{description}} {{hint}}",
+      "khmer": "{{description}} {{hint}}"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.inControlArea",
+      "status": "untranslated",
+      "english": "In Control Area:",
+      "currentKhmer": "In Control Area:",
+      "khmer": "នៅក្នុងតំបន់បញ្ជា៖"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.inPlayArea",
+      "status": "untranslated",
+      "english": "In Play Area:",
+      "currentKhmer": "In Play Area:",
+      "khmer": "នៅក្នុងតំបន់លេង៖"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.phetMenu",
+      "status": "untranslated",
+      "english": "PhET Menu",
+      "currentKhmer": "PhET Menu",
+      "khmer": "ម៉ឺនុយ PhET"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOff",
+      "status": "untranslated",
+      "english": "Extra Sounds off.",
+      "currentKhmer": "Extra Sounds off.",
+      "khmer": "សំឡេងបន្ថែមត្រូវបានបិទ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOn",
+      "status": "untranslated",
+      "english": "Extra Sounds on.",
+      "currentKhmer": "Extra Sounds on.",
+      "khmer": "សំឡេងបន្ថែមត្រូវបានបើក។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.sounds.soundsOff",
+      "status": "untranslated",
+      "english": "Sounds off.",
+      "currentKhmer": "Sounds off.",
+      "khmer": "សំឡេងត្រូវបានបិទ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.sounds.soundsOn",
+      "status": "untranslated",
+      "english": "Sounds on.",
+      "currentKhmer": "Sounds on.",
+      "khmer": "សំឡេងត្រូវបានបើក។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.collapsedAlert",
+      "status": "untranslated",
+      "english": "collapsed",
+      "currentKhmer": "collapsed",
+      "khmer": "បានបង្រួម"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.expandedAlert",
+      "status": "untranslated",
+      "english": "expanded",
+      "currentKhmer": "expanded",
+      "khmer": "បានពង្រីក"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.pitch.title",
+      "status": "untranslated",
+      "english": "Pitch",
+      "currentKhmer": "Pitch",
+      "khmer": "កម្ពស់សំឡេង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.labelString",
+      "status": "untranslated",
+      "english": "Voice Rate",
+      "currentKhmer": "Voice Rate",
+      "khmer": "ល្បឿនសំឡេង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.aboveNormal",
+      "status": "untranslated",
+      "english": "above normal range",
+      "currentKhmer": "above normal range",
+      "khmer": "លើសពីកម្រិតធម្មតា"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.high",
+      "status": "untranslated",
+      "english": "in high range",
+      "currentKhmer": "in high range",
+      "khmer": "ក្នុងកម្រិតខ្ពស់"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.low",
+      "status": "untranslated",
+      "english": "in low range",
+      "currentKhmer": "in low range",
+      "khmer": "ក្នុងកម្រិតទាប"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.normal",
+      "status": "untranslated",
+      "english": "in normal range",
+      "currentKhmer": "in normal range",
+      "khmer": "ក្នុងកម្រិតធម្មតា"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.voiceRateNormal",
+      "status": "untranslated",
+      "english": "normal",
+      "currentKhmer": "normal",
+      "khmer": "ធម្មតា"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.rate.title",
+      "status": "untranslated",
+      "english": "Rate",
+      "currentKhmer": "Rate",
+      "khmer": "ល្បឿន"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.title",
+      "status": "untranslated",
+      "english": "Customize Voice",
+      "currentKhmer": "Customize Voice",
+      "khmer": "កំណត់សំឡេងតាមបំណង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.variablesPattern",
+      "status": "untranslated",
+      "english": "{{value}}x",
+      "currentKhmer": "{{value}}x",
+      "khmer": "{{value}}x"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.voice.noVoicesAvailable",
+      "status": "untranslated",
+      "english": "No voices available",
+      "currentKhmer": "No voices available",
+      "khmer": "មិនមានសំឡេងទេ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.voice.title",
+      "status": "untranslated",
+      "english": "Voice",
+      "currentKhmer": "Voice",
+      "khmer": "សំឡេង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.voice.titlePattern",
+      "status": "untranslated",
+      "english": "Voice: {{value}}",
+      "currentKhmer": "Voice: {{value}}",
+      "khmer": "សំឡេង៖ {{value}}"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.customizeVoice.writtenVariablesPattern",
+      "status": "untranslated",
+      "english": "{{value}} times",
+      "currentKhmer": "{{value}} times",
+      "khmer": "{{value}} ដង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.disabledAlert",
+      "status": "untranslated",
+      "english": "Surrounding context changes muted.",
+      "currentKhmer": "Surrounding context changes muted.",
+      "khmer": "ការផ្លាស់ប្តូរបរិបទជុំវិញត្រូវបានបិទសំឡេង។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.enabledAlert",
+      "status": "untranslated",
+      "english": "Voicing surrounding context changes.",
+      "currentKhmer": "Voicing surrounding context changes.",
+      "khmer": "កំពុងបន្លឺសំឡេងការផ្លាស់ប្តូរបរិបទជុំវិញ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.label",
+      "status": "untranslated",
+      "english": "Voice surrounding context changes",
+      "currentKhmer": "Voice surrounding context changes",
+      "khmer": "បន្លឺសំឡេងការផ្លាស់ប្តូរបរិបទជុំវិញ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.description",
+      "status": "untranslated",
+      "english": "Choose details you want voiced as you interact.",
+      "currentKhmer": "Choose details you want voiced as you interact.",
+      "khmer": "ជ្រើសរើសព័ត៌មានលម្អិតដែលអ្នកចង់ឱ្យបន្លឺសំឡេងនៅពេលអ្នកធ្វើអន្តរកម្ម។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.disabledAlert",
+      "status": "untranslated",
+      "english": "Extra help muted.",
+      "currentKhmer": "Extra help muted.",
+      "khmer": "ជំនួយបន្ថែមត្រូវបានបិទសំឡេង។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.enabledAlert",
+      "status": "untranslated",
+      "english": "Voicing extra help.",
+      "currentKhmer": "Voicing extra help.",
+      "khmer": "កំពុងបន្លឺសំឡេងជំនួយបន្ថែម។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.label",
+      "status": "untranslated",
+      "english": "Voice helpful hints",
+      "currentKhmer": "Voice helpful hints",
+      "khmer": "បន្លឺសំឡេងព័ត៌មានជំនួយ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.disabledAlert",
+      "status": "untranslated",
+      "english": "Object details and changes muted.",
+      "currentKhmer": "Object details and changes muted.",
+      "khmer": "ព័ត៌មានលម្អិត និងការផ្លាស់ប្តូរវត្ថុត្រូវបានបិទសំឡេង។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.enabledAlert",
+      "status": "untranslated",
+      "english": "Voicing object details and changes.",
+      "currentKhmer": "Voicing object details and changes.",
+      "khmer": "កំពុងបន្លឺសំឡេងព័ត៌មានលម្អិត និងការផ្លាស់ប្តូរវត្ថុ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.label",
+      "status": "untranslated",
+      "english": "Voice object details and changes",
+      "currentKhmer": "Voice object details and changes",
+      "khmer": "បន្លឺសំឡេងព័ត៌មានលម្អិត និងការផ្លាស់ប្តូរវត្ថុ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.simVoicingOptions.title",
+      "status": "untranslated",
+      "english": "Sim Voicing Options",
+      "currentKhmer": "Sim Voicing Options",
+      "khmer": "ជម្រើសបន្លឺសំឡេងការពិសោធ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.title",
+      "status": "untranslated",
+      "english": "Voicing",
+      "currentKhmer": "Voicing",
+      "khmer": "ការបន្លឺសំឡេង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingOff",
+      "status": "untranslated",
+      "english": "Voicing off.",
+      "currentKhmer": "Voicing off.",
+      "khmer": "ការបន្លឺសំឡេងត្រូវបានបិទ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingOffOnlyAvailableInEnglish",
+      "status": "untranslated",
+      "english": "Voicing off. Only available in English.",
+      "currentKhmer": "Voicing off. Only available in English.",
+      "khmer": "ការបន្លឺសំឡេងត្រូវបានបិទ។ មានតែជាភាសាអង់គ្លេសប៉ុណ្ណោះ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingOn",
+      "status": "untranslated",
+      "english": "Voicing on.",
+      "currentKhmer": "Voicing on.",
+      "khmer": "ការបន្លឺសំឡេងត្រូវបានបើក។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingToolbar.title",
+      "status": "untranslated",
+      "english": "Toolbar",
+      "currentKhmer": "Toolbar",
+      "khmer": "របារឧបករណ៍"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarAdded",
+      "status": "untranslated",
+      "english": "Toolbar added to sim.",
+      "currentKhmer": "Toolbar added to sim.",
+      "khmer": "បានបន្ថែមរបារឧបករណ៍ទៅការពិសោធ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarRemoved",
+      "status": "untranslated",
+      "english": "Toolbar removed.",
+      "currentKhmer": "Toolbar removed.",
+      "khmer": "បានលុបរបារឧបករណ៍ចេញ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.input.gestureControl.disabledAlert",
+      "status": "untranslated",
+      "english": "Custom taps and swipes off.",
+      "currentKhmer": "Custom taps and swipes off.",
+      "khmer": "ការចុច និងអូសតាមបំណងត្រូវបានបិទ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.input.gestureControl.enabledAlert",
+      "status": "untranslated",
+      "english": "Custom taps and swipes on.",
+      "currentKhmer": "Custom taps and swipes on.",
+      "khmer": "ការចុច និងអូសតាមបំណងត្រូវបានបើក។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.labelledDescriptionPattern",
+      "status": "untranslated",
+      "english": "{{label}}, {{description}}",
+      "currentKhmer": "{{label}}, {{description}}",
+      "khmer": "{{label}}, {{description}}"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.localization.languageSelection.languageChangeResponsePattern",
+      "status": "untranslated",
+      "english": "On-screen text now in {{language}}.",
+      "currentKhmer": "On-screen text now in {{language}}.",
+      "khmer": "អត្ថបទនៅលើអេក្រង់ឥឡូវនេះជា {{language}}។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.tabResponsePattern",
+      "status": "partially translated",
+      "english": "Preferences, {{title}} Tab",
+      "currentKhmer": "ការកំណត់, {{title}} Tab",
+      "khmer": "ចំណូលចិត្ត, ផ្ទាំង {{title}}"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.visual.interactiveHighlights.disabledAlert",
+      "status": "untranslated",
+      "english": "Highlights off for mouse and touch.",
+      "currentKhmer": "Highlights off for mouse and touch.",
+      "khmer": "ការរំលេចត្រូវបានបិទសម្រាប់កណ្ដុរ និងការប៉ះ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/a11y.preferences.tabs.visual.interactiveHighlights.enabledAlert",
+      "status": "untranslated",
+      "english": "Highlights on for all input.",
+      "currentKhmer": "Highlights on for all input.",
+      "khmer": "ការរំលេចត្រូវបានបើកសម្រាប់ការបញ្ជាទាំងអស់។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.screenNamePattern",
+      "status": "partially translated",
+      "english": "{{name}} Screen",
+      "currentKhmer": "{{name}} ផ្ទាំង",
+      "khmer": "ផ្ទាំង {{name}}"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.screenSimPattern",
+      "status": "untranslated",
+      "english": "{{screenName}}, {{simName}}",
+      "currentKhmer": "{{screenName}}, {{simName}}",
+      "khmer": "{{screenName}}, {{simName}}"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.simResources",
+      "status": "untranslated",
+      "english": "Sim Resources",
+      "currentKhmer": "Sim Resources",
+      "khmer": "ធនធានពិសោធ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.simScreen",
+      "status": "partially translated",
+      "english": "Sim Screen",
+      "currentKhmer": "Sim ផ្ទាំង",
+      "khmer": "ផ្ទាំងពិសោធ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.simScreens",
+      "status": "untranslated",
+      "english": "Sim Screens",
+      "currentKhmer": "Sim Screens",
+      "khmer": "ផ្ទាំងពិសោធ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.soundToggle.alert.simSoundOff",
+      "status": "untranslated",
+      "english": "Audio Features off.",
+      "currentKhmer": "Audio Features off.",
+      "khmer": "មុខងារសំឡេងត្រូវបានបិទ។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.soundToggle.alert.simSoundOn",
+      "status": "untranslated",
+      "english": "Audio Features on.",
+      "currentKhmer": "Audio Features on.",
+      "khmer": "មុខងារសំឡេងត្រូវបានបើក។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.soundToggle.label",
+      "status": "untranslated",
+      "english": "All Audio",
+      "currentKhmer": "All Audio",
+      "khmer": "សំឡេងទាំងអស់"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.closeToolbar",
+      "status": "partially translated",
+      "english": "Close Toolbar",
+      "currentKhmer": "បិទ Toolbar",
+      "khmer": "បិទរបារឧបករណ៍"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.hideToolbar",
+      "status": "untranslated",
+      "english": "Hide Toolbar",
+      "currentKhmer": "Hide Toolbar",
+      "khmer": "លាក់របារឧបករណ៍"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.openToolbar",
+      "status": "untranslated",
+      "english": "Open Toolbar",
+      "currentKhmer": "Open Toolbar",
+      "khmer": "បើករបារឧបករណ៍"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.showToolbar",
+      "status": "untranslated",
+      "english": "Show Toolbar",
+      "currentKhmer": "Show Toolbar",
+      "khmer": "បង្ហាញរបារឧបករណ៍"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.title",
+      "status": "untranslated",
+      "english": "Toolbar",
+      "currentKhmer": "Toolbar",
+      "khmer": "របារឧបករណ៍"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.toolbarHidden",
+      "status": "untranslated",
+      "english": "Toolbar hidden.",
+      "currentKhmer": "Toolbar hidden.",
+      "khmer": "របារឧបករណ៍ត្រូវបានលាក់។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.toolbarShown",
+      "status": "untranslated",
+      "english": "Toolbar Shown.",
+      "currentKhmer": "Toolbar Shown.",
+      "khmer": "របារឧបករណ៍ត្រូវបានបង្ហាញ។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.detailsLabel",
+      "status": "untranslated",
+      "english": "Details",
+      "currentKhmer": "Details",
+      "khmer": "ព័ត៌មានលម្អិត"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.hintLabel",
+      "status": "untranslated",
+      "english": "Hint",
+      "currentKhmer": "Hint",
+      "khmer": "ព័ត៌មានជំនួយ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.overviewLabel",
+      "status": "untranslated",
+      "english": "Overview",
+      "currentKhmer": "Overview",
+      "khmer": "ទិដ្ឋភាពទូទៅ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.playDetailsLabel",
+      "status": "untranslated",
+      "english": "Play Details",
+      "currentKhmer": "Play Details",
+      "khmer": "ចាក់ព័ត៌មានលម្អិត"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.playHintLabel",
+      "status": "untranslated",
+      "english": "Play Hint",
+      "currentKhmer": "Play Hint",
+      "khmer": "ចាក់ព័ត៌មានជំនួយ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.playOverviewLabel",
+      "status": "untranslated",
+      "english": "Play Overview",
+      "currentKhmer": "Play Overview",
+      "khmer": "ចាក់ទិដ្ឋភាពទូទៅ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.quickInfo",
+      "status": "untranslated",
+      "english": "Quick Info",
+      "currentKhmer": "Quick Info",
+      "khmer": "ព័ត៌មានរហ័ស"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.simVoicingOffAlert",
+      "status": "untranslated",
+      "english": "Sim Voicing off.",
+      "currentKhmer": "Sim Voicing off.",
+      "khmer": "ការបន្លឺសំឡេងការពិសោធត្រូវបានបិទ។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.simVoicingOnAlert",
+      "status": "untranslated",
+      "english": "Sim Voicing on.",
+      "currentKhmer": "Sim Voicing on.",
+      "khmer": "ការបន្លឺសំឡេងការពិសោធត្រូវបានបើក។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/a11y.voicingToolbar.voicing.title",
+      "status": "untranslated",
+      "english": "Sim Voicing",
+      "currentKhmer": "Sim Voicing",
+      "khmer": "ការបន្លឺសំឡេងការពិសោធ"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.contributors",
+      "status": "untranslated",
+      "english": "Contributors: {0}",
+      "currentKhmer": "Contributors: {0}",
+      "khmer": "អ្នកចូលរួមចំណែក៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.graphicArts",
+      "status": "untranslated",
+      "english": "Graphic Arts: {0}",
+      "currentKhmer": "Graphic Arts: {0}",
+      "khmer": "សិល្បៈក្រាហ្វិក៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.leadDesign",
+      "status": "untranslated",
+      "english": "Lead Design: {0}",
+      "currentKhmer": "Lead Design: {0}",
+      "khmer": "ដឹកនាំការរចនា៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.qualityAssurance",
+      "status": "untranslated",
+      "english": "Quality Assurance: {0}",
+      "currentKhmer": "Quality Assurance: {0}",
+      "khmer": "ការធានាគុណភាព៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.softwareDevelopment",
+      "status": "untranslated",
+      "english": "Software Development: {0}",
+      "currentKhmer": "Software Development: {0}",
+      "khmer": "ការអភិវឌ្ឍកម្មវិធី៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.soundDesign",
+      "status": "untranslated",
+      "english": "Sound Design: {0}",
+      "currentKhmer": "Sound Design: {0}",
+      "khmer": "ការរចនាសំឡេង៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.team",
+      "status": "untranslated",
+      "english": "Team: {0}",
+      "currentKhmer": "Team: {0}",
+      "khmer": "ក្រុមការងារ៖ {0}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/credits.thanks",
+      "status": "untranslated",
+      "english": "Thanks",
+      "currentKhmer": "Thanks",
+      "khmer": "ថ្លែងអំណរគុណ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/donateToPhet",
+      "status": "partially translated",
+      "english": "Donate to PhET",
+      "currentKhmer": "បរិច្ចាគដល់ PhET",
+      "khmer": "បរិច្ចាគដល់ PhET"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/menuItem.phetWebsite",
+      "status": "partially translated",
+      "english": "PhET Website…",
+      "currentKhmer": "គេហទំព័រ PhET…",
+      "khmer": "គេហទំព័រ PhET…"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.audio.audioFeatures.title",
+      "status": "untranslated",
+      "english": "Audio Features",
+      "currentKhmer": "Audio Features",
+      "khmer": "មុខងារសំឡេង"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.audio.sounds.description",
+      "status": "untranslated",
+      "english": "Play sonifications and sound effects as you interact.",
+      "currentKhmer": "Play sonifications and sound effects as you interact.",
+      "khmer": "ចាក់សំឡេងតំណាង និងសំឡេងបែបផែននៅពេលអ្នកធ្វើអន្តរកម្ម។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.audio.sounds.extraSounds.description",
+      "status": "untranslated",
+      "english": "Play additional sound that may be helpful for some learners.",
+      "currentKhmer": "Play additional sound that may be helpful for some learners.",
+      "khmer": "ចាក់សំឡេងបន្ថែមដែលអាចមានប្រយោជន៍សម្រាប់អ្នកសិក្សាមួយចំនួន។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.audio.voicing.description",
+      "status": "untranslated",
+      "english": "Voice and highlight content as you interact.",
+      "currentKhmer": "Voice and highlight content as you interact.",
+      "khmer": "បន្លឺសំឡេង និងរំលេចខ្លឹមសារនៅពេលអ្នកធ្វើអន្តរកម្ម។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.audio.voicing.titleEnglishOnly",
+      "status": "untranslated",
+      "english": "Voicing (English Only)",
+      "currentKhmer": "Voicing (English Only)",
+      "khmer": "ការបន្លឺសំឡេង (ជាភាសាអង់គ្លេសប៉ុណ្ណោះ)"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.general.accessibilityIntro",
+      "status": "untranslated",
+      "english": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.",
+      "currentKhmer": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.",
+      "khmer": "យើងកំពុងបន្ថែមមុខងារនានាទៅក្នុងការពិសោធរបស់យើង ដើម្បីឱ្យកាន់តែមានលក្ខណៈទូលំទូលាយសម្រាប់មនុស្សគ្រប់រូប។ មុខងារមួយចំនួនគាំទ្រដល់ភាពងាយស្រួលប្រើប្រាស់សម្រាប់អ្នកសិក្សាដែលមានតម្រូវការចម្រុះ និងក្នុងបរិយាកាសចម្រុះ។ រុករកម៉ឺនុយនេះដើម្បីពិនិត្យឡើងវិញ ឬផ្លាស់ប្តូរការកំណត់បទបង្ហាញលំនាំដើម។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.general.moreAccessibility",
+      "status": "untranslated",
+      "english": "Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.",
+      "currentKhmer": "Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.",
+      "khmer": "ស្វែងរកមុខងារបរិយាបន្ននៅលើទំព័រតម្រងការពិសោធនៃគេហទំព័រ PhET ដើម្បីស្វែងរកការពិសោធទាំងអស់ដែលមានមុខងារទាំងនេះ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.languageSelection.description",
+      "status": "untranslated",
+      "english": "Change language to translate on-screen text. Additional descriptions, when present, remain in English.",
+      "currentKhmer": "Change language to translate on-screen text. Additional descriptions, when present, remain in English.",
+      "khmer": "ផ្លាស់ប្តូរភាសាដើម្បីបកប្រែអត្ថបទនៅលើអេក្រង់។ ការពិពណ៌នាបន្ថែម (ប្រសិនបើមាន) នឹងនៅតែជាភាសាអង់គ្លេស។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.africa",
+      "status": "untranslated",
+      "english": "Africa",
+      "currentKhmer": "Africa",
+      "khmer": "អាហ្វ្រិក"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.africaModest",
+      "status": "untranslated",
+      "english": "Africa (Modest)",
+      "currentKhmer": "Africa (Modest)",
+      "khmer": "អាហ្វ្រិក (សុភាព)"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.asia",
+      "status": "untranslated",
+      "english": "Asia",
+      "currentKhmer": "Asia",
+      "khmer": "អាស៊ី"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.description",
+      "status": "untranslated",
+      "english": "Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.",
+      "currentKhmer": "Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.",
+      "khmer": "ជ្រើសរើសការបង្ហាញរូបភាពមនុស្ស ទីកន្លែង ឬវត្ថុនៅក្នុងការពិសោធ។ រូបភាពទាំងនេះមិនមានបំណងតំណាងឱ្យភាពចម្រុះទាំងមូលនៃតំបន់ ឬវប្បធម៌ណាមួយឡើយ។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.latinAmerica",
+      "status": "untranslated",
+      "english": "Latin America",
+      "currentKhmer": "Latin America",
+      "khmer": "អាមេរិកឡាទីន"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.oceania",
+      "status": "untranslated",
+      "english": "Oceania",
+      "currentKhmer": "Oceania",
+      "khmer": "អូសេអានី"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.random",
+      "status": "untranslated",
+      "english": "Random",
+      "currentKhmer": "Random",
+      "khmer": "ចៃដន្យ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.title",
+      "status": "untranslated",
+      "english": "Region and Culture",
+      "currentKhmer": "Region and Culture",
+      "khmer": "តំបន់ និងវប្បធម៌"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica",
+      "status": "untranslated",
+      "english": "United States of America",
+      "currentKhmer": "United States of America",
+      "khmer": "សហរដ្ឋអាមេរិក"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.overview.title",
+      "status": "untranslated",
+      "english": "Overview",
+      "currentKhmer": "Overview",
+      "khmer": "ទិដ្ឋភាពទូទៅ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.simulation.title",
+      "status": "untranslated",
+      "english": "Simulation",
+      "currentKhmer": "Simulation",
+      "khmer": "ការពិសោធ"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.visual.interactiveHighlights",
+      "status": "untranslated",
+      "english": "Interactive Highlights",
+      "currentKhmer": "Interactive Highlights",
+      "khmer": "ការរំលេចអន្តរកម្ម"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.visual.interactiveHighlightsDescription",
+      "status": "untranslated",
+      "english": "Add visual highlights for mouse and touch as you interact.",
+      "currentKhmer": "Add visual highlights for mouse and touch as you interact.",
+      "khmer": "បន្ថែមការរំលេចរូបភាពសម្រាប់កណ្ដុរ និងការប៉ះនៅពេលអ្នកធ្វើអន្តរកម្ម។"
+    },
+    {
+      "section": "Settings",
+      "key": "JOIST/preferences.tabs.visual.projectorModeDescription",
+      "status": "untranslated",
+      "english": "Increase color contrast for better visibility in classrooms.",
+      "currentKhmer": "Increase color contrast for better visibility in classrooms.",
+      "khmer": "បង្កើនកម្រិតកម្រិតពណ៌ច្បាស់ (Contrast) ដើម្បីឱ្យមើលឃើញកាន់តែច្បាស់នៅក្នុងថ្នាក់រៀន។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/queryParametersWarningDialog.invalidQueryParameters",
+      "status": "untranslated",
+      "english": "Invalid Query Parameters",
+      "currentKhmer": "Invalid Query Parameters",
+      "khmer": "ប៉ារ៉ាម៉ែត្រ Query មិនត្រឹមត្រូវ"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/queryParametersWarningDialog.oneOrMoreQueryParameters",
+      "status": "untranslated",
+      "english": "One or more of these query parameters have<br>invalid values:",
+      "currentKhmer": "One or more of these query parameters have<br>invalid values:",
+      "khmer": "ប៉ារ៉ាម៉ែត្រ Query មួយ ឬច្រើនមាន<br>តម្លៃមិនត្រឹមត្រូវ៖"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/queryParametersWarningDialog.theSimulationWillStart",
+      "status": "untranslated",
+      "english": "The simulation will start with default values for<br>those query parameters.",
+      "currentKhmer": "The simulation will start with default values for<br>those query parameters.",
+      "khmer": "ការពិសោធនឹងចាប់ផ្តើមជាមួយនឹងតម្លៃលំនាំដើមសម្រាប់<br>ប៉ារ៉ាម៉ែត្រ Query ទាំងនោះ។"
+    },
+    {
+      "section": "Shared interface",
+      "key": "JOIST/simTitleWithScreenNamePattern",
+      "status": "untranslated",
+      "english": "{{simName}} — {{screenName}}",
+      "currentKhmer": "{{simName}} — {{screenName}}",
+      "khmer": "{{simName}} — {{screenName}}"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/thirdParty.credits.link",
+      "status": "untranslated",
+      "english": "Third-party Credits",
+      "currentKhmer": "Third-party Credits",
+      "khmer": "ក្រេឌីតភាគីទីបី"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/translation.credits.link",
+      "status": "untranslated",
+      "english": "Translation Credits",
+      "currentKhmer": "Translation Credits",
+      "khmer": "ក្រេឌីតការបកប្រែ"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/updates.checking",
+      "status": "untranslated",
+      "english": "Checking for updates…",
+      "currentKhmer": "Checking for updates…",
+      "khmer": "កំពុងពិនិត្យមើលការអាប់ដេត…"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/updates.getUpdate",
+      "status": "untranslated",
+      "english": "Get Update…",
+      "currentKhmer": "Get Update…",
+      "khmer": "ទទួលយកការអាប់ដេត…"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/updates.newVersionAvailable",
+      "status": "untranslated",
+      "english": "There is a new version available: {0}.",
+      "currentKhmer": "There is a new version available: {0}.",
+      "khmer": "មានកំណែថ្មី៖ {0}។"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/updates.noThanks",
+      "status": "untranslated",
+      "english": "No Thanks",
+      "currentKhmer": "No Thanks",
+      "khmer": "ទេ អរគុណ"
+    },
+    {
+      "section": "About",
+      "key": "JOIST/updates.offline",
+      "status": "untranslated",
+      "english": "Unable to check for updates.",
+      "currentKhmer": "Unable to check for updates.",
+      "khmer": "មិនអាចពិនិត្យមើលការអាប់ដេតបានទេ។"
+    },
+  {
+    "section": "About",
+    "key": "JOIST/updates.outOfDate",
+    "status": "untranslated",
+    "english": "New version available",
+    "currentKhmer": "New version available",
+    "khmer": "មានកំណែថ្មី"
+  },
+  {
+    "section": "About",
+    "key": "JOIST/updates.upToDate",
+    "status": "untranslated",
+    "english": "This simulation is up to date.",
+    "currentKhmer": "This simulation is up to date.",
+    "khmer": "ការពិសោធនេះជាកំណែចុងក្រោយហើយ។"
+  },
+  {
+    "section": "About",
+    "key": "JOIST/updates.yourCurrentVersion",
+    "status": "untranslated",
+    "english": "Your current version is: {0}.",
+    "currentKhmer": "Your current version is: {0}.",
+    "khmer": "កំណែបច្ចុប្បន្នរបស់អ្នកគឺ៖ {0}។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.beads.crossedDividerContextResponse",
+    "status": "partially translated",
+    "english": "{ $side ->\n  [left] bead now yellow on left\n  *[right] bead now blue on right\n}",
+    "currentKhmer": "{ $side ->\n  [ឆ្វេង] bead now ពណ៌លឿង on ឆ្វេង\n  *[ស្តាំ] bead now ពណ៌ខៀវ on ស្តាំ\n}",
+    "khmer": "{ $side ->\n  [left] គ្រាប់អង្កាំឥឡូវនេះពណ៌លឿងនៅខាងឆ្វេង\n  *[right] គ្រាប់អង្កាំឥឡូវនេះពណ៌ខៀវនៅខាងស្តាំ\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.beads.objectResponse",
+    "status": "partially translated",
+    "english": "{ $grabbedOrReleased ->\n  [grabbed] { $side ->\n              [left] grabbed, left of divider\n              *[right] grabbed, right of divider\n            }\n  *[released] { $side ->\n                [left] released, left of divider\n                *[right] released, right of divider\n              }\n}",
+    "currentKhmer": "{ $grabbedOrReleased ->\n  [grabbed] { $side ->\n              [ឆ្វេង] grabbed, ឆ្វេង of divider\n              *[ស្តាំ] grabbed, ស្តាំ of divider\n            }\n  *[released] { $side ->\n                [ឆ្វេង] released, ឆ្វេង of divider\n                *[ស្តាំ] released, ស្តាំ of divider\n              }\n}",
+    "khmer": "{ $grabbedOrReleased ->\n  [grabbed] { $side ->\n              [left] បានចាប់យក, នៅខាងឆ្វេងរបាំងខណ្ឌ\n              *[right] បានចាប់យក, នៅខាងស្តាំរបាំងខណ្ឌ\n            }\n  *[released] { $side ->\n                [left] បានលែង, នៅខាងឆ្វេងរបាំងខណ្ឌ\n                *[right] បានលែង, នៅខាងស្តាំរបាំងខណ្ឌ\n              }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendVisibleButton.accessibleContextResponseOff",
+    "status": "untranslated",
+    "english": "contents visible",
+    "currentKhmer": "contents visible",
+    "khmer": "មាតិកាត្រូវបានបង្ហាញ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendVisibleButton.accessibleContextResponseOn",
+    "status": "untranslated",
+    "english": "contents hidden",
+    "currentKhmer": "contents hidden",
+    "khmer": "មាតិកាត្រូវបានលាក់"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendVisibleButton.accessibleHelpTextPattern",
+    "status": "untranslated",
+    "english": "Show or hide { $addend } counting area and { $addend } addend in { a11y_numberBondOrBarModelLowercase }.",
+    "currentKhmer": "Show or hide { $addend } counting area and { $addend } addend in { a11y_numberBondOrBarModelLowercase }.",
+    "khmer": "បង្ហាញ ឬលាក់តំបន់រាប់ខាង { $addend } និងតួបូកខាង { $addend } នៅក្នុង { a11y_numberBondOrBarModelLowercase }។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendVisibleButton.accessibleNamePattern",
+    "status": "untranslated",
+    "english": "{ $addend } Counting Area Visibility",
+    "currentKhmer": "{ $addend } Counting Area Visibility",
+    "khmer": "ភាពមើលឃើញនៃតំបន់រាប់ខាង { $addend }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendsCheckbox.accessibleContextResponseChecked",
+    "status": "untranslated",
+    "english": "Addends are { $leftAddend } and { $rightAddend }, labeled on number line.",
+    "currentKhmer": "Addends are { $leftAddend } and { $rightAddend }, labeled on number line.",
+    "khmer": "តួបូកគឺ { $leftAddend } និង { $rightAddend } ដែលមានស្លាកនៅលើបន្ទាត់ចំនួន។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendsCheckbox.accessibleContextResponseUnchecked",
+    "status": "untranslated",
+    "english": "Addends hidden.",
+    "currentKhmer": "Addends hidden.",
+    "khmer": "តួបូកត្រូវបានលាក់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.addendsCheckbox.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Show or hide addend values.",
+    "currentKhmer": "Show or hide addend values.",
+    "khmer": "បង្ហាញ ឬលាក់តម្លៃតួបូក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.bothAddendsVisibleButton.accessibleHelpTextPattern",
+    "status": "untranslated",
+    "english": "Show or hide counting area and both addends in { a11y_numberBondOrBarModelLowercase }.",
+    "currentKhmer": "Show or hide counting area and both addends in { a11y_numberBondOrBarModelLowercase }.",
+    "khmer": "បង្ហាញ ឬលាក់តំបន់រាប់ និងតួបូកទាំងពីរនៅក្នុង { a11y_numberBondOrBarModelLowercase }។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.commutativeButton.accessibleContextResponse",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [attribute] { $leftAddend } yellow, { $rightAddend } blue.\n  [numberLine] { $leftAddend } in left yellow section, { $rightAddend } in right blue section.\n  *[other] { $leftAddend } on left, { $rightAddend } on right.\n}",
+    "currentKhmer": "{ $representationType ->\n  [attribute] { $leftAddend } ពណ៌លឿង, { $rightAddend } ពណ៌ខៀវ.\n  [numberLine] { $leftAddend } in ឆ្វេង ពណ៌លឿង section, { $rightAddend } in ស្តាំ ពណ៌ខៀវ section.\n  *[other] { $leftAddend } on ឆ្វេង, { $rightAddend } on ស្តាំ.\n}",
+    "khmer": "{ $representationType ->\n  [attribute] ពណ៌លឿង { $leftAddend }, ពណ៌ខៀវ { $rightAddend }។\n  [numberLine] { $leftAddend } នៅក្នុងផ្នែកពណ៌លឿងខាងឆ្វេង, { $rightAddend } នៅក្នុងផ្នែកពណ៌ខៀវខាងស្តាំ។\n  *[other] { $leftAddend } នៅខាងឆ្វេង, { $rightAddend } នៅខាងស្តាំ។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.countFromZeroSwitch.accessibleHelpText",
+    "status": "partially translated",
+    "english": "Choose where to start counting. Count on from first addend to get total or count to first addend starting at zero.",
+    "currentKhmer": "Choose where to start counting. Count on from first addend to get សរុប or count to first addend starting at zero.",
+    "khmer": "ជ្រើសរើសកន្លែងត្រូវចាប់ផ្តើមរាប់។ រាប់បន្តពីតួបូកទីមួយដើម្បីទទួលបានចំនួនសរុប ឬរាប់ទៅកាន់តួបូកទីមួយដោយចាប់ផ្តើមពីសូន្យ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.countingObjectControl.accessibleHelpText",
+    "status": "untranslated",
+    "english": "{ $representationType ->\n  [kittens] Add or remove one { $color } kitten.\n  [beads] Add or remove one { $color } bead.\n  *[other] Add or remove one from { $addend } section.\n}",
+    "currentKhmer": "{ $representationType ->\n  [kittens] Add or remove one { $color } kitten.\n  [beads] Add or remove one { $color } bead.\n  *[other] Add or remove one from { $addend } section.\n}",
+    "khmer": "{ $representationType ->\n  [kittens] បន្ថែម ឬដកកូនឆ្មា { $color } មួយចេញ។\n  [beads] បន្ថែម ឬដកគ្រាប់អង្កាំ { $color } មួយចេញ។\n  *[other] បន្ថែម ឬដកមួយចេញពីផ្នែកខាង { $addend }។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.countingObjectControl.accessibleName",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [kittens] { $color } Kitten\n  [beads] { $color } Bead\n  *[other] { $color } Section\n}",
+    "currentKhmer": "{ $representationType ->\n  [kittens] { $color } កូនឆ្មា\n  [beads] { $color } អង្កាំ\n  *[other] { $color } Section\n}",
+    "khmer": "{ $representationType ->\n  [kittens] កូនឆ្មា { $color }\n  [beads] គ្រាប់អង្កាំ { $color }\n  *[other] ផ្នែក { $color }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.countingObjectControl.decrementContextResponse",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [kittens] One { $color } kitten removed from counting area.\n  [beads] One { $color } bead removed from counting area.\n  *[other] One removed from { $addend } { $color } section of total.\n}",
+    "currentKhmer": "{ $representationType ->\n  [kittens] One { $color } kitten removed from counting area.\n  [beads] One { $color } bead removed from counting area.\n  *[other] One removed from { $addend } { $color } section of សរុប.\n}",
+    "khmer": "{ $representationType ->\n  [kittens] កូនឆ្មា { $color } មួយត្រូវបានដកចេញពីតំបន់រាប់។\n  [beads] គ្រាប់អង្កាំ { $color } មួយត្រូវបានដកចេញពីតំបន់រាប់។\n  *[other] មួយត្រូវបានដកចេញពីផ្នែក { $color } ខាង { $addend } នៃចំនួនសរុប។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.countingObjectControl.incrementContextResponse",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [kittens] One { $color } kitten added to counting area.\n  [beads] One { $color } bead added to counting area.\n  *[other] One added to { $addend } { $color } section of total.\n}",
+    "currentKhmer": "{ $representationType ->\n  [kittens] One { $color } kitten added to counting area.\n  [beads] One { $color } bead added to counting area.\n  *[other] One added to { $addend } { $color } section of សរុប.\n}",
+    "khmer": "{ $representationType ->\n  [kittens] កូនឆ្មា { $color } មួយត្រូវបានបន្ថែមទៅក្នុងតំបន់រាប់។\n  [beads] គ្រាប់អង្កាំ { $color } មួយត្រូវបានបន្ថែមទៅក្នុងតំបន់រាប់។\n  *[other] មួយត្រូវបានបន្ថែមទៅផ្នែក { $color } ខាង { $addend } នៃចំនួនសរុប។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.localeSwitch.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Choose between two languages to hear and read phrase.",
+    "currentKhmer": "Choose between two languages to hear and read phrase.",
+    "khmer": "ជ្រើសរើសរវាងភាសាទាំងពីរដើម្បីស្តាប់ និងអានឃ្លា។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Represent decomposition as a { a11y_numberBondOrBarModelLowercase }.",
+    "currentKhmer": "Represent decomposition as a { a11y_numberBondOrBarModelLowercase }.",
+    "khmer": "តំណាងឱ្យការបំបែកចំនួនជា { a11y_numberBondOrBarModelLowercase }។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.barModelAccessibleParagraph",
+    "status": "partially translated",
+    "english": "{ $orientation ->\n  [totalOnTop] Two matching rectangles are stacked on top of each other. Top rectangle is not split and tells total number of objects, bottom rectangle is split by addends, showing two sections that adjust based on value of addends.\n  *[totalOnBottom] Two matching rectangles are stacked on top of each other. Top rectangle is split by addends, showing two sections that adjust based on value of addends. Bottom rectangle is not split and tells the sum of two addends, also called the total.\n}",
+    "currentKhmer": "{ $orientation ->\n  [totalOnTop] Two matching rectangles are stacked on top of each other. Top rectangle is not split and tells សរុប number of objects, bottom rectangle is split by addends, showing two sections that adjust based on value of addends.\n  *[totalOnBottom] Two matching rectangles are stacked on top of each other. Top rectangle is split by addends, showing two sections that adjust based on value of addends. Bottom rectangle is not split and tells the sum of two addends, also called the សរុប.\n}",
+    "khmer": "{ $orientation ->\n  [totalOnTop] ចតុកោណកែងដូចគ្នាពីរត្រូវបានដាក់ត្រួតលើគ្នា។ ចតុកោណកែងខាងលើមិនត្រូវបានបំបែកទេ ហើយបង្ហាញចំនួនសរុបនៃវត្ថុ ចំណែកចតុកោណកែងខាងក្រោមត្រូវបានបំបែកតាមតួបូក ដោយបង្ហាញពីរផ្នែកដែលកែតម្រូវផ្អែកលើតម្លៃនៃតួបូក។\n  *[totalOnBottom] ចតុកោណកែងដូចគ្នាពីរត្រូវបានដាក់ត្រួតលើគ្នា។ ចតុកោណកែងខាងលើត្រូវបានបំបែកតាមតួបូក ដោយបង្ហាញពីរផ្នែកដែលកែតម្រូវផ្អែកលើតម្លៃនៃតួបូក។ ចតុកោណកែងខាងក្រោមមិនត្រូវបានបំបែកទេ ហើយបង្ហាញផលបូកនៃតួបូកទាំងពីរ ដែលហៅថាលទ្ធផលសរុប។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.barModelStateAccessibleParagraph",
+    "status": "partially translated",
+    "english": "{ $orientation ->\n  [totalOnTop] Right now, { $total } in top rectangle, { $left } and { $right } in bottom rectangle, split into { $proportions } sections.\n  *[totalOnBottom] Right now, { $left } and { $right } top rectangle, split into { $proportions } sections, { $total } in bottom rectangle.\n}",
+    "currentKhmer": "{ $orientation ->\n  [totalOnTop] ស្តាំ now, { $សរុប } in top rectangle, { $ឆ្វេង } and { $ស្តាំ } in bottom rectangle, split into { $proportions } sections.\n  *[totalOnBottom] ស្តាំ now, { $ឆ្វេង } and { $ស្តាំ } top rectangle, split into { $proportions } sections, { $សរុប } in bottom rectangle.\n}",
+    "khmer": "{ $orientation ->\n  [totalOnTop] ឥឡូវនេះ, { $total } នៅក្នុងចតុកោណកែងខាងលើ, { $left } និង { $right } នៅក្នុងចតុកោណកែងខាងក្រោម ដែលបំបែកជាផ្នែក { $proportions }។\n  *[totalOnBottom] ឥឡូវនេះ, { $left } និង { $right } នៅក្នុងចតុកោណកែងខាងលើ ដែលបំបែកជាផ្នែក { $proportions }, { $total } នៅក្នុងចតុកោណកែងខាងក្រោម។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.equal",
+    "status": "untranslated",
+    "english": "equal",
+    "currentKhmer": "equal",
+    "khmer": "ស្មើគ្នា"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.largerAndSmaller",
+    "status": "untranslated",
+    "english": "larger and smaller",
+    "currentKhmer": "larger and smaller",
+    "khmer": "ធំជាង និងតូចជាង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.leftAddendMissing",
+    "status": "untranslated",
+    "english": "a mystery number",
+    "currentKhmer": "a mystery number",
+    "khmer": "ចំនួនអាថ៌កំបាំងមួយ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.numberBondAccessibleParagraph",
+    "status": "partially translated",
+    "english": "{ $orientation ->\n  [totalOnBottom] Number bond has three circles arranged with two on top and one underneath like a triangle. Top circles tell the addends. Left circle is left addend, right circle is right addend. Bottom circle is total.\n  *[totalOnTop] Number bond has three circles arranged with one circle on top and two underneath like a triangle. Bottom circles tell the addends. Top circle tells total number of objects, left circle is left addend, right circle is right addend.\n}",
+    "currentKhmer": "{ $orientation ->\n  [totalOnBottom] Number bond has three circles arranged with two on top and one underneath like a triangle. Top circles tell the addends. ឆ្វេង circle is ឆ្វេង addend, ស្តាំ circle is ស្តាំ addend. Bottom circle is សរុប.\n  *[totalOnTop] Number bond has three circles arranged with one circle on top and two underneath like a triangle. Bottom circles tell the addends. Top circle tells សរុប number of objects, ឆ្វេង circle is ឆ្វេង addend, ស្តាំ circle is ស្តាំ addend.\n}",
+    "khmer": "{ $orientation ->\n  [totalOnBottom] ចំណងចំនួន (Number bond) មានរង្វង់បីដែលរៀបចំដោយរង្វង់ពីរនៅខាងលើ និងមួយនៅខាងក្រោមដូចត្រីកោណ។ រង្វង់ខាងលើបង្ហាញពីតួបូក។ រង្វង់ខាងឆ្វេងជាតួបូកខាងឆ្វេង រង្វង់ខាងស្តាំជាតួបូកខាងស្តាំ។ រង្វង់ខាងក្រោមជាចំនួនសរុប។\n  *[totalOnTop] ចំណងចំនួន (Number bond) មានរង្វង់បីដែលរៀបចំដោយរង្វង់មួយនៅខាងលើ និងពីរនៅខាងក្រោមដូចត្រីកោណ។ រង្វង់ខាងក្រោមបង្ហាញពីតួបូក។ រង្វង់ខាងលើបង្ហាញចំនួនសរុបនៃវត្ថុ រង្វង់ខាងឆ្វេងជាតួបូកខាងឆ្វេង រង្វង់ខាងស្តាំជាតួបូកខាងស្តាំ។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.numberBondStateAccessibleParagraph",
+    "status": "partially translated",
+    "english": "{ $orientation ->\n  [totalOnTop] Right now, { $total } in top circle, { $left } in left circle, { $right } in right circle.\n  *[totalOnBottom] Right now, { $left } in left circle, { $right } in right circle, { $total } in bottom circle.\n}",
+    "currentKhmer": "{ $orientation ->\n  [totalOnTop] ស្តាំ now, { $សរុប } in top circle, { $ឆ្វេង } in ឆ្វេង circle, { $ស្តាំ } in ស្តាំ circle.\n  *[totalOnBottom] ស្តាំ now, { $ឆ្វេង } in ឆ្វេង circle, { $ស្តាំ } in ស្តាំ circle, { $សរុប } in bottom circle.\n}",
+    "khmer": "{ $orientation ->\n  [totalOnTop] ឥឡូវនេះ, { $total } នៅក្នុងរង្វង់ខាងលើ, { $left } នៅក្នុងរង្វង់ខាងឆ្វេង, { $right } នៅក្នុងរង្វង់ខាងស្តាំ។\n  *[totalOnBottom] ឥឡូវនេះ, { $left } នៅក្នុងរង្វង់ខាងឆ្វេង, { $right } នៅក្នុងរង្វង់ខាងស្តាំ, { $total } នៅក្នុងរង្វង់ខាងក្រោម។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.rightAddendMissing",
+    "status": "untranslated",
+    "english": "another mystery number",
+    "currentKhmer": "another mystery number",
+    "khmer": "ចំនួនអាថ៌កំបាំងមួយទៀត"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.smallerAndLarger",
+    "status": "untranslated",
+    "english": "smaller and larger",
+    "currentKhmer": "smaller and larger",
+    "khmer": "តូចជាង និងធំជាង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.numberModel.totalMissing",
+    "status": "partially translated",
+    "english": "a mystery total",
+    "currentKhmer": "a mystery សរុប",
+    "khmer": "ចំនួនសរុបអាថ៌កំបាំង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.phrase.accessibleHelpTextCollapsed",
+    "status": "partially translated",
+    "english": "{ $screenType ->\n  [sumScreen] Phrase describes the sum equation.\n  *[other] Phrase tells how total is decomposed.\n}",
+    "currentKhmer": "{ $screenType ->\n  [sumScreen] ឃ្លាចំនួន describes the sum equation.\n  *[other] ឃ្លាចំនួន tells how សរុប is decomposed.\n}",
+    "khmer": "{ $screenType ->\n  [sumScreen] ឃ្លាពណ៌នាអំពីសមីការផលបូក។\n  *[other] ឃ្លាបង្ហាញពីរបៀបដែលចំនួនសរុបត្រូវបានបំបែក។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.speechSynthesis.noVoiceAccessibleName",
+    "status": "untranslated",
+    "english": "No Voice Found",
+    "currentKhmer": "No Voice Found",
+    "khmer": "រកមិនឃើញសំឡេងទេ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.speechSynthesis.noVoiceAccessibleParagraph",
+    "status": "untranslated",
+    "english": "There is no voice found on this device for the selected language. Your device may support downloading additional voices for this language.",
+    "currentKhmer": "There is no voice found on this device for the selected language. Your device may support downloading additional voices for this language.",
+    "khmer": "រកមិនឃើញសំឡេងនៅលើឧបករណ៍នេះសម្រាប់ភាសាដែលបានជ្រើសរើសឡើយ។ ឧបករណ៍របស់អ្នកអាចគាំទ្រការទាញយកសំឡេងបន្ថែមសម្រាប់ភាសានេះ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.accessibleContextResponse",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [kittens] { $distribution }, kittens in rows.\n  [beads] Divider separates groups by color.\n  *[other] Left and right counting areas organized into rows.\n}",
+    "currentKhmer": "{ $representationType ->\n  [kittens] { $distribution }, kittens in rows.\n  [beads] Divider separates groups by color.\n  *[other] ឆ្វេង and ស្តាំ counting areas organized into rows.\n}",
+    "khmer": "{ $representationType ->\n  [kittens] { $distribution }, កូនឆ្មាតម្រៀបជាជួរដេក។\n  [beads] របាំងខណ្ឌបែងចែកក្រុមតាមពណ៌។\n  *[other] តំបន់រាប់ខាងឆ្វេង និងខាងស្តាំត្រូវបានរៀបចំជាជួរដេក។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.accessibleContextResponseGameCombined",
+    "status": "untranslated",
+    "english": "One array with combined colors, kittens in rows.",
+    "currentKhmer": "One array with combined colors, kittens in rows.",
+    "khmer": "ក្រឡាតម្រៀបមួយដែលមានពណ៌បញ្ចូលគ្នា, កូនឆ្មាតម្រៀបជាជួរដេក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.accessibleContextResponseGameSeparate",
+    "status": "untranslated",
+    "english": "Two arrays separated by color, kittens in rows.",
+    "currentKhmer": "Two arrays separated by color, kittens in rows.",
+    "khmer": "ក្រឡាតម្រៀបពីរដែលបែងចែកតាមពណ៌, កូនឆ្មាតម្រៀបជាជួរដេក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.accessibleHelpText",
+    "status": "partially translated",
+    "english": "Create groups of 5 { $representation }.",
+    "currentKhmer": "បង្កើតក្រុម ៥ នៃ {{representation}}។",
+    "khmer": "បង្កើតក្រុម ៥ នៃ { $representation }។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.accessibleName",
+    "status": "partially translated",
+    "english": "Organize { $representation }",
+    "currentKhmer": "រៀបចំ {{representation}}",
+    "khmer": "រៀបចំ { $representation }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.decompositionDistribution",
+    "status": "untranslated",
+    "english": "Two arrays separated by color",
+    "currentKhmer": "Two arrays separated by color",
+    "khmer": "ក្រឡាតម្រៀបពីរដែលបែងចែកតាមពណ៌"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tenFrameButton.sumDistribution",
+    "status": "untranslated",
+    "english": "One array combines color",
+    "currentKhmer": "One array combines color",
+    "khmer": "ក្រឡាតម្រៀបមួយដែលរួមបញ្ចូលពណ៌"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tickNumbersCheckbox.accessibleContextResponseChecked",
+    "status": "untranslated",
+    "english": "Tick marks labeled.",
+    "currentKhmer": "Tick marks labeled.",
+    "khmer": "បន្ទាត់កម្រិតត្រូវបានដាក់ស្លាក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tickNumbersCheckbox.accessibleContextResponseUnchecked",
+    "status": "untranslated",
+    "english": "Tick mark not labeled.",
+    "currentKhmer": "Tick mark not labeled.",
+    "khmer": "បន្ទាត់កម្រិតមិនត្រូវបានដាក់ស្លាកទេ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.tickNumbersCheckbox.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Show or hide tick mark numbers on number line.",
+    "currentKhmer": "Show or hide tick mark numbers on number line.",
+    "khmer": "បង្ហាញ ឬលាក់លេខបន្ទាត់កម្រិតនៅលើបន្ទាត់ចំនួន។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.totalCheckbox.accessibleContextResponseChecked",
+    "status": "partially translated",
+    "english": "Total shown.",
+    "currentKhmer": "សរុប shown.",
+    "khmer": "ចំនួនសរុបត្រូវបានបង្ហាញ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.totalCheckbox.accessibleContextResponseUnchecked",
+    "status": "partially translated",
+    "english": "Total hidden.",
+    "currentKhmer": "សរុប hidden.",
+    "khmer": "ចំនួនសរុបត្រូវបានលាក់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.totalCheckbox.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Show or hide sum of addends.",
+    "currentKhmer": "Show or hide sum of addends.",
+    "khmer": "បង្ហាញ ឬលាក់ផលបូកនៃតួបូក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.totalJumpCheckbox.accessibleContextResponseChecked",
+    "status": "partially translated",
+    "english": "Total jump of { $total } shown and labeled.",
+    "currentKhmer": "សរុប jump of { $សរុប } shown and labeled.",
+    "khmer": "ការលោតសរុបនៃ { $total } ត្រូវបានបង្ហាញ និងដាក់ស្លាក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.totalJumpCheckbox.accessibleContextResponseUnchecked",
+    "status": "partially translated",
+    "english": "Total jump not shown.",
+    "currentKhmer": "សរុប jump not shown.",
+    "khmer": "ការលោតសរុបមិនត្រូវបានបង្ហាញទេ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.controls.totalJumpCheckbox.accessibleHelpText",
+    "status": "partially translated",
+    "english": "Show or hide total jump on number line.",
+    "currentKhmer": "Show or hide សរុប jump on number line.",
+    "khmer": "បង្ហាញ ឬលាក់ការលោតសរុបនៅលើបន្ទាត់ចំនួន។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.addendValueHidden",
+    "status": "untranslated",
+    "english": "some",
+    "currentKhmer": "some",
+    "khmer": "មួយចំនួន"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.blueListItemPattern",
+    "status": "partially translated",
+    "english": "{ $value } blue",
+    "currentKhmer": "{ $value } ពណ៌ខៀវ",
+    "khmer": "{ $value } ពណ៌ខៀវ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.leadingParagraph",
+    "status": "partially translated",
+    "english": "{ $totalVisible ->\n  [hidden] Total is hidden\n  *[shown] { $total ->\n               [1] Right now, 1 total { $item } in Counting area.\n               *[other] Right now, { $total } total { $items } in Counting area.\n           }\n}",
+    "currentKhmer": "{ $totalVisible ->\n  [hidden] សរុប is hidden\n  *[shown] { $សរុប ->\n               [1] ស្តាំ now, 1 សរុប { $item } in Counting area.\n               *[other] ស្តាំ now, { $សរុប } សរុប { $items } in Counting area.\n           }\n}",
+    "khmer": "{ $totalVisible ->\n  [hidden] ចំនួនសរុបត្រូវបានលាក់\n  *[shown] { $total ->\n               [1] ឥឡូវនេះ, { $item } សរុបចំនួន 1 នៅក្នុងតំបន់រាប់។\n               *[other] ឥឡូវនេះ, { $items } សរុបចំនួន { $total } នៅក្នុងតំបន់រាប់។\n           }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.leftSideBeadsPattern",
+    "status": "partially translated",
+    "english": "{ $value } yellow on left side",
+    "currentKhmer": "{ $value } ពណ៌លឿង on ឆ្វេង side",
+    "khmer": "ពណ៌លឿង { $value } នៅខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.leftSideListItemPattern",
+    "status": "partially translated",
+    "english": "{ $value } on left side",
+    "currentKhmer": "{ $value } on ឆ្វេង side",
+    "khmer": "{ $value } នៅខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.rightSideBeadsPattern",
+    "status": "partially translated",
+    "english": "{ $value } blue on right side",
+    "currentKhmer": "{ $value } ពណ៌ខៀវ on ស្តាំ side",
+    "khmer": "ពណ៌ខៀវ { $value } នៅខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.rightSideListItemPattern",
+    "status": "partially translated",
+    "english": "{ $value } on right side",
+    "currentKhmer": "{ $value } on ស្តាំ side",
+    "khmer": "{ $value } នៅខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingArea.yellowListItemPattern",
+    "status": "partially translated",
+    "english": "{ $value } yellow",
+    "currentKhmer": "{ $value } ពណ៌លឿង",
+    "khmer": "{ $value } ពណ៌លឿង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.countingAreaEmpty",
+    "status": "untranslated",
+    "english": "Counting Area Empty",
+    "currentKhmer": "Counting Area Empty",
+    "khmer": "តំបន់រាប់ទទេ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.equationAccordionBox.accessibleHelpTextCollapsed",
+    "status": "untranslated",
+    "english": "{ $screenType ->\n  [other] View decomposition equation.\n  *[sumScreen] View sum equation.\n}",
+    "currentKhmer": "{ $screenType ->\n  [other] View decomposition equation.\n  *[sumScreen] View sum equation.\n}",
+    "khmer": "{ $screenType ->\n  [other] មើលសមីការបំបែកចំនួន។\n  *[sumScreen] មើលសមីការផលបូក។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.equationAccordionBox.addendsOnLeftAccessibleParagraph",
+    "status": "partially translated",
+    "english": "Right now, equation shows { $leftAddend } + { $rightAddend } = { $total }",
+    "currentKhmer": "ស្តាំ now, equation shows { $leftAddend } + { $rightAddend } = { $សរុប }",
+    "khmer": "ឥឡូវនេះ សមីការបង្ហាញ { $leftAddend } + { $rightAddend } = { $total }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.equationAccordionBox.addendsOnRightAccessibleParagraph",
+    "status": "partially translated",
+    "english": "Right now, equation shows { $total } = { $leftAddend } + { $rightAddend }",
+    "currentKhmer": "ស្តាំ now, equation shows { $សរុប } = { $leftAddend } + { $rightAddend }",
+    "khmer": "ឥឡូវនេះ សមីការបង្ហាញ { $total } = { $leftAddend } + { $rightAddend }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.answerButton.wrongAccessibleName",
+    "status": "untranslated",
+    "english": "{$value}, incorrect answer",
+    "currentKhmer": "{$value}, incorrect answer",
+    "khmer": "{$value}, ចម្លើយមិនត្រឹមត្រូវ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.answerButtonGroup.accessibleHeading",
+    "status": "untranslated",
+    "english": "{ a11y_gameScreen_answerChoices }",
+    "currentKhmer": "{ a11y_gameScreen_answerChoices }",
+    "khmer": "{ a11y_gameScreen_answerChoices }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.answerButtonGroup.accessibleHelpText",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [kittens] { $addendOrSum ->\n              [addend] Choose number for { a11y_gameScreen_challengeType } to add { $color } Kittens to Counting Area. If needed, count, organize, or hide Kittens to help solve challenge. Check Answer to submit.\n              *[sum] Choose number for Sum of blue and yellow kittens. If needed, count, organize, or hide Kittens in Counting Area to help solve challenge. Check Answer to submit.\n            }\n  *[numberLine] Choose number for { a11y_gameScreen_challengeType } to make dotted jump have that length. Check Answer to submit and make dotted jump turn { $color } if correct.\n}",
+    "currentKhmer": "{ $levelType ->\n  [kittens] { $addendOrSum ->\n              [addend] Choose number for { a11y_gameScreen_challengeType } to add { $color } កូនឆ្មា to Counting Area. If needed, count, organize, or hide កូនឆ្មា to help solve challenge. ផ្ទៀងផ្ទាត់ Answer to submit.\n              *[sum] Choose number for Sum of ពណ៌ខៀវ and ពណ៌លឿង kittens. If needed, count, organize, or hide កូនឆ្មា in Counting Area to help solve challenge. ផ្ទៀងផ្ទាត់ Answer to submit.\n            }\n  *[numberLine] Choose number for { a11y_gameScreen_challengeType } to make dotted jump have that length. ផ្ទៀងផ្ទាត់ Answer to submit and make dotted jump turn { $color } if correct.\n}",
+    "khmer": "{ $levelType ->\n  [kittens] { $addendOrSum ->\n              [addend] ជ្រើសរើសលេខសម្រាប់ { a11y_gameScreen_challengeType } ដើម្បីបន្ថែមចំនួនកូនឆ្មា { $color } ទៅក្នុងតំបន់រាប់។ បើចាំបាច់ ចូររាប់ រៀបចំ ឬលាក់កូនឆ្មា ដើម្បីជួយដោះស្រាយបញ្ហាប្រឈម។ ចុចផ្ទៀងផ្ទាត់ចម្លើយដើម្បីបញ្ជូន។\n              *[sum] ជ្រើសរើសលេខសម្រាប់ផលបូកនៃកូនឆ្មាពណ៌ខៀវ និងពណ៌លឿង។ បើចាំបាច់ ចូររាប់ រៀបចំ ឬលាក់កូនឆ្មាក្នុងតំបន់រាប់ ដើម្បីជួយដោះស្រាយបញ្ហាប្រឈម។ ចុចផ្ទៀងផ្ទាត់ចម្លើយដើម្បីបញ្ជូន។\n            }\n  *[numberLine] ជ្រើសរើសលេខសម្រាប់ { a11y_gameScreen_challengeType } ដើម្បីឱ្យការលោតបន្ទាត់ចុចៗមានប្រវែងនោះ។ ចុចផ្ទៀងផ្ទាត់ចម្លើយដើម្បីបញ្ជូន ហើយធ្វើឱ្យការលោតបន្ទាត់ចុចៗប្រែជាពណ៌ { $color } ប្រសិនបើត្រឹមត្រូវ។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.bothAddendsEyeToggleButton.accessibleContextResponseOff",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [kittens] Kittens visible.\n  *[numberLine] Number line visible.\n}",
+    "currentKhmer": "{ $levelType ->\n  [kittens] កូនឆ្មា visible.\n  *[numberLine] Number line visible.\n}",
+    "khmer": "{ $levelType ->\n  [kittens] កូនឆ្មាត្រូវបានបង្ហាញ។\n  *[numberLine] បន្ទាត់ចំនួនត្រូវបានបង្ហាញ។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.bothAddendsEyeToggleButton.accessibleContextResponseOn",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [kittens] Kittens hidden.\n  *[numberLine] Number line hidden.\n}",
+    "currentKhmer": "{ $levelType ->\n  [kittens] កូនឆ្មា hidden.\n  *[numberLine] Number line hidden.\n}",
+    "khmer": "{ $levelType ->\n  [kittens] កូនឆ្មាត្រូវបានលាក់។\n  *[numberLine] បន្ទាត់ចំនួនត្រូវបានលាក់។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.challengePrompt",
+    "status": "partially translated",
+    "english": "{ $decompositionOrSum ->\n  [decomposition] { $total } can be decomposed into { $leftAddend } and { $rightAddend }?\n  *[sum] { $leftAddend } plus { $rightAddend } equals { $total }?\n}",
+    "currentKhmer": "{ $decompositionOrSum ->\n  [decomposition] { $សរុប } can be decomposed into { $leftAddend } and { $rightAddend }?\n  *[sum] { $leftAddend } plus { $rightAddend } equals { $សរុប }?\n}",
+    "khmer": "{ $decompositionOrSum ->\n  [decomposition] { $total } អាចបំបែកជា { $leftAddend } និង { $rightAddend } បានដែរឬទេ?\n  *[sum] { $leftAddend } បូក { $rightAddend } ស្មើនឹង { $total } មែនទេ?\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.challengeSupports.accessibleHeading",
+    "status": "untranslated",
+    "english": "Counting Area Supports",
+    "currentKhmer": "Counting Area Supports",
+    "khmer": "ជំនួយតំបន់រាប់"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.challengeType",
+    "status": "partially translated",
+    "english": "{ $challengeType ->\n  [leftAddend] left addend\n  [rightAddend] right addend\n  *[total] sum\n}",
+    "currentKhmer": "{ $challengeType ->\n  [leftAddend] ឆ្វេង addend\n  [rightAddend] ស្តាំ addend\n  *[សរុប] sum\n}",
+    "khmer": "{ $challengeType ->\n  [leftAddend] តួបូកខាងឆ្វេង\n  [rightAddend] តួបូកខាងស្តាំ\n  *[total] ផលបូក\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.accessibleParagraph",
+    "status": "partially translated",
+    "english": "{ $type ->\n  [kittens] Right now, { $leftAddend } Yellow Kittens, { $rightAddend } Blue Kittens in Counting Area.\n  *[numberLine] { $visible ->\n                  [none] { a11y_gameScreen_countingArea_numberLineSentence }\n                  [addends] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends }\n                  [tickMarks] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                  *[both] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                }\n}",
+    "currentKhmer": "{ $type ->\n  [kittens] ស្តាំ now, { $leftAddend } ពណ៌លឿង កូនឆ្មា, { $rightAddend } ពណ៌ខៀវ កូនឆ្មា in Counting Area.\n  *[numberLine] { $visible ->\n                  [none] { a11y_gameScreen_countingArea_numberLineSentence }\n                  [addends] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends }\n                  [tickMarks] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                  *[both] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                }\n}",
+    "khmer": "{ $type ->\n  [kittens] ឥឡូវនេះ, កូនឆ្មាពណ៌លឿង { $leftAddend }, កូនឆ្មាពណ៌ខៀវ { $rightAddend } នៅក្នុងតំបន់រាប់។\n  *[numberLine] { $visible ->\n                  [none] { a11y_gameScreen_countingArea_numberLineSentence }\n                  [addends] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends }\n                  [tickMarks] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                  *[both] { a11y_gameScreen_countingArea_numberLineSentence } { a11y_gameScreen_countingArea_numberLineAddends } { a11y_gameScreen_countingArea_numberLineTickMarks }\n                }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.hiddenAccessibleParagraph",
+    "status": "partially translated",
+    "english": "Right now, counting area is hidden.",
+    "currentKhmer": "ស្តាំ now, counting area is hidden.",
+    "khmer": "ឥឡូវនេះ តំបន់រាប់ត្រូវបានលាក់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.numberLineAddends",
+    "status": "partially translated",
+    "english": "{ $leftAddend } is shown above { a11y_gameScreen_countingArea_numberLineLeftAddendColor } jump representing left addend. {$rightAddend} is shown above { a11y_gameScreen_countingArea_numberLineRightAddendColor } jump representing right addend.",
+    "currentKhmer": "{ $leftAddend } is shown above { a11y_gameScreen_countingArea_numberLineLeftAddendColor } jump representing ឆ្វេង addend. {$rightAddend} is shown above { a11y_gameScreen_countingArea_numberLineRightAddendColor } jump representing ស្តាំ addend.",
+    "khmer": "{ $leftAddend } ត្រូវបានបង្ហាញនៅពីលើការលោត { a11y_gameScreen_countingArea_numberLineLeftAddendColor } ដែលតំណាងឱ្យតួបូកខាងឆ្វេង។ {$rightAddend} ត្រូវបានបង្ហាញនៅពីលើការលោត { a11y_gameScreen_countingArea_numberLineRightAddendColor } ដែលតំណាងឱ្យតួបូកខាងស្តាំ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.numberLineLeftAddendColor",
+    "status": "partially translated",
+    "english": "{ $leftAddendMissing ->\n  [missing] dotted\n  *[notMissing] yellow\n}",
+    "currentKhmer": "{ $leftAddendMissing ->\n  [missing] dotted\n  *[notMissing] ពណ៌លឿង\n}",
+    "khmer": "{ $leftAddendMissing ->\n  [missing] បន្ទាត់ចុចៗ\n  *[notMissing] ពណ៌លឿង\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.numberLineRightAddendColor",
+    "status": "partially translated",
+    "english": "{ $rightAddendMissing ->\n  [missing] dotted\n  *[notMissing] blue\n}",
+    "currentKhmer": "{ $rightAddendMissing ->\n  [missing] dotted\n  *[notMissing] ពណ៌ខៀវ\n}",
+    "khmer": "{ $rightAddendMissing ->\n  [missing] បន្ទាត់ចុចៗ\n  *[notMissing] ពណ៌ខៀវ\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.numberLineSentence",
+    "status": "partially translated",
+    "english": "Right now, number line shows a green line representing total and two end-to-end jumps: a { a11y_gameScreen_countingArea_numberLineLeftAddendColor } jump from left edge, then a { a11y_gameScreen_countingArea_numberLineRightAddendColor } jump to total.",
+    "currentKhmer": "ស្តាំ now, number line shows a green line representing សរុប and two end-to-end jumps: a { a11y_gameScreen_countingArea_numberLineLeftAddendColor } jump from ឆ្វេង edge, then a { a11y_gameScreen_countingArea_numberLineRightAddendColor } jump to សរុប.",
+    "khmer": "ឥឡូវនេះ បន្ទាត់ចំនួនបង្ហាញបន្ទាត់ពណ៌បៃតងតំណាងឱ្យចំនួនសរុប និងការលោតតគ្នាចំនួនពីរ៖ ការលោត { a11y_gameScreen_countingArea_numberLineLeftAddendColor } ចាប់ពីគែមខាងឆ្វេង បន្ទាប់មកការលោត { a11y_gameScreen_countingArea_numberLineRightAddendColor } ទៅកាន់ចំនួនសរុប។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.countingArea.numberLineTickMarks",
+    "status": "partially translated",
+    "english": "Dot at { $total }.",
+    "currentKhmer": "Dot at { $សរុប }.",
+    "khmer": "ចំណុចនៅត្រង់ { $total }។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.level.accessibleHeading",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [decompositionEquation] Decomposition Equation Challenge\n  [sumEquation] Sum Equation Challenge\n  *[bondOrBarModel] { a11y_numberBondOrBarModel } Challenge\n}",
+    "currentKhmer": "{ $levelType ->\n  [decompositionEquation] Decomposition សមីការ Challenge\n  [sumEquation] Sum សមីការ Challenge\n  *[bondOrBarModel] { a11y_numberBondOrBarModel } Challenge\n}",
+    "khmer": "{ $levelType ->\n  [decompositionEquation] បញ្ហាប្រឈមសមីការបំបែកចំនួន\n  [sumEquation] បញ្ហាប្រឈមសមីការផលបូក\n  *[bondOrBarModel] បញ្ហាប្រឈម { a11y_numberBondOrBarModel }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.level.accessibleHelpText",
+    "status": "partially translated",
+    "english": "{ $levelNumber ->\n  [1] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with total between 2 and 10.\n  [2] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with total always 10.\n  [3] Find a missing addend in a decomposition equation with total always 10.\n  [4] Find a missing addend in a sum equation with total always 10.\n  [5] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with total between 11 and 20.\n  [6] Find a missing addend in a decomposition equation with total between 11 and 20.\n  [7] Find a missing addend or total in a sum equation with total between 11 and 20.\n  *[8] Find a missing addend in a sum equation using the number line with total between 0 and 20.\n}",
+    "currentKhmer": "{ $levelNumber ->\n  [1] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with សរុប between 2 and 10.\n  [2] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with សរុប always 10.\n  [3] Find a missing addend in a decomposition equation with សរុប always 10.\n  [4] Find a missing addend in a sum equation with សរុប always 10.\n  [5] Find a missing addend in a { a11y_numberBondOrBarModelLowercase } with សរុប between 11 and 20.\n  [6] Find a missing addend in a decomposition equation with សរុប between 11 and 20.\n  [7] Find a missing addend or សរុប in a sum equation with សរុប between 11 and 20.\n  *[8] Find a missing addend in a sum equation using the number line with សរុប between 0 and 20.\n}",
+    "khmer": "{ $levelNumber ->\n  [1] រកតួបូកដែលបាត់នៅក្នុង { a11y_numberBondOrBarModelLowercase } ដែលមានចំនួនសរុបចន្លោះពី 2 ដល់ 10។\n  [2] រកតួបូកដែលបាត់នៅក្នុង { a11y_numberBondOrBarModelLowercase } ដែលមានចំនួនសរុបតែងតែស្មើ 10។\n  [3] រកតួបូកដែលបាត់នៅក្នុងសមីការបំបែកចំនួនដែលមានចំនួនសរុបតែងតែស្មើ 10។\n  [4] រកតួបូកដែលបាត់នៅក្នុងសមីការផលបូកដែលមានចំនួនសរុបតែងតែស្មើ 10។\n  [5] រកតួបូកដែលបាត់នៅក្នុង { a11y_numberBondOrBarModelLowercase } ដែលមានចំនួនសរុបចន្លោះពី 11 ដល់ 20។\n  [6] រកតួបូកដែលបាត់នៅក្នុងសមីការបំបែកចំនួនដែលមានចំនួនសរុបចន្លោះពី 11 ដល់ 20។\n  [7] រកតួបូក ឬចំនួនសរុបដែលបាត់នៅក្នុងសមីការផលបូកដែលមានចំនួនសរុបចន្លោះពី 11 ដល់ 20។\n  *[8] រកតួបូកដែលបាត់នៅក្នុងសមីការផលបូកដោយប្រើបន្ទាត់ចំនួនដែលមានចំនួនសរុបចន្លោះពី 0 ដល់ 20។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.missingValue",
+    "status": "untranslated",
+    "english": "a mystery number",
+    "currentKhmer": "a mystery number",
+    "khmer": "ចំនួនអាថ៌កំបាំងមួយ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.resetChallengeButton.accessibleContextResponse",
+    "status": "untranslated",
+    "english": "Challenge reset.",
+    "currentKhmer": "Challenge reset.",
+    "khmer": "បញ្ហាប្រឈមត្រូវបានកំណត់ឡើងវិញ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.responses._correctAnswerScore",
+    "status": "untranslated",
+    "english": "{ $totalScore ->\n  [ 1 ] 1 star!\n  *[ other ] { $totalScore } Stars!\n}",
+    "currentKhmer": "{ $totalScore ->\n  [ 1 ] 1 star!\n  *[ other ] { $totalScore } Stars!\n}",
+    "khmer": "{ $totalScore ->\n  [ 1 ] ផ្កាយ 1!\n  *[ other ] ផ្កាយ { $totalScore }!\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.responses.answerCleared",
+    "status": "untranslated",
+    "english": "Answer cleared.",
+    "currentKhmer": "Answer cleared.",
+    "khmer": "ចម្លើយត្រូវបានសម្អាត។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.responses.answerSelected",
+    "status": "untranslated",
+    "english": "{ $representationType ->\n  [kittens] {$value} chosen for { a11y_gameScreen_challengeType }. {$value} { $color } kittens now in Counting Area.\n  [numberLine] {$value} chosen for { a11y_gameScreen_challengeType }. Unknown jump now {$value} on number line.\n  *[sum] { $value } chosen for sum. No new kittens added or removed from Counting Area.\n}",
+    "currentKhmer": "{ $representationType ->\n  [kittens] {$value} chosen for { a11y_gameScreen_challengeType }. {$value} { $color } kittens now in Counting Area.\n  [numberLine] {$value} chosen for { a11y_gameScreen_challengeType }. Unknown jump now {$value} on number line.\n  *[sum] { $value } chosen for sum. No new kittens added or removed from Counting Area.\n}",
+    "khmer": "{ $representationType ->\n  [kittens] {$value} ត្រូវបានជ្រើសរើសសម្រាប់ { a11y_gameScreen_challengeType }។ កូនឆ្មា { $color } ចំនួន {$value} ឥឡូវនេះស្ថិតនៅក្នុងតំបន់រាប់។\n  [numberLine] {$value} ត្រូវបានជ្រើសរើសសម្រាប់ { a11y_gameScreen_challengeType }។ ការលោតមិនស្គាល់តម្លៃឥឡូវនេះមានប្រវែង {$value} នៅលើបន្ទាត់ចំនួន។\n  *[sum] { $value } ត្រូវបានជ្រើសរើសសម្រាប់ផលបូក។ គ្មានកូនឆ្មាថ្មីត្រូវបានបន្ថែម ឬដកចេញពីតំបន់រាប់ឡើយ។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.responses.correctAnswer",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [decomposition] You are correct! { $total } can be decomposed into { $leftAddend } and { $rightAddend }.\n  *[sum] You are correct! { $leftAddend } plus { $rightAddend } equals { $total }. Nice work.\n}",
+    "currentKhmer": "{ $levelType ->\n  [decomposition] You are correct! { $សរុប } can be decomposed into { $leftAddend } and { $rightAddend }.\n  *[sum] You are correct! { $leftAddend } plus { $rightAddend } equals { $សរុប }. Nice work.\n}",
+    "khmer": "{ $levelType ->\n  [decomposition] អ្នកឆ្លើយត្រឹមត្រូវហើយ! { $total } អាចបំបែកជា { $leftAddend } និង { $rightAddend }។\n  *[sum] អ្នកឆ្លើយត្រឹមត្រូវហើយ! { $leftAddend } បូក { $rightAddend } ស្មើនឹង { $total }។ ធ្វើបានល្អណាស់។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.responses.correctAnswerOnFirstTry",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [sum] You are correct! { $leftAddend } plus { $rightAddend } equals { $total }. { a11y_gameScreen_responses__correctAnswerScore }\n  *[decomposition] You are correct! { $total } can be decomposed into { $leftAddend } and { $rightAddend }. { a11y_gameScreen_responses__correctAnswerScore }\n}",
+    "currentKhmer": "{ $levelType ->\n  [sum] You are correct! { $leftAddend } plus { $rightAddend } equals { $សរុប }. { a11y_gameScreen_responses__correctAnswerScore }\n  *[decomposition] You are correct! { $សរុប } can be decomposed into { $leftAddend } and { $rightAddend }. { a11y_gameScreen_responses__correctAnswerScore }\n}",
+    "khmer": "{ $levelType ->\n  [sum] អ្នកឆ្លើយត្រឹមត្រូវហើយ! { $leftAddend } បូក { $rightAddend } ស្មើនឹង { $total }។ { a11y_gameScreen_responses__correctAnswerScore }\n  *[decomposition] អ្នកឆ្លើយត្រឹមត្រូវហើយ! { $total } អាចបំបែកជា { $leftAddend } និង { $rightAddend }។ { a11y_gameScreen_responses__correctAnswerScore }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.gameScreen.responses.incorrectAnswer",
+    "status": "partially translated",
+    "english": "{ $levelType ->\n  [decomposition] Not quite. { $total } cannot be decomposed into { $leftAddend } and { $rightAddend }. Try again.\n  *[sum] Not quite. { $leftAddend } plus { $rightAddend } does not equal { $total }. Try again.\n}",
+    "currentKhmer": "{ $levelType ->\n  [decomposition] Not quite. { $សរុប } cannot be decomposed into { $leftAddend } and { $rightAddend }. Try again.\n  *[sum] Not quite. { $leftAddend } plus { $rightAddend } does not equal { $សរុប }. Try again.\n}",
+    "khmer": "{ $levelType ->\n  [decomposition] មិនទាន់ត្រឹមត្រូវទេ។ { $total } មិនអាចបំបែកជា { $leftAddend } និង { $rightAddend } បានទេ។ សូមព្យាយាមម្តងទៀត។\n  *[sum] មិនទាន់ត្រឹមត្រូវទេ។ { $leftAddend } បូក { $rightAddend } មិនស្មើនឹង { $total } ទេ។ សូមព្យាយាមម្តងទៀត។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.grabbedAccessibleResponse",
+    "status": "untranslated",
+    "english": "grabbed, in { $addend } counting area",
+    "currentKhmer": "grabbed, in { $addend } counting area",
+    "khmer": "បានចាប់យក, នៅក្នុងតំបន់រាប់ខាង { $addend }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.grabbedHelpTextPattern",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [beads] Move one or more beads to create groups.\n  *[other] Move { $item } in or between left and right counting areas.\n}",
+    "currentKhmer": "{ $representationType ->\n  [beads] Move one or more beads to create groups.\n  *[other] Move { $item } in or between ឆ្វេង and ស្តាំ counting areas.\n}",
+    "khmer": "{ $representationType ->\n  [beads] រំកិលគ្រាប់អង្កាំមួយ ឬច្រើនដើម្បីបង្កើតជាក្រុម។\n  *[other] រំកិល { $item } នៅក្នុង ឬរវាងតំបន់រាប់ខាងឆ្វេង និងខាងស្តាំ។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.leftSide.firstItemPattern",
+    "status": "partially translated",
+    "english": "First { $item } on left side",
+    "currentKhmer": "First { $item } on ឆ្វេង side",
+    "khmer": "{ $item } ទីមួយនៅខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.leftSide.itemPattern",
+    "status": "partially translated",
+    "english": "{ $item } on left side",
+    "currentKhmer": "{ $item } on ឆ្វេង side",
+    "khmer": "{ $item } នៅខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.leftSide.lastItemPattern",
+    "status": "partially translated",
+    "english": "Last { $item } on left side",
+    "currentKhmer": "Last { $item } on ឆ្វេង side",
+    "khmer": "{ $item } ចុងក្រោយនៅខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.leftSide.onlyItemPattern",
+    "status": "partially translated",
+    "english": "Only { $item } on left side",
+    "currentKhmer": "Only { $item } on ឆ្វេង side",
+    "khmer": "{ $item } តែមួយគត់នៅខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.movedAccessibleResponse",
+    "status": "untranslated",
+    "english": "now in { $addend } counting area",
+    "currentKhmer": "now in { $addend } counting area",
+    "khmer": "ឥឡូវនេះស្ថិតនៅក្នុងតំបន់រាប់ខាង { $addend }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.noItemSelected",
+    "status": "untranslated",
+    "english": "No item selected",
+    "currentKhmer": "No item selected",
+    "khmer": "មិនមានធាតុណាមួយត្រូវបានជ្រើសរើសទេ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.releasedAccessibleResponse",
+    "status": "untranslated",
+    "english": "released, in { $addend } counting area",
+    "currentKhmer": "released, in { $addend } counting area",
+    "khmer": "បានលែង, នៅក្នុងតំបន់រាប់ខាង { $addend }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.releasedHelpText",
+    "status": "untranslated",
+    "english": "{ $representationType ->\n  [beads] Look for beads to navigate and move. Use keyboard shortcuts to navigate and count, or grab and slide along the wire.\n  *[other] Look for { $representation } to navigate and move. Use keyboard shortcuts to navigate and count, or grab and move to different sides of Counting Area.\n}",
+    "currentKhmer": "{ $representationType ->\n  [beads] Look for beads to navigate and move. Use keyboard shortcuts to navigate and count, or grab and slide along the wire.\n  *[other] Look for { $representation } to navigate and move. Use keyboard shortcuts to navigate and count, or grab and move to different sides of Counting Area.\n}",
+    "khmer": "{ $representationType ->\n  [beads] ស្វែងរកគ្រាប់អង្កាំដើម្បីរុករក និងរំកិល។ ប្រើផ្លូវកាត់ក្តារចុចដើម្បីរុករក និងរាប់ ឬចាប់យកហើយរុញតាមខ្សែលួស។\n  *[other] ស្វែងរក { $representation } ដើម្បីរុករក និងរំកិល។ ប្រើផ្លូវកាត់ក្តារចុចដើម្បីរុករក និងរាប់ ឬចាប់យកហើយរំកិលទៅផ្នែកផ្សេងៗនៃតំបន់រាប់។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.rightSide.firstItemPattern",
+    "status": "partially translated",
+    "english": "First { $item } on right side",
+    "currentKhmer": "First { $item } on ស្តាំ side",
+    "khmer": "{ $item } ទីមួយនៅខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.rightSide.itemPattern",
+    "status": "partially translated",
+    "english": "{ $item } on right side",
+    "currentKhmer": "{ $item } on ស្តាំ side",
+    "khmer": "{ $item } នៅខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.rightSide.lastItemPattern",
+    "status": "partially translated",
+    "english": "Last { $item } on right side",
+    "currentKhmer": "Last { $item } on ស្តាំ side",
+    "khmer": "{ $item } ចុងក្រោយនៅខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.grabOrReleaseInteraction.rightSide.onlyItemPattern",
+    "status": "partially translated",
+    "english": "Only { $item } on right side",
+    "currentKhmer": "Only { $item } on ស្តាំ side",
+    "khmer": "{ $item } តែមួយគត់នៅខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.introScreen.screenSummary.controlArea",
+    "status": "partially translated",
+    "english": "Reset the sim to start over.",
+    "currentKhmer": "កំណត់ឡើងវិញ the sim to start over.",
+    "khmer": "កំណត់ការពិសោធឡើងវិញដើម្បីចាប់ផ្តើមសារជាថ្មី។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.introScreen.screenSummary.currentDetails.bothHidden",
+    "status": "partially translated",
+    "english": "Currently, { $total } total, both counting areas hidden.",
+    "currentKhmer": "Currently, { $សរុប } សរុប, both counting areas hidden.",
+    "khmer": "បច្ចុប្បន្ន ចំនួនសរុបគឺ { $total } ហើយតំបន់រាប់ទាំងពីរត្រូវបានលាក់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.introScreen.screenSummary.currentDetails.hiddenAreaPattern",
+    "status": "partially translated",
+    "english": "Currently, { $total } total, { $hiddenAddend } counting area hidden.",
+    "currentKhmer": "Currently, { $សរុប } សរុប, { $hiddenAddend } counting area hidden.",
+    "khmer": "បច្ចុប្បន្ន ចំនួនសរុបគឺ { $total } ហើយតំបន់រាប់ខាង { $hiddenAddend } ត្រូវបានលាក់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.introScreen.screenSummary.currentDetails.objectsPattern",
+    "status": "partially translated",
+    "english": "{ $total ->\n  [one] Currently, { $total } object in counting area.\n *[other] Currently, { $total } objects in counting areas.\n}",
+    "currentKhmer": "{ $សរុប ->\n  [one] Currently, { $សរុប } object in counting area.\n *[other] Currently, { $សរុប } objects in counting areas.\n}",
+    "khmer": "{ $total ->\n  [one] បច្ចុប្បន្ន មានវត្ថុចំនួន { $total } នៅក្នុងតំបន់រាប់។\n *[other] បច្ចុប្បន្ន មានវត្ថុចំនួន { $total } នៅក្នុងតំបន់រាប់។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.introScreen.screenSummary.interactionHint",
+    "status": "partially translated",
+    "english": "Count or grab an object. Organize or move objects in counting area to play.",
+    "currentKhmer": "Count or grab an object. រៀបចំ or move objects in counting area to play.",
+    "khmer": "រាប់ ឬចាប់យកវត្ថុមួយ។ រៀបចំ ឬរំកិលវត្ថុនៅក្នុងតំបន់រាប់ដើម្បីលេង។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.introScreen.screenSummary.playArea",
+    "status": "partially translated",
+    "english": "{ a11y_playAreaIntroSentence } A decomposition phrase and a   { a11y_numberBondOrBarModelLowercase } represent the total number broken apart into two addends. Additionally, choose any total from { $min } to { $max }, automatically organize objects into rows, or swap addends.",
+    "currentKhmer": "{ a11y_playAreaIntroSentence } A decomposition phrase and a   { a11y_numberBondOrBarModelLowercase } represent the សរុប number broken apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize objects into rows, or swap addends.",
+    "khmer": "{ a11y_playAreaIntroSentence } ឃ្លាបំបែកចំនួន និង { a11y_numberBondOrBarModelLowercase } តំណាងឱ្យចំនួនសរុបដែលត្រូវបានបំបែកជាពីរបំណែកនៃតួបូក។ លើសពីនេះ អ្នកអាចជ្រើសរើសចំនួនសរុបណាមួយចាប់ពី { $min } ដល់ { $max } រៀបចំវត្ថុជាជួរដេកដោយស្វ័យប្រវត្តិ ឬប្តូរកន្លែងតួបូក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.kittens.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Look for movable kittens. Once focused, use keyboard shortcuts to change color or move around.",
+    "currentKhmer": "Look for movable kittens. Once focused, use keyboard shortcuts to change color or move around.",
+    "khmer": "ស្វែងរកកូនឆ្មាដែលអាចរំកិលបាន។ នៅពេលជ្រើសលើវាហើយ សូមប្រើផ្លូវកាត់ក្តារចុចដើម្បីប្តូរពណ៌ ឬរំកិលចុះឡើង។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.kittens.kittenPattern",
+    "status": "partially translated",
+    "english": "{ $descriptor ->\n  [first] First { $color} Kitten\n  [last] Last { $color } Kitten\n  [only] Only { $color } Kitten\n  *[other] { $color } Kitten\n}",
+    "currentKhmer": "{ $descriptor ->\n  [first] First { $color} កូនឆ្មា\n  [last] Last { $color } កូនឆ្មា\n  [only] Only { $color } កូនឆ្មា\n  *[other] { $color } កូនឆ្មា\n}",
+    "khmer": "{ $descriptor ->\n  [first] កូនឆ្មា { $color} ដំបូងគេ\n  [last] កូនឆ្មា { $color } ចុងក្រោយគេ\n  [only] កូនឆ្មា { $color } តែមួយគត់\n  *[other] កូនឆ្មា { $color }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.movableRoleDescription",
+    "status": "untranslated",
+    "english": "movable",
+    "currentKhmer": "movable",
+    "khmer": "អាចរំកិលបាន"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberBondOrBarModel",
+    "status": "untranslated",
+    "english": "{ $numberModelType ->\n  [numberBond] { numberBond }\n  *[barModel] { barModel }\n}",
+    "currentKhmer": "{ $numberModelType ->\n  [numberBond] { numberBond }\n  *[barModel] { barModel }\n}",
+    "khmer": "{ $numberModelType ->\n  [numberBond] { numberBond }\n  *[barModel] { barModel }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberBondOrBarModelLowercase",
+    "status": "untranslated",
+    "english": "{ $numberModelType ->\n  [numberBond] { numberBondLowercase }\n  *[barModel] { barModelLowercase }\n}",
+    "currentKhmer": "{ $numberModelType ->\n  [numberBond] { numberBondLowercase }\n  *[barModel] { barModelLowercase }\n}",
+    "khmer": "{ $numberModelType ->\n  [numberBond] { numberBondLowercase }\n  *[barModel] { barModelLowercase }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLine.addendSplitterKnob.accessibleHelpText",
+    "status": "untranslated",
+    "english": "Move knob to change how addends are split.",
+    "currentKhmer": "Move knob to change how addends are split.",
+    "khmer": "រំកិលប៊ូតុងមូលដើម្បីផ្លាស់ប្តូររបៀបបំបែកតួបូក។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLine.contextResponse",
+    "status": "partially translated",
+    "english": "{ $addendsShowing ->\n  [addendsVisible] { $total } is split into { $left } and { $right }.\n  *[addendsHidden] { $sections ->\n                     [smallerAndLarger] { $total } is split into smaller and larger sections.\n                     [equal] { $total } is split into equal sections.\n                     *[largerAndSmaller] { $total } is split into larger and smaller sections.\n                   }\n}",
+    "currentKhmer": "{ $addendsShowing ->\n  [addendsVisible] { $សរុប } is split into { $ឆ្វេង } and { $ស្តាំ }.\n  *[addendsHidden] { $sections ->\n                     [smallerAndLarger] { $សរុប } is split into smaller and larger sections.\n                     [equal] { $សរុប } is split into equal sections.\n                     *[largerAndSmaller] { $សរុប } is split into larger and smaller sections.\n                   }\n}",
+    "khmer": "{ $addendsShowing ->\n  [addendsVisible] { $total } ត្រូវបានបំបែកជា { $left } និង { $right }។\n  *[addendsHidden] { $sections ->\n                     [smallerAndLarger] { $total } ត្រូវបានបំបែកជាផ្នែកតូចជាង និងធំជាង។\n                     [equal] { $total } ត្រូវបានបំបែកជាផ្នែកស្មើគ្នា។\n                     *[largerAndSmaller] { $total } ត្រូវបានបំបែកជាផ្នែកធំជាង និងតូចជាង។\n                   }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.countFromZeroLeftAddendPattern",
+    "status": "partially translated",
+    "english": "Left addend, { $left }, is shown above jump from left edge to knob",
+    "currentKhmer": "ឆ្វេង addend, { $ឆ្វេង }, is shown above jump from ឆ្វេង edge to knob",
+    "khmer": "តួបូកខាងឆ្វេង, { $left }, ត្រូវបានបង្ហាញនៅពីលើការលោតពីគែមខាងឆ្វេងទៅកាន់ប៊ូតុងមូល"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.countFromZeroRightAddendPattern",
+    "status": "partially translated",
+    "english": "Right addend, { $right }, is shown above jump from { $start } to total",
+    "currentKhmer": "ស្តាំ addend, { $ស្តាំ }, is shown above jump from { $start } to សរុប",
+    "khmer": "តួបូកខាងស្តាំ, { $right }, ត្រូវបានបង្ហាញនៅពីលើការលោតពី { $start } ទៅកាន់ចំនួនសរុប"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.countFromZeroTotalJumpPattern",
+    "status": "partially translated",
+    "english": "Jump spans total length, { $total }",
+    "currentKhmer": "Jump spans សរុប length, { $សរុប }",
+    "khmer": "ការលោតលាតសន្ធឹងតាមប្រវែងសរុប, { $total }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.countOnJumpPattern",
+    "status": "partially translated",
+    "english": "Jump of length { $right } starts at { $start } and ends at total",
+    "currentKhmer": "Jump of length { $ស្តាំ } starts at { $start } and ends at សរុប",
+    "khmer": "ការលោតដែលមានប្រវែង { $right } ចាប់ផ្តើមត្រង់ { $start } ហើយបញ្ចប់ត្រង់ចំនួនសរុប"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.countOnLeftAddendPattern",
+    "status": "partially translated",
+    "english": "Left addend, { $left }, marked on number line",
+    "currentKhmer": "ឆ្វេង addend, { $ឆ្វេង }, marked on number line",
+    "khmer": "តួបូកខាងឆ្វេង, { $left }, ត្រូវបានគូសចំណាំនៅលើបន្ទាត់ចំនួន"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.countOnTotalJumpPattern",
+    "status": "partially translated",
+    "english": "Jump of length { $total } is labeled",
+    "currentKhmer": "Jump of length { $សរុប } is labeled",
+    "khmer": "ការលោតដែលមានប្រវែង { $total } ត្រូវបានដាក់ស្លាក"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.knobIsAtPattern",
+    "status": "untranslated",
+    "english": "Knob is at { $value }",
+    "currentKhmer": "Knob is at { $value }",
+    "khmer": "ប៊ូតុងមូលស្ថិតនៅត្រង់ { $value }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.knobLabel",
+    "status": "untranslated",
+    "english": "knob",
+    "currentKhmer": "knob",
+    "khmer": "ប៊ូតុងមូល"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.knobSplits",
+    "status": "partially translated",
+    "english": "Knob splits total into 2 sections",
+    "currentKhmer": "Knob splits សរុប into 2 sections",
+    "khmer": "ប៊ូតុងមូលបំបែកចំនួនសរុបជា ២ ផ្នែក"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.leadingCountFromZero",
+    "status": "partially translated",
+    "english": "Number line shows a green line representing total, a yellow jump from left edge to knob, and a blue jump from knob to total:",
+    "currentKhmer": "Number line shows a green line representing សរុប, a ពណ៌លឿង jump from ឆ្វេង edge to knob, and a ពណ៌ខៀវ jump from knob to សរុប:",
+    "khmer": "បន្ទាត់ចំនួនបង្ហាញបន្ទាត់ពណ៌បៃតងតំណាងឱ្យចំនួនសរុប ការលោតពណ៌លឿងពីគែមខាងឆ្វេងទៅកាន់ប៊ូតុងមូល និងការលោតពណ៌ខៀវពីប៊ូតុងមូលទៅកាន់ចំនួនសរុប៖"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.leadingCountOn",
+    "status": "partially translated",
+    "english": "Number line shows a green line representing total and a blue jump from knob to total:",
+    "currentKhmer": "Number line shows a green line representing សរុប and a ពណ៌ខៀវ jump from knob to សរុប:",
+    "khmer": "បន្ទាត់ចំនួនបង្ហាញបន្ទាត់ពណ៌បៃតងតំណាងឱ្យចំនួនសរុប និងការលោតពណ៌ខៀវពីប៊ូតុងមូលទៅកាន់ចំនួនសរុប៖"
+    },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.leadingHidden",
+    "status": "untranslated",
+    "english": "Number line is hidden.",
+    "currentKhmer": "Number line is hidden.",
+    "khmer": "បន្ទាត់ចំនួនត្រូវបានលាក់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.leftEdgeLabel",
+    "status": "partially translated",
+    "english": "left edge",
+    "currentKhmer": "ឆ្វេង edge",
+    "khmer": "គែមខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.totalSpansPattern",
+    "status": "partially translated",
+    "english": "Total spans from { $start } to { $end }",
+    "currentKhmer": "សរុប spans from { $start } to { $end }",
+    "khmer": "ចំនួនសរុបលាតសន្ធឹងពី { $start } ដល់ { $end }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.numberLineDescription.totalStartsPattern",
+    "status": "partially translated",
+    "english": "Total starts at { $start }, ends at { $end }",
+    "currentKhmer": "សរុប starts at { $start }, ends at { $end }",
+    "khmer": "ចំនួនសរុបចាប់ផ្តើមត្រង់ { $start } បញ្ចប់ត្រង់ { $end }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.playAreaIntroSentence",
+    "status": "partially translated",
+    "english": "There are left and right counting areas with fun objects. You can organize objects inside a counting area or move them between counting areas to break total apart in different ways.",
+    "currentKhmer": "There are ឆ្វេង and ស្តាំ counting areas with fun objects. You can organize objects inside a counting area or move them between counting areas to break សរុប apart in different ways.",
+    "khmer": "មានតំបន់រាប់ខាងឆ្វេង និងខាងស្តាំជាមួយនឹងវត្ថុគួរឱ្យចាប់អារម្មណ៍។ អ្នកអាចរៀបចំវត្ថុនៅខាងក្នុងតំបន់រាប់ ឬផ្លាស់ទីវារវាងតំបន់រាប់នានា ដើម្បីបំបែកចំនួនសរុបតាមវិធីផ្សេងៗគ្នា។"
+  },
+  {
+    "section": "Settings",
+    "key": "NUMBER_PAIRS/a11y.preferences.sumScreenModelOrientation.totalOnBottom",
+    "status": "partially translated",
+    "english": "Total on Bottom",
+    "currentKhmer": "សរុប on Bottom",
+    "khmer": "ចំនួនសរុបនៅខាងក្រោម"
+  },
+  {
+    "section": "Settings",
+    "key": "NUMBER_PAIRS/a11y.preferences.sumScreenModelOrientation.totalOnTop",
+    "status": "partially translated",
+    "english": "Total on Top",
+    "currentKhmer": "សរុប on Top",
+    "khmer": "ចំនួនសរុបនៅខាងលើ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.screenButtonsHelpText.game",
+    "status": "untranslated",
+    "english": "Challenge yourself to find missing addends or create sums from { $min }-{ $max } with two numbers.",
+    "currentKhmer": "Challenge yourself to find missing addends or create sums from { $min }-{ $max } with two numbers.",
+    "khmer": "ប្រកួតប្រជែងសមត្ថភាពរបស់អ្នកក្នុងការស្វែងរកតួបូកដែលបាត់ ឬបង្កើតផលបូកពី { $min } ដល់ { $max } ដោយប្រើចំនួនពីរ។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.screenButtonsHelpText.intro",
+    "status": "untranslated",
+    "english": "Break apart numbers { $min }-{ $max } by moving fun objects between counting areas.",
+    "currentKhmer": "Break apart numbers { $min }-{ $max } by moving fun objects between counting areas.",
+    "khmer": "បំបែកចំនួន { $min } ដល់ { $max } ដោយរំកិលវត្ថុគួរឱ្យចាប់អារម្មណ៍រវាងតំបន់រាប់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.screenButtonsHelpText.sum",
+    "status": "untranslated",
+    "english": "Create totals of { $min }-{ $max } by adding or removing magic beads or kittens, or addends to an interactive number line.",
+    "currentKhmer": "Create totals of { $min }-{ $max } by adding or removing magic beads or kittens, or addends to an interactive number line.",
+    "khmer": "បង្កើតចំនួនសរុបពី { $min } ដល់ { $max } ដោយបន្ថែម ឬដកគ្រាប់អង្កាំវេទមន្ត ឬកូនឆ្មា ឬបន្ថែមតួបូកទៅក្នុងបន្ទាត់ចំនួនអន្តរកម្ម។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.screenButtonsHelpText.ten",
+    "status": "untranslated",
+    "english": "Break apart numbers { $min }-{ $max } by sliding magic beads, grouping and changing kitten colors, or interacting with a number line.",
+    "currentKhmer": "Break apart numbers { $min }-{ $max } by sliding magic beads, grouping and changing kitten colors, or interacting with a number line.",
+    "khmer": "បំបែកចំនួន { $min } ដល់ { $max } ដោយរុញគ្រាប់អង្កាំវេទមន្ត ការដាក់ជាក្រុម និងប្តូរពណ៌កូនឆ្មា ឬធ្វើអន្តរកម្មជាមួយបន្ទាត់ចំនួន។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.screenButtonsHelpText.twenty",
+    "status": "untranslated",
+    "english": "Break apart numbers { $min }-{ $max } by moving and interacting with fun and magic objects in counting areas.",
+    "currentKhmer": "Break apart numbers { $min }-{ $max } by moving and interacting with fun and magic objects in counting areas.",
+    "khmer": "បំបែកចំនួន { $min } ដល់ { $max } ដោយរំកិល និងធ្វើអន្តរកម្មជាមួយវត្ថុវេទមន្តគួរឱ្យចាប់អារម្មណ៍នៅក្នុងតំបន់រាប់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.sumScreen.screenSummary.controlArea",
+    "status": "untranslated",
+    "english": "{ a11y_introScreen_screenSummary_controlArea }",
+    "currentKhmer": "{ a11y_introScreen_screenSummary_controlArea }",
+    "khmer": "{ a11y_introScreen_screenSummary_controlArea }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.sumScreen.screenSummary.currentDetails",
+    "status": "partially translated",
+    "english": "{ $shown ->\n  [none] Currently, total hidden, counting area hidden.\n  [total] Currently, total of { $total }, counting area hidden.\n  [countingArea] { $representationType ->\n                   [numberLine] Currently, total hidden, created by adding lengths of yellow and blue sections.\n                   *[other] Currently, total hidden, created by adding all { $itemType }.\n                 }\n  *[all] { $representationType ->\n           [numberLine] Currently, total of { $total } created by adding lengths of yellow and blue sections.\n           *[other] Currently, { $total } total { $itemType } created by adding all { $itemType }.\n         }\n}",
+    "currentKhmer": "{ $shown ->\n  [none] Currently, សរុប hidden, counting area hidden.\n  [សរុប] Currently, សរុប of { $សរុប }, counting area hidden.\n  [countingArea] { $representationType ->\n                   [numberLine] Currently, សរុប hidden, created by adding lengths of ពណ៌លឿង and ពណ៌ខៀវ sections.\n                   *[other] Currently, សរុប hidden, created by adding all { $itemType }.\n                 }\n  *[all] { $representationType ->\n           [numberLine] Currently, សរុប of { $សរុប } created by adding lengths of ពណ៌លឿង and ពណ៌ខៀវ sections.\n           *[other] Currently, { $សរុប } សរុប { $itemType } created by adding all { $itemType }.\n         }\n}",
+    "khmer": "{ $shown ->\n  [none] បច្ចុប្បន្ន ចំនួនសរុបត្រូវបានលាក់ តំបន់រាប់ត្រូវបានលាក់។\n  [total] បច្ចុប្បន្ន ចំនួនសរុបគឺ { $total } តំបន់រាប់ត្រូវបានលាក់។\n  [countingArea] { $representationType ->\n                   [numberLine] បច្ចុប្បន្ន ចំនួនសរុបត្រូវបានលាក់ ដែលកើតឡើងពីការបូកប្រវែងផ្នែកពណ៌លឿង និងពណ៌ខៀវ។\n                   *[other] បច្ចុប្បន្ន ចំនួនសរុបត្រូវបានលាក់ ដែលកើតឡើងពីការបូក { $itemType } ទាំងអស់។\n                 }\n  *[all] { $representationType ->\n           [numberLine] បច្ចុប្បន្ន ចំនួនសរុបគឺ { $total } ដែលកើតឡើងពីការបូកប្រវែងផ្នែកពណ៌លឿង និងពណ៌ខៀវ។\n           *[other] បច្ចុប្បន្ន { $itemType } សរុបចំនួន { $total } ដែលកើតឡើងពីការបូក { $itemType } ទាំងអស់។\n         }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.sumScreen.screenSummary.interactionHint",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [beads] Navigate to and grab bead to create groups, or move across divider to change color. Add or remove beads with number spinners to change total.\n  [kittens] Choose kitten to move, organize, or change color. Add or remove beads with number spinners to change total.\n  *[numberLine] Move addend splitter knob to change length of yellow and blue sections that create total. Add one or remove one from yellow or blue section to change total.\n}",
+    "currentKhmer": "{ $representationType ->\n  [beads] Navigate to and grab bead to create groups, or move across divider to change color. Add or remove beads with number spinners to change សរុប.\n  [kittens] Choose kitten to move, organize, or change color. Add or remove beads with number spinners to change សរុប.\n  *[numberLine] Move addend splitter knob to change length of ពណ៌លឿង and ពណ៌ខៀវ sections that create សរុប. Add one or remove one from ពណ៌លឿង or ពណ៌ខៀវ section to change សរុប.\n}",
+    "khmer": "{ $representationType ->\n  [beads] រុករកទៅកាន់ និងចាប់យកគ្រាប់អង្កាំដើម្បីបង្កើតជាក្រុម ឬរំកិលឆ្លងកាត់របាំងខណ្ឌដើម្បីប្តូរពណ៌។ បន្ថែម ឬដកគ្រាប់អង្កាំដោយប្រើប្រអប់ជ្រើសរើសចំនួន (Spinner) ដើម្បីផ្លាស់ប្តូរចំនួនសរុប។\n  [kittens] ជ្រើសរើសកូនឆ្មាដើម្បីរំកិល រៀបចំ ឬប្តូរពណ៌។ បន្ថែម ឬដកគ្រាប់អង្កាំដោយប្រើប្រអប់ជ្រើសរើសចំនួន (Spinner) ដើម្បីផ្លាស់ប្តូរចំនួនសរុប។\n  *[numberLine] រំកិលប៊ូតុងមូលបំបែកតួបូកដើម្បីផ្លាស់ប្តូរប្រវែងនៃផ្នែកពណ៌លឿង និងពណ៌ខៀវដែលបង្កើតជាចំនួនសរុប។ បន្ថែមមួយ ឬដកមួយចេញពីផ្នែកពណ៌លឿង ឬពណ៌ខៀវដើម្បីផ្លាស់ប្តូរចំនួនសរុប។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.sumScreen.screenSummary.playArea",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [numberLine] Total is shown on number line with a green line broken into two sections, yellow on left and blue \n               on right. A movable knob changes how total is broken apart by changing lengths of yellow and blue \n               sections. Number spinners add one or remove one from yellow or blue section. An addition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how two numbers \n               add to total. Additionally, create totals from { $min } to { $max } or swap addends.\n  *[other] There are yellow and blue { $representation } you can move to organize or change color to find \n           different ways to create a total number of { $representation }. An addition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how two numbers \n           add to total. Additionally, create totals from { $min } to { $max }, automatically organize objects, or swap addends.\n}",
+    "currentKhmer": "{ $representationType ->\n  [numberLine] សរុប is shown on number line with a green line broken into two sections, ពណ៌លឿង on ឆ្វេង and ពណ៌ខៀវ \n               on ស្តាំ. A movable knob changes how សរុប is broken apart by changing lengths of ពណ៌លឿង and ពណ៌ខៀវ \n               sections. Number spinners add one or remove one from ពណ៌លឿង or ពណ៌ខៀវ section. An addition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how two numbers \n               add to សរុប. Additionally, create totals from { $min } to { $max } or swap addends.\n  *[other] There are ពណ៌លឿង and ពណ៌ខៀវ { $representation } you can move to organize or change color to find \n           different ways to create a សរុប number of { $representation }. An addition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how two numbers \n           add to សរុប. Additionally, create totals from { $min } to { $max }, automatically organize objects, or swap addends.\n}",
+    "khmer": "{ $representationType ->\n  [numberLine] ចំនួនសរុបត្រូវបានបង្ហាញនៅលើបន្ទាត់ចំនួនដោយមានបន្ទាត់ពណ៌បៃតងបំបែកជាពីរផ្នែក ពណ៌លឿងនៅខាងឆ្វេង និងពណ៌ខៀវនៅខាងស្តាំ។ ប៊ូតុងមូលដែលអាចរំកិលបានផ្លាស់ប្តូររបៀបបំបែកចំនួនសរុបដោយផ្លាស់ប្តូរប្រវែងនៃផ្នែកពណ៌លឿង និងពណ៌ខៀវ។ ប្រអប់ជ្រើសរើសចំនួន (Spinner) បន្ថែមមួយ ឬដកមួយចេញពីផ្នែកពណ៌លឿង ឬពណ៌ខៀវ។ ឃ្លាវិធីបូក { a11y_numberBondOrBarModelLowercase } និងសមីការតំណាងឱ្យរបៀបដែលចំនួនពីរបូកបញ្ចូលគ្នាបង្កើតជាចំនួនសរុប។ លើសពីនេះ អ្នកអាចបង្កើតចំនួនសរុបពី { $min } ដល់ { $max } ឬប្តូរវេនតួបូក។\n  *[other] មាន { $representation } ពណ៌លឿង និងពណ៌ខៀវ ដែលអ្នកអាចរំកិលដើម្បីរៀបចំ ឬប្តូរពណ៌ដើម្បីស្វែងរកវិធីផ្សេងៗក្នុងការបង្កើតចំនួនសរុបនៃ { $representation }។ ឃ្លាវិធីបូក { a11y_numberBondOrBarModelLowercase } និងសមីការតំណាងឱ្យរបៀបដែលចំនួនពីរបូកបញ្ចូលគ្នាបង្កើតជាចំនួនសរុប។ លើសពីនេះ អ្នកអាចបង្កើតចំនួនសរុបពី { $min } ដល់ { $max }, រៀបចំវត្ថុដោយស្វ័យប្រវត្តិ ឬប្តូរវេនតួបូក។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.tenOrTwentyScreen.screenSummary.controlArea",
+    "status": "untranslated",
+    "english": "{ a11y_introScreen_screenSummary_controlArea }",
+    "currentKhmer": "{ a11y_introScreen_screenSummary_controlArea }",
+    "khmer": "{ a11y_introScreen_screenSummary_controlArea }"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.tenOrTwentyScreen.screenSummary.currentDetails",
+    "status": "partially translated",
+    "english": "{ $shownSides ->\n  [none] Counting area currently hidden.\n  [right] Currently, { $total } total, left counting area hidden.\n  [left] Currently, { $total } total, right counting area hidden.\n  *[both] { $representationType ->\n            [numberLine] Currently, total of { $total } splits colored sections with addend splitter knob in counting area.\n            [beads] Currently, { $total } total { $itemType } split by color in counting area.\n            [kittens] Currently, { $total } total { $itemType } split by color in counting area.\n            *[location] { a11y_introScreen_screenSummary_currentDetails_objectsPattern }\n          }\n}",
+    "currentKhmer": "{ $shownSides ->\n  [none] Counting area currently hidden.\n  [ស្តាំ] Currently, { $សរុប } សរុប, ឆ្វេង counting area hidden.\n  [ឆ្វេង] Currently, { $សរុប } សរុប, ស្តាំ counting area hidden.\n  *[both] { $representationType ->\n            [numberLine] Currently, សរុប of { $សរុប } splits colored sections with addend splitter knob in counting area.\n            [beads] Currently, { $សរុប } សរុប { $itemType } split by color in counting area.\n            [kittens] Currently, { $សរុប } សរុប { $itemType } split by color in counting area.\n            *[location] { a11y_introScreen_screenSummary_currentDetails_objectsPattern }\n          }\n}",
+    "khmer": "{ $shownSides ->\n  [none] តំបន់រាប់បច្ចុប្បន្នត្រូវបានលាក់។\n  [right] បច្ចុប្បន្ន ចំនួនសរុប { $total } តំបន់រាប់ខាងឆ្វេងត្រូវបានលាក់។\n  [left] បច្ចុប្បន្ន ចំនួនសរុប { $total } តំបន់រាប់ខាងស្តាំត្រូវបានលាក់។\n  *[both] { $representationType ->\n            [numberLine] បច្ចុប្បន្ន ចំនួនសរុប { $total } បំបែកផ្នែកមានពណ៌ដោយប៊ូតុងមូលបំបែកតួបូកនៅក្នុងតំបន់រាប់។\n            [beads] បច្ចុប្បន្ន { $itemType } សរុបចំនួន { $total } ត្រូវបានបំបែកតាមពណ៌នៅក្នុងតំបន់រាប់។\n            [kittens] បច្ចុប្បន្ន { $itemType } សរុបចំនួន { $total } ត្រូវបានបំបែកតាមពណ៌នៅក្នុងតំបន់រាប់។\n            *[location] { a11y_introScreen_screenSummary_currentDetails_objectsPattern }\n          }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.tenOrTwentyScreen.screenSummary.interactionHint",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [beads] Navigate to and grab bead to create groups, or move across divider to change color.\n  [kittens] Choose kitten to move, organize or change its color.\n  [numberLine] Move addend splitter knob to change length of yellow and blue sections.\n  *[location] { a11y_introScreen_screenSummary_interactionHint }\n}",
+    "currentKhmer": "{ $representationType ->\n  [beads] Navigate to and grab bead to create groups, or move across divider to change color.\n  [kittens] Choose kitten to move, organize or change its color.\n  [numberLine] Move addend splitter knob to change length of ពណ៌លឿង and ពណ៌ខៀវ sections.\n  *[location] { a11y_introScreen_screenSummary_interactionHint }\n}",
+    "khmer": "{ $representationType ->\n  [beads] រុករកទៅកាន់ និងចាប់យកគ្រាប់អង្កាំដើម្បីបង្កើតជាក្រុម ឬរំកិលឆ្លងកាត់របាំងខណ្ឌដើម្បីប្តូរពណ៌។\n  [kittens] ជ្រើសរើសកូនឆ្មាដើម្បីរំកិល រៀបចំ ឬប្តូរពណ៌របស់វា។\n  [numberLine] រំកិលប៊ូតុងមូលបំបែកតួបូកដើម្បីផ្លាស់ប្តូរប្រវែងនៃផ្នែកពណ៌លឿង និងពណ៌ខៀវ។\n  *[location] { a11y_introScreen_screenSummary_interactionHint }\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.tenOrTwentyScreen.screenSummary.playArea",
+    "status": "partially translated",
+    "english": "{ $representationType ->\n  [numberLine] There is a number line showing total as a green line broken into two sections, yellow on left and blue on right. A movable knob changes how total is broken apart by changing lengths of yellow and blue sections. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how total is broken  apart into two addends. Additionally, choose any total from { $min } to { $max } or swap addends.\n  [beads] There are movable yellow and blue beads you can slide along a wire to organize or change color to change how total is broken apart. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how total is broken  apart into two addends. Additionally, choose any total from { $min } to { $max }, automatically organize  objects, or swap addends.\n  [kittens] There are freely movable yellow and blue kittens you can organize or change color to change how total is broken apart. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how total is broken  apart into two addends. Additionally, choose any total from { $min } to { $max }, automatically organize  objects, or swap addends.\n  *[location] { a11y_playAreaIntroSentence } Additionally, choose any total from { $min } to { $max }, automatically organize  objects, or swap addends.\n}",
+    "currentKhmer": "{ $representationType ->\n  [numberLine] There is a number line showing សរុប as a green line broken into two sections, ពណ៌លឿង on ឆ្វេង and ពណ៌ខៀវ on ស្តាំ. A movable knob changes how សរុប is broken apart by changing lengths of ពណ៌លឿង and ពណ៌ខៀវ sections. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how សរុប is broken  apart into two addends. Additionally, choose any សរុប from { $min } to { $max } or swap addends.\n  [beads] There are movable ពណ៌លឿង and ពណ៌ខៀវ beads you can slide along a wire to organize or change color to change how សរុប is broken apart. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how សរុប is broken  apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize  objects, or swap addends.\n  [kittens] There are freely movable ពណ៌លឿង and ពណ៌ខៀវ kittens you can organize or change color to change how សរុប is broken apart. A decomposition phrase, { a11y_numberBondOrBarModelLowercase }, and equation represent how សរុប is broken  apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize  objects, or swap addends.\n  *[location] { a11y_playAreaIntroSentence } Additionally, choose any សរុប from { $min } to { $max }, automatically organize  objects, or swap addends.\n}",
+    "khmer": "{ $representationType ->\n  [numberLine] មានបន្ទាត់ចំនួនមួយដែលបង្ហាញចំនួនសរុបជាបន្ទាត់ពណ៌បៃតងបំបែកជាពីរផ្នែក ពណ៌លឿងនៅខាងឆ្វេង និងពណ៌ខៀវនៅខាងស្តាំ។ ប៊ូតុងមូលដែលអាចរំកិលបានផ្លាស់ប្តូររបៀបបំបែកចំនួនសរុបដោយផ្លាស់ប្តូរប្រវែងនៃផ្នែកពណ៌លឿង និងពណ៌ខៀវ។ ឃ្លាបំបែកចំនួន { a11y_numberBondOrBarModelLowercase } និងសមីការតំណាងឱ្យរបៀបដែលចំនួនសរុបត្រូវបានបំបែកចេញជាពីរតួបូក។ លើសពីនេះ អ្នកអាចជ្រើសរើសចំនួនសរុបណាមួយពី { $min } ដល់ { $max } ឬប្តូរវេនតួបូក។\n  [beads] មានគ្រាប់អង្កាំពណ៌លឿង និងពណ៌ខៀវដែលអាចរំកិលបាន ដែលអ្នកអាចរុញតាមបណ្តោយខ្សែលួសដើម្បីរៀបចំ ឬប្តូរពណ៌ ដើម្បីផ្លាស់ប្តូររបៀបបំបែកចំនួនសរុប។ ឃ្លាបំបែកចំនួន { a11y_numberBondOrBarModelLowercase } និងសមីការតំណាងឱ្យរបៀបដែលចំនួនសរុបត្រូវបានបំបែកចេញជាពីរតួបូក។ លើសពីនេះ អ្នកអាចជ្រើសរើសចំនួនសរុបណាមួយពី { $min } ដល់ { $max }, រៀបចំវត្ថុដោយស្វ័យប្រវត្តិ ឬប្តូរវេនតួបូក។\n  [kittens] មានកូនឆ្មាពណ៌លឿង និងពណ៌ខៀវដែលអាចរំកិលបានដោយសេរី ដែលអ្នកអាចរៀបចំ ឬប្តូរពណ៌ ដើម្បីផ្លាស់ប្តូររបៀបបំបែកចំនួនសរុប។ ឃ្លាបំបែកចំនួន { a11y_numberBondOrBarModelLowercase } និងសមីការតំណាងឱ្យរបៀបដែលចំនួនសរុបត្រូវបានបំបែកចេញជាពីរតួបូក។ លើសពីនេះ អ្នកអាចជ្រើសរើសចំនួនសរុបណាមួយពី { $min } ដល់ { $max }, រៀបចំវត្ថុដោយស្វ័យប្រវត្តិ ឬប្តូរវេនតួបូក។\n  *[location] { a11y_playAreaIntroSentence } លើសពីនេះ អ្នកអាចជ្រើសរើសចំនួនសរុបណាមួយពី { $min } ដល់ { $max }, រៀបចំវត្ថុដោយស្វ័យប្រវត្តិ ឬប្តូរវេនតួបូក។\n}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.totalSceneSelection.accessibleHelpText",
+    "status": "partially translated",
+    "english": "Choose total for counting area.",
+    "currentKhmer": "Choose សរុប for counting area.",
+    "khmer": "ជ្រើសរើសចំនួនសរុបសម្រាប់តំបន់រាប់។"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.totalSceneSelection.totalNumberPattern",
+    "status": "partially translated",
+    "english": "Total Number",
+    "currentKhmer": "សរុប Number",
+    "khmer": "ចំនួនសរុប"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/a11y.unknownNumber",
+    "status": "untranslated",
+    "english": "unknown number",
+    "currentKhmer": "unknown number",
+    "khmer": "ចំនួនមិនស្គាល់"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/decompositionPhrasePattern",
+    "status": "partially translated",
+    "english": "<total>{{total}}</total> can be decomposed into <left>{{leftAddend}}</left> and <right>{{rightAddend}}</right>",
+    "currentKhmer": "<total>{{total}}</total> អាចបំបែកជា <left>{{leftAddend}}</left> និង <right>{{rightAddend}}</right>",
+    "khmer": "<total>{{total}}</total> អាចបំបែកជា <left>{{leftAddend}}</left> និង <right>{{rightAddend}}</right>"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/decompositionPhraseSpeechPattern",
+    "status": "partially translated",
+    "english": "{{total}} can be decomposed into {{leftAddend}} and {{rightAddend}}",
+    "currentKhmer": "{{total}} អាចបំបែកជា {{leftAddend}} និង {{rightAddend}}",
+    "khmer": "{{total}} អាចបំបែកជា {{leftAddend}} និង {{rightAddend}}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.infoDialog.levelWithDescription",
+    "status": "partially translated",
+    "english": "Level {{level}}: {{description}}",
+    "currentKhmer": "កម្រិត {{level}}: {{description}}",
+    "khmer": "កម្រិត {{level}}៖ {{description}}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level1",
+    "status": "partially translated",
+    "english": "Missing addend in a {{numberModelType}} ({{yValueMin}}-{{yValueMax}})",
+    "currentKhmer": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} ({{yValueMin}}-{{yValueMax}})",
+    "khmer": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} ({{yValueMin}}-{{yValueMax}})"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level2",
+    "status": "partially translated",
+    "english": "Missing addend in a {{numberModelType}} ({{yValue}} only)",
+    "currentKhmer": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} (ត្រឹម {{yValue}})",
+    "khmer": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} (ត្រឹម {{yValue}} ប៉ុណ្ណោះ)"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level3",
+    "status": "partially translated",
+    "english": "Missing addend in a decomposition equation ({{yValue}} only)",
+    "currentKhmer": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការបំបែកចំនួន (ត្រឹម {{yValue}})",
+    "khmer": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការបំបែកចំនួន (ត្រឹម {{yValue}} ប៉ុណ្ណោះ)"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level4",
+    "status": "partially translated",
+    "english": "Missing addend in a sum equation ({{yValue}} only)",
+    "currentKhmer": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការផលបូក (ត្រឹម {{yValue}})",
+    "khmer": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការផលបូក (ត្រឹម {{yValue}} ប៉ុណ្ណោះ)"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level5",
+    "status": "partially translated",
+    "english": "Missing addend in a {{numberModelType}} ({{yValueMin}}-{{yValueMax}})",
+    "currentKhmer": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} ({{yValueMin}}-{{yValueMax}})",
+    "khmer": "ស្វែងរកតួបូកដែលបាត់ក្នុង {{numberModelType}} ({{yValueMin}}-{{yValueMax}})"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level6",
+    "status": "partially translated",
+    "english": "Missing addend in a decomposition equation ({{yValueMin}}-{{yValueMax}})",
+    "currentKhmer": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការបំបែកចំនួន ({{yValueMin}}-{{yValueMax}})",
+    "khmer": "ស្វែងរកតួបូកដែលបាត់ក្នុងសមីការបំបែកចំនួន ({{yValueMin}}-{{yValueMax}})"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level7",
+    "status": "partially translated",
+    "english": "Missing addend or total in a sum equation ({{yValueMin}}-{{yValueMax}})",
+    "currentKhmer": "ស្វែងរកតួបូក ឬផលបូកដែលបាត់ក្នុងសមីការផលបូក ({{yValueMin}}-{{yValueMax}})",
+    "khmer": "ស្វែងរកតួបូក ឬចំនួនសរុបដែលបាត់ក្នុងសមីការផលបូក ({{yValueMin}}-{{yValueMax}})"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/gameScreen.levelDescriptions.level8",
+    "status": "partially translated",
+    "english": "Equations with the number line ({{yValueMin}}-{{yValueMax}})",
+    "currentKhmer": "សមីការជាមួយបន្ទាត់ចំនួន ({{yValueMin}}-{{yValueMax}})",
+    "khmer": "សមីការជាមួយបន្ទាត់ចំនួន ({{yValueMin}}-{{yValueMax}})"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/keyboardHelpDialog.moveToLeftSidePattern",
+    "status": "partially translated",
+    "english": "Move grabbed {{items}} to left side",
+    "currentKhmer": "ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងឆ្វេង",
+    "khmer": "រំកិល {{items}} ដែលបានចាប់យកទៅផ្នែកខាងឆ្វេង"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/keyboardHelpDialog.moveToRightSidePattern",
+    "status": "partially translated",
+    "english": "Move grabbed {{items}} to right side",
+    "currentKhmer": "ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងស្តាំ",
+    "khmer": "រំកិល {{items}} ដែលបានចាប់យកទៅផ្នែកខាងស្តាំ"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/levelPattern",
+    "status": "partially translated",
+    "english": "Level {{level}}",
+    "currentKhmer": "កម្រិត {{level}}",
+    "khmer": "កម្រិត {{level}}"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/sumPhrasePattern",
+    "status": "partially translated",
+    "english": "<left>{{leftAddend}}</left> plus <right>{{rightAddend}}</right> equals <total>{{total}}</total>",
+    "currentKhmer": "<left>{{leftAddend}}</left> បូក <right>{{rightAddend}}</right> ស្មើនឹង <total>{{total}}</total>",
+    "khmer": "<left>{{leftAddend}}</left> បូក <right>{{rightAddend}}</right> ស្មើនឹង <total>{{total}}</total>"
+  },
+  {
+    "section": "Number Pairs",
+    "key": "NUMBER_PAIRS/sumPhraseSpeechPattern",
+    "status": "partially translated",
+    "english": "{{leftAddend}} plus {{rightAddend}} equals {{total}}",
+    "currentKhmer": "{{leftAddend}} បូក {{rightAddend}} ស្មើនឹង {{total}}",
+    "khmer": "{{leftAddend}} បូក {{rightAddend}} ស្មើនឹង {{total}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "NUMBER_SUITE_COMMON/a11y.carouselItemNode.accessibleNameSelected",
+    "status": "untranslated",
+    "english": "{{value}}, selected",
+    "currentKhmer": "{{value}}, selected",
+    "khmer": "{{value}}, បានជ្រើសរើស"
+  },
+  {
+    "section": "Shared interface",
+    "key": "NUMBER_SUITE_COMMON/a11y.languageCarousel.accessibleName",
+    "status": "untranslated",
+    "english": "Language, {{value}}",
+    "currentKhmer": "Language, {{value}}",
+    "khmer": "ភាសា, {{value}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "NUMBER_SUITE_COMMON/a11y.voiceCarousel.accessibleName",
+    "status": "untranslated",
+    "english": "Voice, {{value}}",
+    "currentKhmer": "Voice, {{value}}",
+    "khmer": "សំឡេង, {{value}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "NUMBER_SUITE_COMMON/noVoiceFoundDescription",
+    "status": "untranslated",
+    "english": "There is no voice found on this device for the selected language.",
+    "currentKhmer": "There is no voice found on this device for the selected language.",
+    "khmer": "រកមិនឃើញសំឡេងនៅលើឧបករណ៍នេះសម្រាប់ភាសាដែលបានជ្រើសរើសឡើយ។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "NUMBER_SUITE_COMMON/toDisplayASecondLanguageDescription",
+    "status": "untranslated",
+    "english": "To display a second language, run the multilingual version of this simulation at:",
+    "currentKhmer": "To display a second language, run the multilingual version of this simulation at:",
+    "khmer": "ដើម្បីបង្ហាញភាសាទីពីរ សូមដំណើរការការពិសោធកំណែពហុភាសានៅត្រង់៖"
+  },
+  {
+    "section": "Shared interface",
+    "key": "NUMBER_SUITE_COMMON/yourDeviceMaySupportDescription",
+    "status": "untranslated",
+    "english": "Your device may support downloading an additional voice for your language.",
+    "currentKhmer": "Your device may support downloading an additional voice for your language.",
+    "khmer": "ឧបករណ៍របស់អ្នកអាចគាំទ្រការទាញយកសំឡេងបន្ថែមសម្រាប់ភាសារបស់អ្នក។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.grabDrag.movable",
+    "status": "untranslated",
+    "english": "movable",
+    "currentKhmer": "movable",
+    "khmer": "អាចរំកិលបាន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.groupSort.grabbedAccessibleObjectResponse",
+    "status": "untranslated",
+    "english": "Grabbed.",
+    "currentKhmer": "Grabbed.",
+    "khmer": "បានចាប់យក។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.groupSort.navigable",
+    "status": "untranslated",
+    "english": "navigable",
+    "currentKhmer": "navigable",
+    "khmer": "អាចរុករកបាន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.groupSort.releasedAccessibleObjectResponse",
+    "status": "untranslated",
+    "english": "Released.",
+    "currentKhmer": "Released.",
+    "khmer": "បានលែង។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.groupSort.sortable",
+    "status": "untranslated",
+    "english": "sortable",
+    "currentKhmer": "sortable",
+    "khmer": "អាចតម្រៀបបាន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.info",
+    "status": "untranslated",
+    "english": "Info",
+    "currentKhmer": "Info",
+    "khmer": "ព័ត៌មាន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.draggableItems.moveDescription",
+    "status": "untranslated",
+    "english": "Move with arrow keys or W, A, S, or D keys.",
+    "currentKhmer": "Move with arrow keys or W, A, S, or D keys.",
+    "khmer": "រំកិលដោយប្រើគ្រាប់ចុចព្រួញ ឬគ្រាប់ចុច W, A, S, ឬ D។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.draggableItems.moveSlowerDescription",
+    "status": "untranslated",
+    "english": "Move slower with Shift plus arrow keys or Shift plus W, A, S, or D keys.",
+    "currentKhmer": "Move slower with Shift plus arrow keys or Shift plus W, A, S, or D keys.",
+    "khmer": "រំកិលយឺតជាងមុនដោយប្រើ Shift បូកនឹងគ្រាប់ចុចព្រួញ ឬ Shift បូកនឹងគ្រាប់ចុច W, A, S, ឬ D។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.exitDialogDescription",
+    "status": "untranslated",
+    "english": "Exit a dialog with Escape key.",
+    "currentKhmer": "Exit a dialog with Escape key.",
+    "khmer": "ចាកចេញពីផ្ទាំងប្រអប់ដោយប្រើគ្រាប់ចុច Escape។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.groupNavigationDescription",
+    "status": "partially translated",
+    "english": "Move between items in a group with Left and Right arrow keys or Up and Down arrow keys.",
+    "currentKhmer": "Move between items in a group with ឆ្វេង and ស្តាំ arrow keys or Up and Down arrow keys.",
+    "khmer": "ផ្លាស់ទីរវាងធាតុនានាក្នុងក្រុមដោយប្រើគ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ ឬគ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.pressButtonsDescription",
+    "status": "untranslated",
+    "english": "Press buttons with Space or {{enterOrReturn}} keys.",
+    "currentKhmer": "Press buttons with Space or {{enterOrReturn}} keys.",
+    "khmer": "ចុចប៊ូតុងដោយប្រើគ្រាប់ចុច Space ឬ {{enterOrReturn}}។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.resetAllDescriptionPattern",
+    "status": "partially translated",
+    "english": "Reset All with {{altOrOption}} plus R key.",
+    "currentKhmer": "កំណត់ឡើងវិញ All with {{altOrOption}} plus R key.",
+    "khmer": "កំណត់ឡើងវិញទាំងអស់ដោយប្រើ {{altOrOption}} បូកនឹងគ្រាប់ចុច R។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.setValuesInKeypadDescription",
+    "status": "untranslated",
+    "english": "Set values within keypad using number keys 0-9.",
+    "currentKhmer": "Set values within keypad using number keys 0-9.",
+    "khmer": "កំណត់តម្លៃក្នុងបន្ទះលេខដោយប្រើគ្រាប់ចុចលេខ ០-៩។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.shiftTabGroupDescription",
+    "status": "untranslated",
+    "english": "Move to previous item or group with Shift plus Tab key.",
+    "currentKhmer": "Move to previous item or group with Shift plus Tab key.",
+    "khmer": "ផ្លាស់ទីទៅកាន់ធាតុ ឬក្រុមមុនដោយប្រើគ្រាប់ចុច Shift បូកនឹង Tab។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.tabGroupDescription",
+    "status": "untranslated",
+    "english": "Move to next item or group with Tab key.",
+    "currentKhmer": "Move to next item or group with Tab key.",
+    "khmer": "ផ្លាស់ទីទៅកាន់ធាតុ ឬក្រុមបន្ទាប់ដោយប្រើគ្រាប់ចុច Tab។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.general.toggleCheckboxesDescription",
+    "status": "untranslated",
+    "english": "Toggle checkboxes with Space key.",
+    "currentKhmer": "Toggle checkboxes with Space key.",
+    "khmer": "ធីក ឬដោះប្រអប់ធីកដោយប្រើគ្រាប់ចុច Space។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.grabOrReleaseDescriptionPattern",
+    "status": "untranslated",
+    "english": "Grab or release {{thing}} with Space or {{enterOrReturn}} keys.",
+    "currentKhmer": "Grab or release {{thing}} with Space or {{enterOrReturn}} keys.",
+    "khmer": "ចាប់យក ឬលែង {{thing}} ដោយប្រើគ្រាប់ចុច Space ឬ {{enterOrReturn}}។"
+    },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.defaultStepsAdjustSliderDescriptionPattern",
+    "status": "untranslated",
+    "english": "{{adjustSlider}} with {{keys}}.",
+    "currentKhmer": "{{adjustSlider}} with {{keys}}.",
+    "khmer": "{{adjustSlider}} ដោយប្រើ {{keys}}។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.defaultStepsDescriptionPattern",
+    "status": "untranslated",
+    "english": "{{verb}} {{slider}} with {{keys}}.",
+    "currentKhmer": "{{verb}} {{slider}} with {{keys}}.",
+    "khmer": "{{verb}} {{slider}} ដោយប្រើ {{keys}}។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.jumpToMaximumDescriptionPattern",
+    "status": "untranslated",
+    "english": "Jump to {{maximum}} with End key.",
+    "currentKhmer": "Jump to {{maximum}} with End key.",
+    "khmer": "លោតទៅ {{maximum}} ដោយប្រើគ្រាប់ចុច End។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.jumpToMinimumDescriptionPattern",
+    "status": "untranslated",
+    "english": "Jump to {{minimum}} with Home key.",
+    "currentKhmer": "Jump to {{minimum}} with Home key.",
+    "khmer": "លោតទៅ {{minimum}} ដោយប្រើគ្រាប់ចុច Home។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.largerStepsAdjustSliderDescriptionPattern",
+    "status": "untranslated",
+    "english": "{{adjustInLargerSteps}} with Page Up or Page Down key.",
+    "currentKhmer": "{{adjustInLargerSteps}} with Page Up or Page Down key.",
+    "khmer": "{{adjustInLargerSteps}} ដោយប្រើគ្រាប់ចុច Page Up ឬ Page Down។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.largerStepsDescriptionPattern",
+    "status": "untranslated",
+    "english": "{{verb}} in larger steps with Page Up or Page Down key.",
+    "currentKhmer": "{{verb}} in larger steps with Page Up or Page Down key.",
+    "khmer": "{{verb}} ក្នុងជំហានធំជាងមុនដោយប្រើគ្រាប់ចុច Page Up ឬ Page Down។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.leftRightArrowKeys",
+    "status": "partially translated",
+    "english": "Left and Right arrow keys",
+    "currentKhmer": "ឆ្វេង and ស្តាំ arrow keys",
+    "khmer": "គ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.orKeysPattern",
+    "status": "untranslated",
+    "english": "{{leftRight}}, or {{upDown}}",
+    "currentKhmer": "{{leftRight}}, or {{upDown}}",
+    "khmer": "{{leftRight}}, ឬ {{upDown}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.shiftLeftRightArrowKeys",
+    "status": "partially translated",
+    "english": "Shift plus Left or Right arrow key",
+    "currentKhmer": "Shift plus ឆ្វេង or ស្តាំ arrow key",
+    "khmer": "Shift បូកនឹងគ្រាប់ចុចព្រួញឆ្វេង ឬស្តាំ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.shiftUpDownArrowKeys",
+    "status": "untranslated",
+    "english": "Shift plus Up or Down arrow key",
+    "currentKhmer": "Shift plus Up or Down arrow key",
+    "khmer": "Shift បូកនឹងគ្រាប់ចុចព្រួញឡើងលើ ឬចុះក្រោម"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.smallerStepsAdjustSliderDescriptionPattern",
+    "status": "untranslated",
+    "english": "{{adjustInSmallerSteps}} with {{keys}}.",
+    "currentKhmer": "{{adjustInSmallerSteps}} with {{keys}}.",
+    "khmer": "{{adjustInSmallerSteps}} ដោយប្រើ {{keys}}។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.smallerStepsDescriptionPattern",
+    "status": "untranslated",
+    "english": "{{verb}} in smaller steps with {{keys}}.",
+    "currentKhmer": "{{verb}} in smaller steps with {{keys}}.",
+    "khmer": "{{verb}} ក្នុងជំហានតូចជាងមុនដោយប្រើ {{keys}}។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.keyboardHelpDialog.slider.upDownArrowKeys",
+    "status": "untranslated",
+    "english": "Up and Down arrow keys",
+    "currentKhmer": "Up and Down arrow keys",
+    "khmer": "គ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.listItemPunctuation.commaPattern",
+    "status": "untranslated",
+    "english": "{{content}},",
+    "currentKhmer": "{{content}},",
+    "khmer": "{{content}},"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.listItemPunctuation.periodPattern",
+    "status": "untranslated",
+    "english": "{{content}}.",
+    "currentKhmer": "{{content}}.",
+    "khmer": "{{content}}។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.listItemPunctuation.semicolonPattern",
+    "status": "untranslated",
+    "english": "{{content}};",
+    "currentKhmer": "{{content}};",
+    "khmer": "{{content}};"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.measuringTape",
+    "status": "untranslated",
+    "english": "Measuring Tape",
+    "currentKhmer": "Measuring Tape",
+    "khmer": "ម៉ែត្រវាស់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.measuringTapeTip",
+    "status": "untranslated",
+    "english": "Measuring Tape Tip",
+    "currentKhmer": "Measuring Tape Tip",
+    "khmer": "ចុងម៉ែត្រវាស់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.negativeNumber",
+    "status": "untranslated",
+    "english": "negative { $value }",
+    "currentKhmer": "negative { $value }",
+    "khmer": "ដក { $value }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.playControlButton.play",
+    "status": "untranslated",
+    "english": "Play",
+    "currentKhmer": "Play",
+    "khmer": "ចាក់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.playControlButton.stop",
+    "status": "untranslated",
+    "english": "Stop",
+    "currentKhmer": "Stop",
+    "khmer": "បញ្ឈប់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.resetAll.accessibleContextResponse",
+    "status": "untranslated",
+    "english": "Everything reset.",
+    "currentKhmer": "Everything reset.",
+    "khmer": "អ្វីៗទាំងអស់ត្រូវបានកំណត់ឡើងវិញ។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.resetAll.accessibleName",
+    "status": "partially translated",
+    "english": "Reset All",
+    "currentKhmer": "កំណត់ឡើងវិញ All",
+    "khmer": "កំណត់ឡើងវិញទាំងអស់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.scientificNotation",
+    "status": "untranslated",
+    "english": "{ $value } times ${ $base } to the { $exponent } power",
+    "currentKhmer": "{ $value } times ${ $base } to the { $exponent } power",
+    "khmer": "{ $value } គុណនឹង ${ $base } ស្វ័យគុណ { $exponent }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.simSection.controlArea",
+    "status": "untranslated",
+    "english": "Control Area",
+    "currentKhmer": "Control Area",
+    "khmer": "តំបន់បញ្ជា"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.simSection.playArea",
+    "status": "untranslated",
+    "english": "Play Area",
+    "currentKhmer": "Play Area",
+    "khmer": "តំបន់លេង"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.simSection.screenSummary.keyboardShortcutsHint",
+    "status": "untranslated",
+    "english": "This screen has custom interactions. If needed, check out keyboard shortcuts under Sim Resources.",
+    "currentKhmer": "This screen has custom interactions. If needed, check out keyboard shortcuts under Sim Resources.",
+    "khmer": "ផ្ទាំងនេះមានអន្តរកម្មតាមបំណង។ បើចាំបាច់ សូមពិនិត្យមើលផ្លូវកាត់ក្តារចុចនៅក្រោមធនធានពិសោធ។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.simSection.screenSummary.multiScreenIntro",
+    "status": "untranslated",
+    "english": "The {{screen}} changes as you play with it. It has a Play Area and a Control Area.",
+    "currentKhmer": "The {{screen}} changes as you play with it. It has a Play Area and a Control Area.",
+    "khmer": "{{screen}} ផ្លាស់ប្តូរនៅពេលអ្នកលេងជាមួយវា។ វាមានតំបន់លេង និងតំបន់បញ្ជា។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/a11y.simSection.screenSummary.singleScreenIntroPattern",
+    "status": "untranslated",
+    "english": "{{sim}} is an interactive sim. It changes as you play with it. It has a Play Area and a Control Area.",
+    "currentKhmer": "{{sim}} is an interactive sim. It changes as you play with it. It has a Play Area and a Control Area.",
+    "khmer": "{{sim}} គឺជាការពិសោធអន្តរកម្ម។ វាផ្លាស់ប្តូរនៅពេលអ្នកលេងជាមួយវា។ វាមានតំបន់លេង និងតំបន់បញ្ជា។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.a",
+    "status": "untranslated",
+    "english": "A",
+    "currentKhmer": "A",
+    "khmer": "A"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.alt",
+    "status": "untranslated",
+    "english": "Alt",
+    "currentKhmer": "Alt",
+    "khmer": "Alt"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.backspace",
+    "status": "untranslated",
+    "english": "Backspace",
+    "currentKhmer": "Backspace",
+    "khmer": "Backspace"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.c",
+    "status": "untranslated",
+    "english": "C",
+    "currentKhmer": "C",
+    "khmer": "C"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.capsLock",
+    "status": "untranslated",
+    "english": "Caps Lock",
+    "currentKhmer": "Caps Lock",
+    "khmer": "Caps Lock"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.d",
+    "status": "untranslated",
+    "english": "D",
+    "currentKhmer": "D",
+    "khmer": "D"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.delete",
+    "status": "untranslated",
+    "english": "Delete",
+    "currentKhmer": "Delete",
+    "khmer": "Delete"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.end",
+    "status": "untranslated",
+    "english": "End",
+    "currentKhmer": "End",
+    "khmer": "End"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.enter",
+    "status": "untranslated",
+    "english": "Enter",
+    "currentKhmer": "Enter",
+    "khmer": "Enter"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.esc",
+    "status": "untranslated",
+    "english": "Esc",
+    "currentKhmer": "Esc",
+    "khmer": "Esc"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.fn",
+    "status": "untranslated",
+    "english": "Fn",
+    "currentKhmer": "Fn",
+    "khmer": "Fn"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.home",
+    "status": "untranslated",
+    "english": "Home",
+    "currentKhmer": "Home",
+    "khmer": "Home"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.l",
+    "status": "untranslated",
+    "english": "L",
+    "currentKhmer": "L",
+    "khmer": "L"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.option",
+    "status": "untranslated",
+    "english": "Option",
+    "currentKhmer": "Option",
+    "khmer": "Option"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.pageDown",
+    "status": "untranslated",
+    "english": "Pg Dn",
+    "currentKhmer": "Pg Dn",
+    "khmer": "Pg Dn"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.pageUp",
+    "status": "untranslated",
+    "english": "Pg Up",
+    "currentKhmer": "Pg Up",
+    "khmer": "Pg Up"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.r",
+    "status": "untranslated",
+    "english": "R",
+    "currentKhmer": "R",
+    "khmer": "R"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.return",
+    "status": "untranslated",
+    "english": "Return",
+    "currentKhmer": "Return",
+    "khmer": "Return"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.s",
+    "status": "untranslated",
+    "english": "S",
+    "currentKhmer": "S",
+    "khmer": "S"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.shift",
+    "status": "untranslated",
+    "english": "Shift",
+    "currentKhmer": "Shift",
+    "khmer": "Shift"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.space",
+    "status": "untranslated",
+    "english": "Space",
+    "currentKhmer": "Space",
+    "khmer": "Space"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.tab",
+    "status": "untranslated",
+    "english": "Tab",
+    "currentKhmer": "Tab",
+    "khmer": "Tab"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.toGrabOrRelease",
+    "status": "untranslated",
+    "english": "to <b>Grab</b> or <b>Release</b>",
+    "currentKhmer": "to <b>Grab</b> or <b>Release</b>",
+    "khmer": "ដើម្បី<b>ចាប់យក</b> ឬ<b>លែង</b>"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/key.w",
+    "status": "untranslated",
+    "english": "W",
+    "currentKhmer": "W",
+    "khmer": "W"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.adjust",
+    "status": "untranslated",
+    "english": "Adjust",
+    "currentKhmer": "Adjust",
+    "khmer": "កែតម្រូវ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.adjustInLargerSteps",
+    "status": "untranslated",
+    "english": "Adjust in larger steps",
+    "currentKhmer": "Adjust in larger steps",
+    "khmer": "កែតម្រូវក្នុងជំហានធំជាងមុន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.adjustInSmallerSteps",
+    "status": "untranslated",
+    "english": "Adjust in smaller steps",
+    "currentKhmer": "Adjust in smaller steps",
+    "khmer": "កែតម្រូវក្នុងជំហានតូចជាងមុន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.adjustSlider",
+    "status": "untranslated",
+    "english": "Adjust slider",
+    "currentKhmer": "Adjust slider",
+    "khmer": "កែតម្រូវគ្រាប់រំកិល"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.basicActions",
+    "status": "untranslated",
+    "english": "Basic Actions",
+    "currentKhmer": "Basic Actions",
+    "khmer": "សកម្មភាពមូលដ្ឋាន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.exitADialog",
+    "status": "untranslated",
+    "english": "Exit a dialog",
+    "currentKhmer": "Exit a dialog",
+    "khmer": "ចាកចេញពីផ្ទាំងប្រអប់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.grabOrReleaseHeadingPattern",
+    "status": "untranslated",
+    "english": "Grab or Release {{thing}}",
+    "currentKhmer": "Grab or Release {{thing}}",
+    "khmer": "ចាប់យក ឬលែង {{thing}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.grabOrReleaseLabelPattern",
+    "status": "untranslated",
+    "english": "Grab or release {{thing}}",
+    "currentKhmer": "Grab or release {{thing}}",
+    "khmer": "ចាប់យក ឬលែង {{thing}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.jumpToMaximum",
+    "status": "untranslated",
+    "english": "Jump to maximum",
+    "currentKhmer": "Jump to maximum",
+    "khmer": "លោតទៅអតិបរមា"
+    },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.jumpToMaximumPattern",
+    "status": "translated",
+    "english": "Jump to {{maximum}}",
+    "currentKhmer": "Jump to {{maximum}}",
+    "khmer": "លោតទៅ {{maximum}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.jumpToMinimum",
+    "status": "translated",
+    "english": "Jump to minimum",
+    "currentKhmer": "Jump to minimum",
+    "khmer": "លោតទៅអប្បបរមា"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.jumpToMinimumPattern",
+    "status": "translated",
+    "english": "Jump to {{minimum}}",
+    "currentKhmer": "Jump to {{minimum}}",
+    "khmer": "លោតទៅ {{minimum}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.maximum",
+    "status": "translated",
+    "english": "maximum",
+    "currentKhmer": "maximum",
+    "khmer": "អតិបរមា"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.minimum",
+    "status": "translated",
+    "english": "minimum",
+    "currentKhmer": "minimum",
+    "khmer": "អប្បបរមា"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.move",
+    "status": "translated",
+    "english": "Move",
+    "currentKhmer": "Move",
+    "khmer": "ផ្លាស់ទី"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.moveBetweenItemsInAGroup",
+    "status": "translated",
+    "english": "Move between items in a group",
+    "currentKhmer": "Move between items in a group",
+    "khmer": "ផ្លាស់ទីរវាងធាតុនៅក្នុងក្រុម"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.moveDraggableItems",
+    "status": "translated",
+    "english": "Move Draggable Items",
+    "currentKhmer": "Move Draggable Items",
+    "khmer": "ផ្លាស់ទីធាតុដែលអាចអូសបាន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.moveSlower",
+    "status": "translated",
+    "english": "Move slower",
+    "currentKhmer": "Move slower",
+    "khmer": "ផ្លាស់ទីយឺតជាងមុន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.moveToNextItemOrGroup",
+    "status": "translated",
+    "english": "Move to next item or group",
+    "currentKhmer": "Move to next item or group",
+    "khmer": "ផ្លាស់ទីទៅធាតុ ឬក្រុមបន្ទាប់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.moveToPreviousItemOrGroup",
+    "status": "translated",
+    "english": "Move to previous item or group",
+    "currentKhmer": "Move to previous item or group",
+    "khmer": "ផ្លាស់ទីទៅធាតុ ឬក្រុមមុន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.or",
+    "status": "translated",
+    "english": "or",
+    "currentKhmer": "or",
+    "khmer": "ឬ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.pressButtons",
+    "status": "translated",
+    "english": "Press buttons",
+    "currentKhmer": "Press buttons",
+    "khmer": "ចុចប៊ូតុង"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.resetAll",
+    "status": "translated",
+    "english": "Reset All",
+    "currentKhmer": "កំណត់ឡើងវិញ All",
+    "khmer": "កំណត់ឡើងវិញទាំងអស់"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.setValuesInKeypad",
+    "status": "translated",
+    "english": "Set values within keypad",
+    "currentKhmer": "Set values within keypad",
+    "khmer": "កំណត់តម្លៃនៅលើក្ដារចុចលេខ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.slider",
+    "status": "translated",
+    "english": "slider",
+    "currentKhmer": "slider",
+    "khmer": "របាររំកិល"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.sliderControls",
+    "status": "translated",
+    "english": "Slider Controls",
+    "currentKhmer": "Slider Controls",
+    "khmer": "ការបញ្ជាលើរបាររំកិល"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.timingControls.pauseOrPlayAction",
+    "status": "translated",
+    "english": "Pause or play action",
+    "currentKhmer": "Pause or play action",
+    "khmer": "ផ្អាក ឬបន្តសកម្មភាព"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.toggleCheckboxes",
+    "status": "translated",
+    "english": "Toggle checkboxes",
+    "currentKhmer": "Toggle checkboxes",
+    "khmer": "ធីក ឬដោះធីកប្រអប់ធីក"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.verbInLargerStepsPattern",
+    "status": "translated",
+    "english": "{{verb}} in larger steps",
+    "currentKhmer": "{{verb}} in larger steps",
+    "khmer": "{{verb}} ជាជំហានធំជាងមុន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.verbInSmallerStepsPattern",
+    "status": "translated",
+    "english": "{{verb}} in smaller steps",
+    "currentKhmer": "{{verb}} in smaller steps",
+    "khmer": "{{verb}} ជាជំហានតូចជាងមុន"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/keyboardHelpDialog.verbSliderPattern",
+    "status": "translated",
+    "english": "{{verb}} {{slider}}",
+    "currentKhmer": "{{verb}} {{slider}}",
+    "khmer": "{{verb}} {{slider}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/measuringTapeReadoutPattern",
+    "status": "translated",
+    "english": "{{distance}} {{units}}",
+    "currentKhmer": "{{distance}} {{units}}",
+    "khmer": "{{distance}} {{units}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SCENERY_PHET/scientificNotation",
+    "status": "translated",
+    "english": "{{value}} × {{base}}<sup>{{exponent}}</sup>",
+    "currentKhmer": "{{value}} × {{base}}<sup>{{exponent}}</sup>",
+    "khmer": "{{value}} × {{base}}<sup>{{exponent}}</sup>"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.aBSwitch.accessibleNamePattern",
+    "status": "translated",
+    "english": "{{selectedValue}}, Switch to {{otherValue}}",
+    "currentKhmer": "{{selectedValue}}, Switch to {{otherValue}}",
+    "khmer": "{{selectedValue}}, ប្តូរទៅ {{otherValue}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.carousel.accessibleRoleDescription",
+    "status": "translated",
+    "english": "carousel",
+    "currentKhmer": "carousel",
+    "khmer": "ផ្ទាំងបង្វិល"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.carousel.nextPreviousButtons.accessibleContextResponse",
+    "status": "translated",
+    "english": "{{number}} more items available.",
+    "currentKhmer": "{{number}} more items available.",
+    "khmer": "មាន {{number}} ធាតុទៀតដែលអាចប្រើបាន។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.carousel.nextPreviousButtons.previousButton.accessibleName",
+    "status": "translated",
+    "english": "Previous",
+    "currentKhmer": "Previous",
+    "khmer": "ថយក្រោយ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.carousel.page.accessibleName",
+    "status": "translated",
+    "english": "Page",
+    "currentKhmer": "Page",
+    "khmer": "ទំព័រ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.closed",
+    "status": "translated",
+    "english": "Closed",
+    "currentKhmer": "Closed",
+    "khmer": "បានបិទ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.pageControl.accessibleName",
+    "status": "translated",
+    "english": "Pages",
+    "currentKhmer": "Pages",
+    "khmer": "ទំព័រ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.pageControl.dotNode.accessibleNamePattern",
+    "status": "translated",
+    "english": "Page {{pageNumber}}",
+    "currentKhmer": "Page {{pageNumber}}",
+    "khmer": "ទំព័រ {{pageNumber}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.radioButtonGroup.combinedNameResponse",
+    "status": "translated",
+    "english": "{{groupName}}, {{buttonName}}",
+    "currentKhmer": "{{groupName}}, {{buttonName}}",
+    "khmer": "{{groupName}}, {{buttonName}}"
+  },
+  {
+    "section": "Shared interface",
+    "key": "SUN/a11y.titleClosePattern",
+    "status": "translated",
+    "english": "{{title}}, Close.",
+    "currentKhmer": "{{title}}, បិទ.",
+    "khmer": "{{title}}, បិទ។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.challengeScreenNode.accessibleAnswerSection",
+    "status": "translated",
+    "english": "Answer Submission",
+    "currentKhmer": "Answer Submission",
+    "khmer": "ការដាក់បញ្ជូនចម្លើយ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.challengeScreenNode.accessibleHeadingChallenge",
+    "status": "translated",
+    "english": "Challenge",
+    "currentKhmer": "Challenge",
+    "khmer": "ការប្រកួតប្រជែង"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.checkButton.accessibleName",
+    "status": "translated",
+    "english": "Check Answer",
+    "currentKhmer": "ផ្ទៀងផ្ទាត់ Answer",
+    "khmer": "ផ្ទៀងផ្ទាត់ចម្លើយ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.gameInfoButton.accessibleHelpText",
+    "status": "translated",
+    "english": "If needed, read brief details for each level.",
+    "currentKhmer": "If needed, read brief details for each level.",
+    "khmer": "ប្រសិនបើចាំបាច់ សូមអានព័ត៌មានលម្អិតសង្ខេបសម្រាប់កម្រិតនីមួយៗ។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.gameInfoButton.accessibleName",
+    "status": "translated",
+    "english": "Game Info",
+    "currentKhmer": "Game Info",
+    "khmer": "ព័ត៌មានអំពីហ្គេម"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.keyboardHelpDialog.checkAnswerButton.accessibleParagraph",
+    "status": "translated",
+    "english": "Check Answer with { $altOrOption } key plus C key.",
+    "currentKhmer": "ផ្ទៀងផ្ទាត់ Answer with { $altOrOption } key plus C key.",
+    "khmer": "ផ្ទៀងផ្ទាត់ចម្លើយដោយចុចគ្រាប់ចុច { $altOrOption } បូកនឹងគ្រាប់ចុច C។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionButton.accessibleName",
+    "status": "translated",
+    "english": "Level { $levelNumber }, { $scoreDescription }",
+    "currentKhmer": "កម្រិត { $levelNumber }, { $scoreDescription }",
+    "khmer": "កម្រិត { $levelNumber }, { $scoreDescription }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionButton.accessibleNameWithLevelName",
+    "status": "translated",
+    "english": "Level { $levelNumber }: { $levelName }, { $scoreDescription }",
+    "currentKhmer": "កម្រិត { $levelNumber }: { $levelName }, { $scoreDescription }",
+    "khmer": "កម្រិត { $levelNumber }៖ { $levelName }, { $scoreDescription }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionScreenNode.accessibleContextResponseShow",
+    "status": "translated",
+    "english": "Choose Your Level!",
+    "currentKhmer": "Choose Your កម្រិត!",
+    "khmer": "ជ្រើសរើសកម្រិតរបស់អ្នក!"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionScreenNode.accessibleHeadingChooseLevel",
+    "status": "translated",
+    "english": "Choose Your Level",
+    "currentKhmer": "Choose Your កម្រិត",
+    "khmer": "ជ្រើសរើសកម្រិតរបស់អ្នក"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionScreenNode.accessibleHeadingOptions",
+    "status": "translated",
+    "english": "Game Options",
+    "currentKhmer": "Game Options",
+    "khmer": "ជម្រើសហ្គេម"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionScreenNode.screenSummary.intro",
+    "status": "translated",
+    "english": "Welcome to the { $screenName } Screen. Choose a level to start earning stars. Clear everything with Reset All to start over.",
+    "currentKhmer": "Welcome to the { $screenName } ផ្ទាំង. Choose a level to start earning stars. សម្អាត everything with កំណត់ឡើងវិញ All to start over.",
+    "khmer": "សូមស្វាគមន៍មកកាន់ផ្ទាំង { $screenName }។ ជ្រើសរើសកម្រិតមួយដើម្បីចាប់ផ្ដើមរកផ្កាយ។ សម្អាតអ្វីៗគ្រប់យ៉ាងដោយកំណត់ឡើងវិញទាំងអស់ ដើម្បីចាប់ផ្ដើមសារជាថ្មី។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.levelSelectionScreenNode.screenSummary.introWithOptions",
+    "status": "translated",
+    "english": "Welcome to the { $screenName } Screen. Choose a level to start earning stars. Set available game options to your liking. Clear everything with Reset All to start over.",
+    "currentKhmer": "Welcome to the { $screenName } ផ្ទាំង. Choose a level to start earning stars. Set available game options to your liking. សម្អាត everything with កំណត់ឡើងវិញ All to start over.",
+    "khmer": "សូមស្វាគមន៍មកកាន់ផ្ទាំង { $screenName }។ ជ្រើសរើសកម្រិតមួយដើម្បីចាប់ផ្ដើមរកផ្កាយ។ កំណត់ជម្រើសហ្គេមដែលមានតាមចំណង់ចំណូលចិត្តរបស់អ្នក។ សម្អាតអ្វីៗគ្រប់យ៉ាងដោយកំណត់ឡើងវិញទាំងអស់ ដើម្បីចាប់ផ្ដើមសារជាថ្មី។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.rewardDialog.accessibleContextResponseShown",
+    "status": "translated",
+    "english": "Level { $levelNumber } complete with { $stars }.",
+    "currentKhmer": "កម្រិត { $levelNumber } complete with { $stars }.",
+    "khmer": "កម្រិត { $levelNumber } បានបញ្ចប់ដោយទទួលបាន { $stars }។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.rewardDialog.accessibleName",
+    "status": "translated",
+    "english": "Level { $levelNumber } Summary",
+    "currentKhmer": "កម្រិត { $levelNumber } Summary",
+    "khmer": "សង្ខេបលទ្ធផលកម្រិត { $levelNumber }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.rewardDialog.keepGoingButton.accessibleContextResponse",
+    "status": "translated",
+    "english": "Continue playing Level { $levelNumber }.",
+    "currentKhmer": "Continue playing កម្រិត { $levelNumber }.",
+    "khmer": "បន្តលេងកម្រិត { $levelNumber }។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.rewardDialog.newLevelButton.accessibleParagraph",
+    "status": "translated",
+    "english": "Choose a New Level or Keep Going with Level { $levelNumber }.",
+    "currentKhmer": "Choose a New កម្រិត or Keep Going with កម្រិត { $levelNumber }.",
+    "khmer": "ជ្រើសរើសកម្រិតថ្មី ឬបន្តលេងកម្រិត { $levelNumber }។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.rewardDialog.phetGirl.accessibleParagraph",
+    "status": "translated",
+    "english": "PhET Girl juggles a few of your { $stars }.",
+    "currentKhmer": "PhET Girl juggles a few of your { $stars }.",
+    "khmer": "ក្មេងស្រី PhET កំពុងលេងសៀកបោះទូល្បែងជាមួយនឹង { $stars } មួយចំនួនរបស់អ្នក។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.scoreDisplays.scoreDisplayNumberAndStar.accessibleScore",
+    "status": "translated",
+    "english": "{ $stars ->\n  [one] { $stars } star\n  *[other] { $stars } stars\n }",
+    "currentKhmer": "{ $stars ->\n  [one] { $stars } star\n  *[other] { $stars } stars\n }",
+    "khmer": "{ $stars ->\n  [one] ផ្កាយ { $stars }\n  *[other] ផ្កាយ { $stars }\n }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.scoreDisplays.scoreDisplayStars.accessibleScore",
+    "status": "translated",
+    "english": "{ $stars ->\n  [one] { $stars } star\n  *[other] { $stars } stars\n }",
+    "currentKhmer": "{ $stars ->\n  [one] { $stars } star\n  *[other] { $stars } stars\n }",
+    "khmer": "{ $stars ->\n  [one] ផ្កាយ { $stars }\n  *[other] ផ្កាយ { $stars }\n }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.statusBar.accessibleHeading",
+    "status": "translated",
+    "english": "Level Progress",
+    "currentKhmer": "កម្រិត Progress",
+    "khmer": "វឌ្ឍនភាពនៃកម្រិត"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.statusBar.accessibleHeadingWithLevelNumber",
+    "status": "translated",
+    "english": "Level { $levelNumber } Progress",
+    "currentKhmer": "កម្រិត { $levelNumber } Progress",
+    "khmer": "វឌ្ឍនភាពកម្រិត { $levelNumber }"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/a11y.statusBar.backButton.accessibleHelpText",
+    "status": "translated",
+    "english": "Go back to choose a new level.",
+    "currentKhmer": "Go back to choose a new level.",
+    "khmer": "ត្រឡប់ក្រោយដើម្បីជ្រើសរើសកម្រិតថ្មី។"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/keyboardHelpDialog.checkAnswer",
+    "status": "translated",
+    "english": "Check Answer",
+    "currentKhmer": "ផ្ទៀងផ្ទាត់ Answer",
+    "khmer": "ផ្ទៀងផ្ទាត់ចម្លើយ"
+  },
+  {
+    "section": "Shared interface",
+    "key": "VEGAS/keyboardHelpDialog.gameShortcuts",
+    "status": "translated",
+    "english": "Game Shortcuts",
+    "currentKhmer": "Game Shortcuts",
+    "khmer": "ផ្លូវកាត់សម្រាប់ហ្គេម"
+  }
+]
+}

@@ -104,6 +104,11 @@ const translations = {
   'NUMBER_PAIRS/a11y.keyboardHelpDialog.changeKittenColor': 'ប្តូរពណ៌កូនឆ្មា',
   'NUMBER_PAIRS/a11y.keyboardHelpDialog.kittenSectionHeading': 'ធ្វើសកម្មភាពជាមួយកូនឆ្មា',
   'NUMBER_PAIRS/a11y.keyboardHelpDialog.adjustObjectsTitle': 'កែសម្រួលចំនួនវត្ថុមានពណ៌',
+  'NUMBER_PAIRS/a11y.keyboardHelpDialog.adjustObjectsKeyboard.labelInnerContent': 'កែតម្រូវចំនួនវត្ថុដោយប្រើគ្រាប់ចុចព្រួញ។',
+  'NUMBER_PAIRS/a11y.keyboardHelpDialog.kittenInteraction.changeColorLabelInnerContent': '{ $key ->\n  [enter] ប្តូរពណ៌ដោយប្រើគ្រាប់ចុច Space ឬ Enter។\n  *[return] ប្តូរពណ៌ដោយប្រើគ្រាប់ចុច Space ឬ Return។\n}',
+  'NUMBER_PAIRS/a11y.keyboardHelpDialog.kittenInteraction.jumpToFirstLabelInnerContent': 'លោតទៅកូនឆ្មាដំបូងគេដោយប្រើគ្រាប់ចុច Home។',
+  'NUMBER_PAIRS/a11y.keyboardHelpDialog.kittenInteraction.jumpToLastLabelInnerContent': 'លោតទៅកូនឆ្មាចុងក្រោយគេដោយប្រើគ្រាប់ចុច End។',
+  'NUMBER_PAIRS/a11y.keyboardHelpDialog.moveAcrossDescription.labelInnerContent': 'រំកិល { $item } ដែលបានចាប់យកទៅខាង { $addend } ដោយប្រើគ្រាប់ចុច { $key }។',
   'NUMBER_PAIRS/a11y.keyboardHelpDialog.numberOfObjects': 'ចំនួនវត្ថុ',
   'NUMBER_PAIRS/a11y.left': 'ឆ្វេង',
   'NUMBER_PAIRS/a11y.leftAddendColor': 'ពណ៌លឿង',
@@ -120,8 +125,20 @@ const translations = {
     'NUMBER_PAIRS/keyboardHelpDialog.introScreen.moveGrabbableItemHeading': 'ផ្លាស់ទីវត្ថុដែលបានចាប់',
     'NUMBER_PAIRS/keyboardHelpDialog.kittenSectionHeading': 'ធ្វើអន្តរកម្មជាមួយកូនឆ្មា',
     'NUMBER_PAIRS/keyboardHelpDialog.moveBeadsToOppositeSide': 'ផ្លាស់ទីអង្កាំទៅផ្នែកម្ខាងទៀត',
+    'NUMBER_PAIRS/keyboardHelpDialog.adjustObjectsTitle': 'កែតម្រូវចំនួនវត្ថុដែលមានពណ៌',
+    'NUMBER_PAIRS/keyboardHelpDialog.changeKittenColor': 'ប្តូរពណ៌កូនឆ្មា',
+    'NUMBER_PAIRS/keyboardHelpDialog.countingObjectOrBead': 'ផ្លែប៉ោម លេខមួយ ឬគ្រាប់អង្កាំ',
+    'NUMBER_PAIRS/keyboardHelpDialog.jumpToFirstKitten': 'លោតទៅកូនឆ្មាដំបូងគេ',
+    'NUMBER_PAIRS/keyboardHelpDialog.jumpToLastKitten': 'លោតទៅកូនឆ្មាចុងក្រោយគេ',
+    'NUMBER_PAIRS/keyboardHelpDialog.moveGrabbedObjectToOppositeSide': 'រំកិលវត្ថុដែលបានចាប់យកទៅផ្នែកម្ខាងទៀត',
+    'NUMBER_PAIRS/keyboardHelpDialog.numberOfObjects': 'ចំនួនវត្ថុ',
+    'NUMBER_PAIRS/keyboardHelpDialog.object': 'វត្ថុ',
+    'NUMBER_PAIRS/keyboardHelpDialog.objectHeading': 'វត្ថុ',
     'NUMBER_PAIRS/keyboardHelpDialog.moveToLeftSidePattern': 'ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងឆ្វេង',
     'NUMBER_PAIRS/keyboardHelpDialog.moveToRightSidePattern': 'ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងស្តាំ',
+    'NUMBER_PAIRS/keyboardHelpDialog.sumScreen.moveGrabbableItemHeading': 'រំកិលកូនឆ្មា ឬគ្រាប់អង្កាំដែលបានចាប់យក',
+    'NUMBER_PAIRS/keyboardHelpDialog.tenScreen.moveGrabbableItemHeading': 'រំកិលកូនឆ្មា ឬគ្រាប់អង្កាំដែលបានចាប់យក',
+    'NUMBER_PAIRS/keyboardHelpDialog.twentyScreen.moveGrabbableItemHeading': 'រំកិលវត្ថុដែលបានចាប់យកនៅក្នុងតំបន់រាប់',
   // VEGAS (game feedback)
   'VEGAS/check': 'ផ្ទៀងផ្ទាត់',
   'VEGAS/chooseYourLevel': 'ជ្រើសរើសកម្រិតរបស់អ្នក!',
@@ -171,6 +188,10 @@ const translations = {
   'JOIST/a11y.home': 'ទំព័រដើម',
   'JOIST/a11y.goToScreenPattern': 'ទៅកាន់ផ្ទាំង {{name}}',
   'JOIST/a11y.keyboardHelp.keyboardShortcuts': 'ផ្លូវកាត់ក្ដារចុច',
+  'JOIST/a11y.keyboardHelp.tabToGetStarted.accessibleHelpText': 'ប្រើគ្រាប់ចុច Tab ដើម្បីស្វែងរកសកម្មភាពពិសោធន៏ និងគ្រាប់ចុចព្រួញដើម្បីអានព័ត៌មានលម្អិត។',
+  'JOIST/a11y.keyboardHelp.tabToGetStarted.readingBlockNameResponse': 'ចុច Tab ដើម្បីចាប់ផ្តើម។',
+  'JOIST/keyboardShortcuts.title': 'ផ្លូវកាត់ក្តារចុច',
+  'JOIST/keyboardShortcuts.toGetStarted': 'ដើម្បីចាប់ផ្តើម',
   'JOIST/credits.title': 'ក្រេឌីត',
   'JOIST/donateToPhet': 'បរិច្ចាគដល់ PhET',
   'JOIST/license.title': 'អាជ្ញាប័ណ្ណ',
@@ -193,6 +214,16 @@ const translations = {
   'JOIST/termsPrivacyAndLicensing': 'លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាប័ណ្ណ',
   'JOIST/versionPattern': 'កំណែ {0}'
 };
+
+const reviewedTranslations = JSON.parse( fs.readFileSync( 'website_khmer_translation_audit.json', 'utf8' ) );
+for ( const entry of reviewedTranslations.translations ) {
+  if ( !Object.hasOwn( en, entry.key ) ) {
+    throw new Error( `Unknown translation key in website_khmer_translation_audit.json: ${entry.key}` );
+  }
+  if ( typeof entry.khmer === 'string' && entry.khmer.trim() ) {
+    translations[ entry.key ] = entry.khmer;
+  }
+}
 
 // Fill all 587 strings. For keys with direct translation, use it; for others, provide Khmer or preserve structure
 for (const [key, val] of Object.entries(en)) {

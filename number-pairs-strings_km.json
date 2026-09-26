@@ -387,19 +387,19 @@
     "value": "{ a11y_playAreaIntroSentence } A decomposition phrase and a   { a11y_numberBondOrBarModelLowercase } represent the សរុប number broken apart into two addends. Additionally, choose any សរុប from { $min } to { $max }, automatically organize objects into rows, or swap addends."
   },
   "a11y.keyboardHelpDialog.adjustObjectsKeyboard.labelInnerContent": {
-    "value": "Adjust number of objects with arrow keys."
+    "value": "កែតម្រូវចំនួនវត្ថុដោយប្រើគ្រាប់ចុចព្រួញ។"
   },
   "a11y.keyboardHelpDialog.kittenInteraction.changeColorLabelInnerContent": {
-    "value": "{ $key ->\n  [enter] Change color with Space or Enter key.\n  *[return] Change color with Space or Return key.\n}"
+    "value": "{ $key ->\n  [enter] ប្តូរពណ៌ដោយប្រើគ្រាប់ចុច Space ឬ Enter។\n  *[return] ប្តូរពណ៌ដោយប្រើគ្រាប់ចុច Space ឬ Return។\n}"
   },
   "a11y.keyboardHelpDialog.kittenInteraction.jumpToFirstLabelInnerContent": {
-    "value": "Jump to first kitten with Home key."
+    "value": "លោតទៅកូនឆ្មាដំបូងគេដោយប្រើគ្រាប់ចុច Home។"
   },
   "a11y.keyboardHelpDialog.kittenInteraction.jumpToLastLabelInnerContent": {
-    "value": "Jump to last kitten with End key."
+    "value": "លោតទៅកូនឆ្មាចុងក្រោយគេដោយប្រើគ្រាប់ចុច End។"
   },
   "a11y.keyboardHelpDialog.moveAcrossDescription.labelInnerContent": {
-    "value": "Move grabbed { $item } to { $addend } side with { $key } key."
+    "value": "រំកិល { $item } ដែលបានចាប់យកទៅខាង { $addend } ដោយប្រើគ្រាប់ចុច { $key }។"
   },
   "a11y.kittens.accessibleHelpText": {
     "value": "Look for movable kittens. Once focused, use keyboard shortcuts to change color or move around."
@@ -636,7 +636,7 @@
     "value": "សមីការជាមួយបន្ទាត់ចំនួន ({{yValueMin}}-{{yValueMax}})"
   },
   "keyboardHelpDialog.adjustObjectsTitle": {
-    "value": "Adjust Number of Colored Objects"
+    "value": "កែតម្រូវចំនួនវត្ថុដែលមានពណ៌"
   },
   "keyboardHelpDialog.bead": {
     "value": "អង្កាំ"
@@ -645,10 +645,10 @@
     "value": "អង្កាំ"
   },
   "keyboardHelpDialog.changeKittenColor": {
-    "value": "Change kitten color"
+    "value": "ប្តូរពណ៌កូនឆ្មា"
   },
   "keyboardHelpDialog.countingObjectOrBead": {
-    "value": "apple, one, or bead"
+    "value": "ផ្លែប៉ោម លេខមួយ ឬគ្រាប់អង្កាំ"
   },
   "keyboardHelpDialog.countingObjectOrBeadHeading": {
     "value": "ផ្លែប៉ោម, ប័ណ្ណលេខមួយ, ឬអង្កាំ"
@@ -660,10 +660,10 @@
     "value": "ផ្លាស់ទីវត្ថុដែលបានចាប់"
   },
   "keyboardHelpDialog.jumpToFirstKitten": {
-    "value": "Jump to first kitten"
+    "value": "លោតទៅកូនឆ្មាដំបូងគេ"
   },
   "keyboardHelpDialog.jumpToLastKitten": {
-    "value": "Jump to last kitten"
+    "value": "លោតទៅកូនឆ្មាចុងក្រោយគេ"
   },
   "keyboardHelpDialog.kittenSectionHeading": {
     "value": "ធ្វើអន្តរកម្មជាមួយកូនឆ្មា"
@@ -672,7 +672,7 @@
     "value": "ផ្លាស់ទីអង្កាំទៅផ្នែកម្ខាងទៀត"
   },
   "keyboardHelpDialog.moveGrabbedObjectToOppositeSide": {
-    "value": "Move Grabbed Object to Opposite Side"
+    "value": "រំកិលវត្ថុដែលបានចាប់យកទៅផ្នែកម្ខាងទៀត"
   },
   "keyboardHelpDialog.moveToLeftSidePattern": {
     "value": "ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងឆ្វេង"
@@ -681,22 +681,22 @@
     "value": "ផ្លាស់ទី {{items}} ដែលបានចាប់ទៅផ្នែកខាងស្តាំ"
   },
   "keyboardHelpDialog.numberOfObjects": {
-    "value": "number of objects"
+    "value": "ចំនួនវត្ថុ"
   },
   "keyboardHelpDialog.object": {
-    "value": "object"
+    "value": "វត្ថុ"
   },
   "keyboardHelpDialog.objectHeading": {
-    "value": "Object"
+    "value": "វត្ថុ"
   },
   "keyboardHelpDialog.sumScreen.moveGrabbableItemHeading": {
-    "value": "Move កូនឆ្មា or Grabbed អង្កាំ"
+    "value": "រំកិលកូនឆ្មា ឬគ្រាប់អង្កាំដែលបានចាប់យក"
   },
   "keyboardHelpDialog.tenScreen.moveGrabbableItemHeading": {
-    "value": "Move កូនឆ្មា or Grabbed អង្កាំ"
+    "value": "រំកិលកូនឆ្មា ឬគ្រាប់អង្កាំដែលបានចាប់យក"
   },
   "keyboardHelpDialog.twentyScreen.moveGrabbableItemHeading": {
-    "value": "Move Grabbed Object in Counting Area"
+    "value": "រំកិលវត្ថុដែលបានចាប់យកនៅក្នុងតំបន់រាប់"
   },
   "levelPattern": {
     "value": "កម្រិត {{level}}"

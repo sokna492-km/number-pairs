@@ -47,12 +47,12 @@
   {
     "key": "JOIST/a11y.keyboardHelp.tabToGetStarted.accessibleHelpText",
     "en": "‪Use Tab to find sim actions, cursor keys to read details.‬",
-    "km": "‪Use Tab to find sim actions, cursor keys to read details.‬"
+    "km": "‪ប្រើគ្រាប់ចុច Tab ដើម្បីស្វែងរកសកម្មភាពពិសោធន៏ និងគ្រាប់ចុចព្រួញដើម្បីអានព័ត៌មានលម្អិត។‬"
   },
   {
     "key": "JOIST/a11y.keyboardHelp.tabToGetStarted.readingBlockNameResponse",
     "en": "‪Tab to get started.‬",
-    "km": "‪Tab to get started.‬"
+    "km": "‪ចុច Tab ដើម្បីចាប់ផ្តើម។‬"
   },
   {
     "key": "JOIST/a11y.phetMenu",
@@ -462,12 +462,12 @@
   {
     "key": "JOIST/keyboardShortcuts.title",
     "en": "‪Keyboard Shortcuts‬",
-    "km": "‪Keyboard Shortcuts‬"
+    "km": "‪ផ្លូវកាត់ក្តារចុច‬"
   },
   {
     "key": "JOIST/keyboardShortcuts.toGetStarted",
     "en": "‪to get started‬",
-    "km": "‪to get started‬"
+    "km": "‪ដើម្បីចាប់ផ្តើម‬"
   },
   {
     "key": "JOIST/license.title",

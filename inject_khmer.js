@@ -112,12 +112,19 @@ html = html.replace(
 
 // 4. Inject window.phet.chipper.strings.km
 const kmPayload = JSON.stringify(kmStrings);
-const kmInjection = `\nwindow.phet.chipper.strings.km = ${kmPayload};\n`;
+const kmAssignment = `window.phet.chipper.strings.km = ${kmPayload};\n`;
+const existingKmStringsIndex = html.indexOf('window.phet.chipper.strings.km =');
 
-if (!html.includes('window.phet.chipper.strings.km =')) {
+if (existingKmStringsIndex >= 0) {
+  const metadataIndex = html.indexOf('window.phet.chipper.stringMetadata =', existingKmStringsIndex);
+  if (metadataIndex < 0) {
+    throw new Error('Could not find string metadata after the existing Khmer strings payload');
+  }
+  html = html.slice(0, existingKmStringsIndex) + kmAssignment + html.slice(metadataIndex);
+} else {
   html = html.replace(
     'window.phet.chipper.stringMetadata =',
-    `${kmInjection}window.phet.chipper.stringMetadata =`
+    `${kmAssignment}window.phet.chipper.stringMetadata =`
   );
 }
 
